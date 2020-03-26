@@ -37,7 +37,9 @@ namespace TimbradoNomina.NominaObjects
         public string NoDocumentos { get; set; }
         public string OkPath { get { return RutaDirectorio.Replace("\\Origen", "\\Timbrados"); } }
         //public string OkPathSelf { get { return RutaDirectorio.Replace("\\Origen", "\\Timbrado_Nomina"); } }//Desarrollo
-        public string OkPathSelf { get { return RutaDirectorio.Replace("\\TimbradoNominaParaRH\\Origen", "\\Timbrado_Nomina"); } }//Produccion
+        //Orginal
+        //public string OkPathSelf { get { return RutaDirectorio.Replace("\\TimbradoNominaParaRH\\Origen", "\\Timbrado_Nomina"); } }//Produccion
+        public string OkPathSelf { get { return RutaDirectorio.Replace("\\Timbrado_Nomina\\Origen", "\\TimbradoNominaParaRH\\Timbrados"); } }//Produccion
         public string BadPath { get { return RutaDirectorio.Replace("\\Origen", "\\SinTimbrar"); } }
         public bool HuboError = false;
     }

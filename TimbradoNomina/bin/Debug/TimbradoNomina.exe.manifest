@@ -49,7 +49,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>dZMav3G1AkzBu4RqhrwgIF6+D/LrJigv5OQ2bWGgMwY=</dsig:DigestValue>
+        <dsig:DigestValue>W5J26Pze/Ibm47PKxN30MMn5ki3wfGlKcPL0T+xu10c=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -78,14 +78,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TimbradoNomina.exe" size="84992">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TimbradoNomina.exe" size="86528">
       <assemblyIdentity name="TimbradoNomina" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>kzWhaJb0UdChct/VwWegN1Rrt+rrc2Vd9UOWNp+Bb7g=</dsig:DigestValue>
+        <dsig:DigestValue>Kc9JxIc+KJ2SB/Sc2aCFkQ5fQlRzGEC4Cg943lOUoYQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

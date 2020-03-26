@@ -3,6 +3,8 @@ using QRCoder;
 using System.Collections.Generic;
 using System.Xml;
 using System;
+using System.Data.SqlClient;
+using System.Configuration;
 ///////
 /*
 instalar QRCoder desde consola nuget: 
@@ -12,6 +14,8 @@ dentro de VS, menu Herramientas -> Administrador de paquetes NuGet -> Consola de
 PM> Install-Package QRCoder
 */
 ///////
+
+
 
 
 
@@ -34,7 +38,7 @@ namespace TimbradoNomina
 
             return rutaQR + nombreQR;
         }
-
+        //ORIGINAL
         public string leerXML(string xml, string rutaQR, string nombreQR, string urlQR)
         {
             string pathQR = "";
@@ -48,7 +52,7 @@ namespace TimbradoNomina
             XmlElement root = xmlDoc.DocumentElement;
 
             //encabezado************************************************************
-            string serie = "", folio = "", fechaCertificacion = "", fechaEmision = "", selloSAT = "", selloCFD = "", folioFiscal = "", version = "";
+            string serie = "", folio = "", fechaCertificacion = "", fechaEmision = "", selloSAT = "", selloCFD = "", folioFiscal = "", version = "", tipoComprobante = "";
 
             List<string> atributosRoot = new List<string>();
 
@@ -61,6 +65,7 @@ namespace TimbradoNomina
             folio = atributosRoot.Contains("Folio") ? root.Attributes["Folio"].Value : "";
             fechaEmision = atributosRoot.Contains("Fecha") ? root.Attributes["Fecha"].Value : "";
             version = atributosRoot.Contains("Version") ? root.Attributes["Version"].Value : "";
+            tipoComprobante = atributosRoot.Contains("TipoDeComprobante") ? root.Attributes["TipoDeComprobante"].Value : "";
 
             XmlNode timbreFiscal = null;
 
@@ -81,7 +86,7 @@ namespace TimbradoNomina
             }
             //encabezado************************************************************
             //emisor************************************************************
-            string nombreEmisor = "", rfcEmisor = "", calle = "", noExterior = "", noInterior = "", colonia = "", municipio = "", codigoPostal = "", pais = "";
+            string nombreEmisor = "", rfcEmisor = "", calle = "", noExterior = "", noInterior = "", colonia = "", municipio = "", codigoPostal = "", pais = "", RegistroPatronal = "";
             string estado = "", regimenFiscal = "";
 
             XmlNode emisor = xmlDoc.SelectSingleNode("/x:Comprobante/x:Emisor", nsMgr);
@@ -115,12 +120,30 @@ namespace TimbradoNomina
 
             }
             XmlNode regimenFiscalEmisor = xmlDoc.SelectSingleNode("/x:Comprobante/x:Emisor/@RegimenFiscal", nsMgr);
-            regimenFiscal = regimenFiscalEmisor.Value;
+
+            if (regimenFiscalEmisor != null)
+            { regimenFiscal = regimenFiscalEmisor.Value; }
+            else
+            {
+                XmlNodeList nodeEmisor = xmlDoc.GetElementsByTagName("cfdi:Emisor");
+
+                foreach (XmlElement nodo in nodeEmisor)
+                {
+                    regimenFiscal = nodo.GetAttribute("RegimenFiscal");
+                    if (string.IsNullOrEmpty(regimenFiscal))
+                    {
+                        regimenFiscal = nodo.GetAttribute("regimenfiscal");
+                    }
+                }
+
+
+            }
+
 
             //emisor************************************************************
             //receptor************************************************************
             string nombreReceptor = "", rfcReceptor = "", noEmpleado = "", nssReceptor = "", curpReceptor = "", salarioBase = "", departamento = "", diasTrabajados = "";
-            string certificadoDigital = "", serieCertificadoSAT = "", periodoPagoInicial = "", periodoPagoFinal = "", cadenaOriginalCertificadoSAT = "";
+            string certificadoDigital = "", serieCertificadoSAT = "", periodoPagoInicial = "", periodoPagoFinal = "", cadenaOriginalCertificadoSAT = "", numeroCuentaPago = "", banco = "";
 
             XmlNode receptor = xmlDoc.SelectSingleNode("/x:Comprobante/x:Receptor", nsMgr);
 
@@ -150,12 +173,15 @@ namespace TimbradoNomina
                 //cadenaOriginalCertificadoSAT = atributosRoot.Contains("certificado") ? root.Attributes["certificado"].Value : "";
             }
 
+            XmlNode NominaEmisor = null;
             XmlNode nominaReceptor = null;
 
             if (nomina != null) //LQMA add 12052017 que no sea null
                 foreach (XmlNode nodo in nomina)
                     if (nodo.Name == "nomina12:Receptor")
                         nominaReceptor = nodo;
+                    else if (nodo.Name == "nomina12:Emisor")
+                        NominaEmisor = nodo;
 
             if (nominaReceptor != null)
             {
@@ -168,15 +194,20 @@ namespace TimbradoNomina
                 curpReceptor = atributosNominaReceptor.Contains("Curp") ? nominaReceptor.Attributes["Curp"].Value : "";
                 departamento = atributosNominaReceptor.Contains("Departamento") ? nominaReceptor.Attributes["Departamento"].Value : "";
                 salarioBase = atributosNominaReceptor.Contains("SalarioBaseCotApor") ? nominaReceptor.Attributes["SalarioBaseCotApor"].Value : "";
+                numeroCuentaPago = atributosNominaReceptor.Contains("CuentaBancaria") ? nominaReceptor.Attributes["CuentaBancaria"].Value : "";
+                banco = atributosNominaReceptor.Contains("Banco") ? nominaReceptor.Attributes["Banco"].Value + " " + this.ConsultaBanco((nominaReceptor.Attributes["Banco"].Value)) : "";
             }
-
+            if (NominaEmisor != null)
+            {
+                RegistroPatronal = NominaEmisor.Attributes["RegistroPatronal"].Value;
+            }
 
             if (timbreFiscal != null)
                 serieCertificadoSAT = timbreFiscal.Attributes["NoCertificadoSAT"].Value;
 
             //receptor************************************************************
             //percepciones********************************************************
-            string totalPercepciones = "0", totalExentoPer = "0";
+            string totalPercepciones = "0", totalExentoPer = "0", totalGravado = "0"; ;
 
             List<Conceptos> Percepciones = new List<Conceptos>();
             XmlNode nodoPercepciones = null;
@@ -190,23 +221,23 @@ namespace TimbradoNomina
             {
                 ////LQMA add 12052017 que no sea null
                 if (nodoPercepciones.Attributes["TotalGravado"] != null)
-                    totalPercepciones = nodoPercepciones.Attributes["TotalGravado"].Value;
+                    totalPercepciones = Convert.ToDecimal(nodoPercepciones.Attributes["TotalGravado"].Value).ToString("N");
                 ////LQMA add 12052017 que no sea null
                 if (nodoPercepciones.Attributes["TotalExento"] != null)
-                    totalExentoPer = nodoPercepciones.Attributes["TotalExento"].Value;
+                    totalExentoPer = Convert.ToDecimal(nodoPercepciones.Attributes["TotalExento"].Value).ToString("N");
 
-                totalPercepciones = (Convert.ToDecimal(totalPercepciones) + Convert.ToDecimal(totalExentoPer)).ToString();
+                totalPercepciones = (Convert.ToDecimal(totalPercepciones) + Convert.ToDecimal(totalExentoPer)).ToString("N");
 
                 foreach (XmlNode nodo in nodoPercepciones)
                 {
                     if (nodo.Name == "nomina12:Percepcion")
-                        Percepciones.Add(new Conceptos(nodo.Attributes["Clave"].Value, nodo.Attributes["Concepto"].Value, (Convert.ToDecimal(nodo.Attributes["ImporteGravado"].Value) + Convert.ToDecimal(nodo.Attributes["ImporteExento"].Value)).ToString()));
+                        Percepciones.Add(new Conceptos(nodo.Attributes["Clave"].Value, nodo.Attributes["Concepto"].Value, (Convert.ToDecimal(nodo.Attributes["ImporteGravado"].Value) + Convert.ToDecimal(nodo.Attributes["ImporteExento"].Value)).ToString("N")));
                 }
             }
 
             //percepciones********************************************************
             //deducciones*********************************************************
-            string totalDeducciones = "0", totalExentoDed = "0", TotalOtrasDeducciones = "0", TotalImpuestosRetenidos = "0";
+            string totalDeducciones = "0", totalExentoDed = "0", TotalOtrasDeducciones = "0", TotalImpuestosRetenidos = "0", SubsidioCausado = "0", otroPago = "0";
 
             List<Conceptos> Deducciones = new List<Conceptos>();
             XmlNode nodoDeducciones = null;
@@ -221,16 +252,17 @@ namespace TimbradoNomina
                 if (nodoDeducciones.Attributes["TotalGravado"] != null)
                     totalDeducciones = nodoDeducciones.Attributes["TotalGravado"].Value;
                 if (nodoDeducciones.Attributes["TotalExento"] != null)
-                    totalExentoDed = nodoDeducciones.Attributes["TotalExento"].Value;
+                    totalExentoDed = Convert.ToDecimal(nodoDeducciones.Attributes["TotalExento"].Value).ToString("N");
                 if (nodoDeducciones.Attributes["TotalOtrasDeducciones"] != null)
                     TotalOtrasDeducciones = nodoDeducciones.Attributes["TotalOtrasDeducciones"].Value;
                 if (nodoDeducciones.Attributes["TotalImpuestosRetenidos"] != null)
                     TotalImpuestosRetenidos = nodoDeducciones.Attributes["TotalImpuestosRetenidos"].Value;
 
-                totalDeducciones = (Convert.ToDecimal(totalDeducciones) + Convert.ToDecimal(totalExentoDed) + Convert.ToDecimal(TotalOtrasDeducciones) + Convert.ToDecimal(TotalImpuestosRetenidos)).ToString();
+                //totalDeducciones = (Convert.ToDecimal(totalDeducciones) + Convert.ToDecimal(totalExentoDed) + Convert.ToDecimal(TotalOtrasDeducciones) + Convert.ToDecimal(TotalImpuestosRetenidos)).ToString();
+                totalDeducciones = (Convert.ToDecimal(totalDeducciones) + Convert.ToDecimal(totalExentoDed) + Convert.ToDecimal(TotalOtrasDeducciones)).ToString("N");
 
                 foreach (XmlNode nodo in nodoDeducciones)
-                    Deducciones.Add(new Conceptos(nodo.Attributes["Clave"].Value, nodo.Attributes["Concepto"].Value, (Convert.ToDecimal(nodo.Attributes["Importe"].Value)).ToString()));
+                    Deducciones.Add(new Conceptos(nodo.Attributes["Clave"].Value, nodo.Attributes["Concepto"].Value, (Convert.ToDecimal(nodo.Attributes["Importe"].Value)).ToString("N")));
                 // Deducciones.Add(new Conceptos(nodo.Attributes["Clave"].Value, nodo.Attributes["Concepto"].Value, (Convert.ToDecimal(nodo.Attributes["ImporteGravado"].Value) + Convert.ToDecimal(nodo.Attributes["ImporteExento"].Value)).ToString()));
             }
             //deducciones*********************************************************
@@ -238,25 +270,12 @@ namespace TimbradoNomina
             //LQMA ADD 18050217 SubsidioAlEmpleo
             //Otros pagos, OtroPago, SubsidioAlEmpleo*****************************
             //BEGIN
-            XmlNode nodoOtrosPagos = null;
 
-            if (nomina != null) //LQMA add 12052017 que no sea null
-                foreach (XmlNode nodo in nomina)
-                    if (nodo.Name == "nomina12:OtrosPagos")
-                    {
-                        nodoOtrosPagos = nodo;
-                        foreach (XmlNode nodoOtros in nodoOtrosPagos)
-                            if (nodoOtros.Name == "nomina12:OtroPago")
-                            {
-                                totalPercepciones = (Convert.ToDecimal(totalPercepciones) + Convert.ToDecimal(nodoOtros.Attributes["Importe"].Value)).ToString();
-                                Percepciones.Add(new Conceptos(nodoOtros.Attributes["Clave"].Value, nodoOtros.Attributes["Concepto"].Value, (Convert.ToDecimal(nodoOtros.Attributes["Importe"].Value)).ToString()));
-                            }
-                    }
             //END
             //Otros pagos, OtroPago, SubsidioAlEmpleo*****************************
 
             //importes************************************************************
-            string formaPago = "", metodoPago = "", numeroCuentaPago = "", lugarExpedicion = "", isr = "", totalPagar = "";
+            string formaPago = "", metodoPago = "", lugarExpedicion = "", isr = "", totalPagar = "";
 
             //LQMA ADD 12052017
             if (root.Attributes["FormaPago"] != null)
@@ -273,7 +292,7 @@ namespace TimbradoNomina
                 lugarExpedicion = root.Attributes["LugarExpedicion"].Value;
             //LQMA ADD 12052017
             if (root.Attributes["Total"] != null)
-                totalPagar = root.Attributes["Total"].Value;
+                totalPagar = Convert.ToDecimal(root.Attributes["Total"].Value).ToString("N");
 
             XmlNode impuestos = xmlDoc.SelectSingleNode("/x:Comprobante/x:Impuestos", nsMgr);
 
@@ -296,6 +315,37 @@ namespace TimbradoNomina
             //importes************************************************************
             //QR******************************************************************
 
+            XmlNode nodoOtrosPagos = null;
+
+            if (nomina != null) //LQMA add 12052017 que no sea null
+                foreach (XmlNode nodo in nomina)
+                    if (nodo.Name == "nomina12:OtrosPagos")
+                    {
+                        nodoOtrosPagos = nodo;
+                        foreach (XmlNode nodoOtros in nodoOtrosPagos)
+                            if (nodoOtros.Name == "nomina12:OtroPago")
+                            {
+                                XmlNode subsidio = nodoOtros.FirstChild;
+                                if (nodoOtros.Attributes["Importe"].Value != "0.01")
+                                {
+                                    totalPercepciones = (Convert.ToDecimal(totalPercepciones) + Convert.ToDecimal(nodoOtros.Attributes["Importe"].Value)).ToString("N");
+                                    Percepciones.Add(new Conceptos(nodoOtros.Attributes["Clave"].Value, nodoOtros.Attributes["Concepto"].Value, (Convert.ToDecimal(nodoOtros.Attributes["Importe"].Value)).ToString()));
+                                }
+                                if (Convert.ToDecimal(isr) > 0 && Convert.ToDecimal(subsidio.Attributes["SubsidioCausado"].Value) > 0)
+                                {
+                                    SubsidioCausado = (subsidio.Attributes["SubsidioCausado"].Value != null) ? Convert.ToDecimal(subsidio.Attributes["SubsidioCausado"].Value).ToString("N") : "0";
+                                    otroPago = "0.01";
+                                }
+
+                                else
+                                {
+                                    SubsidioCausado = Convert.ToDecimal(subsidio.Attributes["SubsidioCausado"].Value).ToString("N");
+                                    otroPago = Convert.ToDecimal(nodoOtros.Attributes["Importe"].Value).ToString("N");
+                                }
+                            }
+
+                    }
+
             pathQR = creaQR(rutaQR, nombreQR, "?re=" + rfcEmisor + "&rr=" + rfcReceptor + "&tt=" + totalPagar + "&id=" + folioFiscal);
 
             cadenaOriginalCertificadoSAT = "||" + version + "|" + folioFiscal + "|" + fechaCertificacion + "|" + selloCFD + "|" + selloSAT + "|" + serieCertificadoSAT;
@@ -313,6 +363,7 @@ namespace TimbradoNomina
                                                              ((char)34) + "pais" + ((char)34) + " : " + ((char)34) + pais + ((char)34) + "," +
                                                              ((char)34) + "estado" + ((char)34) + " : " + ((char)34) + estado + ((char)34) + "," +
                                                              ((char)34) + "rfcEmisor" + ((char)34) + " : " + ((char)34) + rfcEmisor + ((char)34) + "," +
+                                                             ((char)34) + "registroPatronal" + ((char)34) + " : " + ((char)34) + RegistroPatronal + ((char)34) + "," +
                                                              ((char)34) + "regimenFiscal" + ((char)34) + " : " + ((char)34) + regimenFiscal + ((char)34) + "," +
 
                                                              ((char)34) + "serie" + ((char)34) + " : " + ((char)34) + serie + ((char)34) + "," +
@@ -372,17 +423,26 @@ namespace TimbradoNomina
                  ((char)34) + "formaPago" + ((char)34) + " : " + ((char)34) + formaPago + ((char)34) + "," +
                  ((char)34) + "metodoPago" + ((char)34) + " : " + ((char)34) + metodoPago + ((char)34) + "," +
                  ((char)34) + "numeroCuentaPago" + ((char)34) + " : " + ((char)34) + numeroCuentaPago + ((char)34) + "," +
+                 ((char)34) + "banco" + ((char)34) + " : " + ((char)34) + banco + ((char)34) + "," +
                  ((char)34) + "lugarExpedicion" + ((char)34) + " : " + ((char)34) + lugarExpedicion + ((char)34) + "," +
+                 ((char)34) + "TipoDeComprobante" + ((char)34) + " : " + ((char)34) + tipoComprobante + ((char)34) + "," +
+                 ((char)34) + "TotalExento" + ((char)34) + " : " + ((char)34) + totalExentoDed + ((char)34) + "," +
+                 ((char)34) + "TotalGravado" + ((char)34) + " : " + ((char)34) + totalGravado + ((char)34) + "," +
                  ((char)34) + "totalPercepciones" + ((char)34) + " : " + ((char)34) + totalPercepciones + ((char)34) + "," +
                  ((char)34) + "totalDeducciones" + ((char)34) + " : " + ((char)34) + totalDeducciones + ((char)34) + "," +
                  ((char)34) + "departamento" + ((char)34) + " : " + ((char)34) + departamento + ((char)34) + "," +
                  ((char)34) + "isr" + ((char)34) + " : " + ((char)34) + isr + ((char)34) + "," +
                  ((char)34) + "totalPagar" + ((char)34) + " : " + ((char)34) + totalPagar + ((char)34) +
            "} ]," +
-
+           //variables de subsidioCausado
+           ((char)34) + "OtrosPagos" + ((char)34) +
+           " : [ {" +
+                ((char)34) + "otroPago" + ((char)34) + " : " + ((char)34) + otroPago + ((char)34) + "," +
+                ((char)34) + "SubsidioCausado" + ((char)34) + " : " + ((char)34) + SubsidioCausado + ((char)34) +
+            "} ]," +
 ((char)34) + "sellos" + ((char)34) +
          " : [ { " +
-                //((char)34) + "urlQr" + ((char)34) + " : " + ((char)34) + pathQR + ((char)34) + "," +
+                 //((char)34) + "urlQr" + ((char)34) + " : " + ((char)34) + pathQR + ((char)34) + "," +
                  ((char)34) + "urlQr" + ((char)34) + " : " + ((char)34) + urlQR + nombreQR + ((char)34) + "," +
                  ((char)34) + "cadenaOriginalSAT" + ((char)34) + " : " + ((char)34) + cadenaOriginalCertificadoSAT + ((char)34) + "," +
                  ((char)34) + "selloDigitalCFDI" + ((char)34) + " : " + ((char)34) + selloCFD + ((char)34) + "," +
@@ -392,6 +452,27 @@ namespace TimbradoNomina
             return json;
             // To convert JSON text contained in string json into an XML node
             //XmlDocument doc = JsonConvert.DeserializeXmlNode(json);
+        }
+
+
+        private string ConsultaBanco(string claveBanco)
+        {
+            string resultado = "";
+
+            SqlParameter[] parameterList = {
+            new SqlParameter("@claveBanco",claveBanco )
+            };
+
+
+            SQLServer BaseNomina = new SQLServer();
+            BaseNomina.ConnectionString = ConfigurationManager.ConnectionStrings["cnxBaseNomina"].ToString();
+            System.Data.DataSet ds = BaseNomina.ExecuteQueryProcedure("[dbo].[SEL_CONSULTA_BANCO]", parameterList);
+            if (ds.Tables[0].Rows.Count > 0)
+            {
+                resultado = ds.Tables[0].Rows[0][2].ToString();
+            }
+
+            return resultado;
         }
     }
 
