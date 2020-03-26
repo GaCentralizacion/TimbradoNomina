@@ -1,0 +1,9 @@
+Inicio archivo log 
+MSG|30/12/2017 02:19:38 p.m.|Parametros asignados webconfig
+MSG|30/12/2017 02:19:38 p.m.|Parametros asignados Base de Datos
+MSG|30/12/2017 02:19:38 p.m.|directorio creado:C:\Nomina_Timbrado\Timbrados\Semanal\004\24122017\
+MSG|30/12/2017 02:19:38 p.m.|directorio creado:C:\Nomina_Timbrado\SinTimbrar\Semanal\004\24122017\
+STR|30/12/2017 02:19:38 p.m.|Comienza timbrado de carpeta:31122017
+MSG|30/12/2017 02:19:38 p.m.|Carpeta contiene:29 archivos.
+INI|30/12/2017 02:19:38 p.m.|Comienza Archivo:1AAJI811023HR321220170013
+MSG|30/12/2017 02:19:38 p.m.|Nodo Impuesto Renombrado:1AAJI811023HR321220170013

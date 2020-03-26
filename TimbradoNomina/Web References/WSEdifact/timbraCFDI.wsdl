@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tns="urn:respuestaTimbrado" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns="http://schemas.xmlsoap.org/wsdl/" targetNamespace="urn:respuestaTimbrado" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema elementFormDefault="qualified" targetNamespace="urn:respuestaTimbrado">
+      <xsd:import namespace="http://schemas.xmlsoap.org/soap/encoding/" />
+      <xsd:import namespace="http://schemas.xmlsoap.org/wsdl/" />
+      <xsd:complexType name="respuestaTimbrado">
+        <xsd:all>
+          <xsd:element name="documentoTimbrado" type="xsd:string" />
+          <xsd:element name="codigoResultado" type="xsd:string" />
+          <xsd:element name="codigoDescripcion" type="xsd:string" />
+        </xsd:all>
+      </xsd:complexType>
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="timbrarCFDIRequest">
+    <wsdl:part name="suscriptorRFC" type="xsd:string" />
+    <wsdl:part name="agenteTI" type="xsd:string" />
+    <wsdl:part name="documentoXML" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="timbrarCFDIResponse">
+    <wsdl:part name="return" type="tns:respuestaTimbrado" />
+  </wsdl:message>
+  <wsdl:portType name="timbrarCFDIPortType">
+    <wsdl:operation name="timbrarCFDI">
+      <wsdl:input message="tns:timbrarCFDIRequest" />
+      <wsdl:output message="tns:timbrarCFDIResponse" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="timbrarCFDIBinding" type="tns:timbrarCFDIPortType">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="timbrarCFDI">
+      <soap:operation soapAction="https://www.edifactmx-pac.com/serviceCFDI/timbraCFDI.php/timbrarCFDI" style="rpc" />
+      <wsdl:input>
+        <soap:body use="encoded" namespace="urn:respuestaTimbrado" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="encoded" namespace="urn:respuestaTimbrado" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="timbrarCFDI">
+    <wsdl:port name="timbrarCFDIPort" binding="tns:timbrarCFDIBinding">
+      <soap:address location="https://www.edifactmx-pac.com:443/serviceCFDI/timbraCFDI.php" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

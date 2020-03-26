@@ -1,0 +1,373 @@
+Inicio archivo log 
+MSG|27/12/2017 12:58:16 p.m.|Parametros asignados webconfig
+MSG|27/12/2017 12:58:16 p.m.|Parametros asignados Base de Datos
+STR|27/12/2017 12:58:16 p.m.|Comienza timbrado de carpeta:25022017
+MSG|27/12/2017 12:58:16 p.m.|Carpeta contiene:7 archivos.
+INI|27/12/2017 12:58:16 p.m.|Comienza Archivo:1LEHN951230KR410220170032
+MSG|27/12/2017 12:58:19 p.m.|Nodo Impuesto Renombrado:1LEHN951230KR410220170032
+MSG|27/12/2017 01:00:23 p.m.|Parametros asignados webconfig
+MSG|27/12/2017 01:00:23 p.m.|Parametros asignados Base de Datos
+STR|27/12/2017 01:00:23 p.m.|Comienza timbrado de carpeta:25022017
+MSG|27/12/2017 01:00:23 p.m.|Carpeta contiene:7 archivos.
+INI|27/12/2017 01:00:23 p.m.|Comienza Archivo:1LEHN951230KR410220170032
+MSG|27/12/2017 01:00:24 p.m.|Nodo Impuesto Renombrado:1LEHN951230KR410220170032
+MSG|27/12/2017 01:04:00 p.m.|Parametros asignados webconfig
+MSG|27/12/2017 01:04:00 p.m.|Parametros asignados Base de Datos
+STR|27/12/2017 01:04:00 p.m.|Comienza timbrado de carpeta:25022017
+MSG|27/12/2017 01:04:00 p.m.|Carpeta contiene:7 archivos.
+INI|27/12/2017 01:04:00 p.m.|Comienza Archivo:1LEHN951230KR410220170032
+MSG|27/12/2017 01:04:26 p.m.|Parametros asignados webconfig
+MSG|27/12/2017 01:04:26 p.m.|Parametros asignados Base de Datos
+STR|27/12/2017 01:04:26 p.m.|Comienza timbrado de carpeta:25022017
+MSG|27/12/2017 01:04:26 p.m.|Carpeta contiene:7 archivos.
+INI|27/12/2017 01:04:26 p.m.|Comienza Archivo:1LEHN951230KR410220170032
+MSG|27/12/2017 01:04:28 p.m.|Nodo Impuesto Renombrado:1LEHN951230KR410220170032
+MSG|27/12/2017 01:04:47 p.m.|Archivo Firmado:1LEHN951230KR410220170032
+MSG|27/12/2017 01:04:49 p.m.|Archivo sellado:1LEHN951230KR410220170032
+MSG|27/12/2017 01:07:06 p.m.|Archivo: 1LEHN951230KR410220170032 |Result:301 |Desc:XML mal formado, esquema invalido: Element '{http://www.sat.gob.mx/cfd/3}Comprobante', attribute 'Version': The attribute 'Version' is not allowed.
+TIM|27/12/2017 01:07:06 p.m.|DOC:1LEHN951230KR410220170032|COD:301|DESC:XML mal formado, esquema invalido: Element '{http://www.sat.gob.mx/cfd/3}Comprobante', attribute 'Version': The attribute 'Version' is not allowed.
+FIN|27/12/2017 01:07:06 p.m.|DOC: 1LEHN951230KR410220170032
+INI|27/12/2017 01:07:06 p.m.|Comienza Archivo:1LORC790715RI810220170032
+MSG|27/12/2017 01:07:08 p.m.|Nodo Impuesto Renombrado:1LORC790715RI810220170032
+MSG|27/12/2017 01:07:12 p.m.|Archivo Firmado:1LORC790715RI810220170032
+MSG|27/12/2017 01:07:13 p.m.|Archivo sellado:1LORC790715RI810220170032
+MSG|27/12/2017 01:20:30 p.m.|Parametros asignados webconfig
+MSG|27/12/2017 01:20:30 p.m.|Parametros asignados Base de Datos
+STR|27/12/2017 01:20:30 p.m.|Comienza timbrado de carpeta:25022017
+MSG|27/12/2017 01:20:30 p.m.|Carpeta contiene:8 archivos.
+INI|27/12/2017 01:20:30 p.m.|Comienza Archivo:1BAGP6711094N810220170032
+MSG|27/12/2017 01:20:33 p.m.|Nodo Impuesto Renombrado:1BAGP6711094N810220170032
+MSG|27/12/2017 01:22:14 p.m.|Parametros asignados webconfig
+MSG|27/12/2017 01:22:14 p.m.|Parametros asignados Base de Datos
+STR|27/12/2017 01:22:14 p.m.|Comienza timbrado de carpeta:25022017
+MSG|27/12/2017 01:22:14 p.m.|Carpeta contiene:8 archivos.
+INI|27/12/2017 01:22:14 p.m.|Comienza Archivo:1BAGP6711094N810220170032
+MSG|27/12/2017 01:22:18 p.m.|Nodo Impuesto Renombrado:1BAGP6711094N810220170032
+MSG|27/12/2017 01:22:42 p.m.|Parametros asignados webconfig
+MSG|27/12/2017 01:22:42 p.m.|Parametros asignados Base de Datos
+STR|27/12/2017 01:22:42 p.m.|Comienza timbrado de carpeta:25022017
+MSG|27/12/2017 01:22:42 p.m.|Carpeta contiene:8 archivos.
+INI|27/12/2017 01:22:42 p.m.|Comienza Archivo:1BAGP6711094N810220170032
+MSG|27/12/2017 01:22:46 p.m.|Nodo Impuesto Renombrado:1BAGP6711094N810220170032
+MSG|27/12/2017 01:23:41 p.m.|Parametros asignados webconfig
+MSG|27/12/2017 01:23:41 p.m.|Parametros asignados Base de Datos
+STR|27/12/2017 01:23:41 p.m.|Comienza timbrado de carpeta:25022017
+MSG|27/12/2017 01:23:41 p.m.|Carpeta contiene:8 archivos.
+INI|27/12/2017 01:23:41 p.m.|Comienza Archivo:1BAGP6711094N810220170032
+MSG|27/12/2017 01:23:43 p.m.|Nodo Impuesto Renombrado:1BAGP6711094N810220170032
+MSG|27/12/2017 01:24:40 p.m.|Parametros asignados webconfig
+MSG|27/12/2017 01:24:40 p.m.|Parametros asignados Base de Datos
+STR|27/12/2017 01:24:40 p.m.|Comienza timbrado de carpeta:25022017
+MSG|27/12/2017 01:24:40 p.m.|Carpeta contiene:8 archivos.
+INI|27/12/2017 01:24:40 p.m.|Comienza Archivo:1BAGP6711094N810220170032
+MSG|27/12/2017 01:24:43 p.m.|Nodo Impuesto Renombrado:1BAGP6711094N810220170032
+MSG|27/12/2017 01:24:50 p.m.|Archivo Firmado:1BAGP6711094N810220170032
+MSG|27/12/2017 01:24:58 p.m.|Archivo sellado:1BAGP6711094N810220170032
+MSG|27/12/2017 01:25:43 p.m.|Archivo: 1BAGP6711094N810220170032 |Result:307 |Desc:El CFDI contiene un timbre previo.
+TIM|27/12/2017 01:25:43 p.m.|DOC:1BAGP6711094N810220170032|COD:307|DESC:El CFDI contiene un timbre previo.
+FIN|27/12/2017 01:25:43 p.m.|DOC: 1BAGP6711094N810220170032
+INI|27/12/2017 01:25:43 p.m.|Comienza Archivo:1LEHN951230KR410220170032
+MSG|27/12/2017 01:25:45 p.m.|Nodo Impuesto Renombrado:1LEHN951230KR410220170032
+MSG|27/12/2017 01:25:49 p.m.|Archivo Firmado:1LEHN951230KR410220170032
+MSG|27/12/2017 01:25:51 p.m.|Archivo sellado:1LEHN951230KR410220170032
+MSG|27/12/2017 01:26:16 p.m.|Archivo: 1LEHN951230KR410220170032 |Result:307 |Desc:El CFDI contiene un timbre previo.
+TIM|27/12/2017 01:26:16 p.m.|DOC:1LEHN951230KR410220170032|COD:307|DESC:El CFDI contiene un timbre previo.
+FIN|27/12/2017 01:26:16 p.m.|DOC: 1LEHN951230KR410220170032
+INI|27/12/2017 01:26:16 p.m.|Comienza Archivo:1LORC790715RI810220170032
+MSG|27/12/2017 01:26:17 p.m.|Nodo Impuesto Renombrado:1LORC790715RI810220170032
+MSG|27/12/2017 01:26:20 p.m.|Archivo Firmado:1LORC790715RI810220170032
+MSG|27/12/2017 01:26:21 p.m.|Archivo sellado:1LORC790715RI810220170032
+MSG|27/12/2017 01:26:21 p.m.|Archivo: 1LORC790715RI810220170032 |Result:307 |Desc:El CFDI contiene un timbre previo.
+TIM|27/12/2017 01:26:21 p.m.|DOC:1LORC790715RI810220170032|COD:307|DESC:El CFDI contiene un timbre previo.
+FIN|27/12/2017 01:26:21 p.m.|DOC: 1LORC790715RI810220170032
+INI|27/12/2017 01:26:22 p.m.|Comienza Archivo:1MEAX721125GZ910220170032
+MSG|27/12/2017 01:26:23 p.m.|Nodo Impuesto Renombrado:1MEAX721125GZ910220170032
+MSG|27/12/2017 01:26:25 p.m.|Archivo Firmado:1MEAX721125GZ910220170032
+MSG|27/12/2017 01:26:25 p.m.|Archivo sellado:1MEAX721125GZ910220170032
+MSG|27/12/2017 01:26:26 p.m.|Archivo: 1MEAX721125GZ910220170032 |Result:307 |Desc:El CFDI contiene un timbre previo.
+TIM|27/12/2017 01:26:26 p.m.|DOC:1MEAX721125GZ910220170032|COD:307|DESC:El CFDI contiene un timbre previo.
+FIN|27/12/2017 01:26:26 p.m.|DOC: 1MEAX721125GZ910220170032
+INI|27/12/2017 01:26:26 p.m.|Comienza Archivo:1NIFM80122194510220170032
+MSG|27/12/2017 01:48:00 p.m.|Parametros asignados webconfig
+MSG|27/12/2017 01:48:00 p.m.|Parametros asignados Base de Datos
+STR|27/12/2017 01:48:00 p.m.|Comienza timbrado de carpeta:25022017
+MSG|27/12/2017 01:48:00 p.m.|Carpeta contiene:8 archivos.
+INI|27/12/2017 01:48:00 p.m.|Comienza Archivo:1BAGP6711094N810220170032
+MSG|27/12/2017 01:48:00 p.m.|Nodo Impuesto Renombrado:1BAGP6711094N810220170032
+MSG|27/12/2017 01:48:03 p.m.|Archivo Firmado:1BAGP6711094N810220170032
+MSG|27/12/2017 01:48:04 p.m.|Archivo sellado:1BAGP6711094N810220170032
+MSG|27/12/2017 01:48:08 p.m.|Archivo: 1BAGP6711094N810220170032 |Result:CFDI33102 |Desc:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+TIM|27/12/2017 01:48:08 p.m.|DOC:1BAGP6711094N810220170032|COD:CFDI33102|DESC:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+FIN|27/12/2017 01:48:08 p.m.|DOC: 1BAGP6711094N810220170032
+INI|27/12/2017 01:48:08 p.m.|Comienza Archivo:1LEHN951230KR410220170032
+MSG|27/12/2017 01:48:08 p.m.|Nodo Impuesto Renombrado:1LEHN951230KR410220170032
+MSG|27/12/2017 01:48:10 p.m.|Archivo Firmado:1LEHN951230KR410220170032
+MSG|27/12/2017 01:48:11 p.m.|Archivo sellado:1LEHN951230KR410220170032
+MSG|27/12/2017 01:49:51 p.m.|Parametros asignados webconfig
+MSG|27/12/2017 01:49:51 p.m.|Parametros asignados Base de Datos
+STR|27/12/2017 01:49:51 p.m.|Comienza timbrado de carpeta:25022017
+MSG|27/12/2017 01:49:51 p.m.|Carpeta contiene:7 archivos.
+INI|27/12/2017 01:49:51 p.m.|Comienza Archivo:1LEHN951230KR410220170032
+MSG|27/12/2017 01:49:53 p.m.|Nodo Impuesto Renombrado:1LEHN951230KR410220170032
+MSG|27/12/2017 01:49:57 p.m.|Archivo Firmado:1LEHN951230KR410220170032
+MSG|27/12/2017 01:49:58 p.m.|Archivo sellado:1LEHN951230KR410220170032
+MSG|27/12/2017 01:50:58 p.m.|Parametros asignados webconfig
+MSG|27/12/2017 01:50:58 p.m.|Parametros asignados Base de Datos
+STR|27/12/2017 01:50:58 p.m.|Comienza timbrado de carpeta:25022017
+MSG|27/12/2017 01:50:58 p.m.|Carpeta contiene:8 archivos.
+INI|27/12/2017 01:50:58 p.m.|Comienza Archivo:1BAGP6711094N810220170032
+MSG|27/12/2017 01:50:59 p.m.|Nodo Impuesto Renombrado:1BAGP6711094N810220170032
+MSG|27/12/2017 01:51:04 p.m.|Archivo Firmado:1BAGP6711094N810220170032
+MSG|27/12/2017 01:51:06 p.m.|Archivo sellado:1BAGP6711094N810220170032
+MSG|27/12/2017 01:51:40 p.m.|Archivo: 1BAGP6711094N810220170032 |Result:CFDI33102 |Desc:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+TIM|27/12/2017 01:51:40 p.m.|DOC:1BAGP6711094N810220170032|COD:CFDI33102|DESC:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+FIN|27/12/2017 01:51:40 p.m.|DOC: 1BAGP6711094N810220170032
+INI|27/12/2017 01:51:40 p.m.|Comienza Archivo:1LEHN951230KR410220170032
+MSG|27/12/2017 01:51:42 p.m.|Nodo Impuesto Renombrado:1LEHN951230KR410220170032
+MSG|27/12/2017 01:51:46 p.m.|Archivo Firmado:1LEHN951230KR410220170032
+MSG|27/12/2017 01:51:47 p.m.|Archivo sellado:1LEHN951230KR410220170032
+MSG|27/12/2017 01:52:04 p.m.|Archivo: 1LEHN951230KR410220170032 |Result:CFDI33102 |Desc:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+TIM|27/12/2017 01:52:04 p.m.|DOC:1LEHN951230KR410220170032|COD:CFDI33102|DESC:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+FIN|27/12/2017 01:52:04 p.m.|DOC: 1LEHN951230KR410220170032
+INI|27/12/2017 01:52:04 p.m.|Comienza Archivo:1LORC790715RI810220170032
+MSG|27/12/2017 01:52:06 p.m.|Nodo Impuesto Renombrado:1LORC790715RI810220170032
+MSG|27/12/2017 01:52:10 p.m.|Archivo Firmado:1LORC790715RI810220170032
+MSG|27/12/2017 01:52:13 p.m.|Archivo sellado:1LORC790715RI810220170032
+MSG|27/12/2017 01:52:45 p.m.|Archivo: 1LORC790715RI810220170032 |Result:CFDI33102 |Desc:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+TIM|27/12/2017 01:52:45 p.m.|DOC:1LORC790715RI810220170032|COD:CFDI33102|DESC:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+FIN|27/12/2017 01:52:45 p.m.|DOC: 1LORC790715RI810220170032
+INI|27/12/2017 01:52:45 p.m.|Comienza Archivo:1MEAX721125GZ910220170032
+MSG|27/12/2017 01:52:48 p.m.|Nodo Impuesto Renombrado:1MEAX721125GZ910220170032
+MSG|27/12/2017 01:52:52 p.m.|Archivo Firmado:1MEAX721125GZ910220170032
+MSG|27/12/2017 01:52:53 p.m.|Archivo sellado:1MEAX721125GZ910220170032
+MSG|27/12/2017 01:55:19 p.m.|Parametros asignados webconfig
+MSG|27/12/2017 01:55:19 p.m.|Parametros asignados Base de Datos
+STR|27/12/2017 01:55:19 p.m.|Comienza timbrado de carpeta:25022017
+MSG|27/12/2017 01:55:19 p.m.|Carpeta contiene:5 archivos.
+INI|27/12/2017 01:55:19 p.m.|Comienza Archivo:1MEAX721125GZ910220170032
+MSG|27/12/2017 01:55:45 p.m.|Nodo Impuesto Renombrado:1MEAX721125GZ910220170032
+MSG|27/12/2017 01:55:49 p.m.|Archivo Firmado:1MEAX721125GZ910220170032
+MSG|27/12/2017 01:55:50 p.m.|Archivo sellado:1MEAX721125GZ910220170032
+MSG|27/12/2017 01:56:15 p.m.|Ruta Archivo timbrado:C:\Nomina_Timbrado\Timbrados\Quincenal\004\25022017\1MEAX721125GZ910220170032tim.xml
+PDF|27/12/2017 01:56:15 p.m.|DOC:1MEAX721125GZ910220170032|MET:SetPDFValues|DES:Referencia a objeto no establecida como instancia de un objeto.
+TIM|27/12/2017 01:56:15 p.m.|DOC:1MEAX721125GZ910220170032|COD:100|DESC:CFDI timbrado correctamente.
+FIN|27/12/2017 01:56:15 p.m.|DOC: 1MEAX721125GZ910220170032
+INI|27/12/2017 01:56:15 p.m.|Comienza Archivo:1NIFM80122194510220170032
+MSG|27/12/2017 01:56:18 p.m.|Nodo Impuesto Renombrado:1NIFM80122194510220170032
+MSG|27/12/2017 01:56:22 p.m.|Archivo Firmado:1NIFM80122194510220170032
+MSG|27/12/2017 01:56:24 p.m.|Archivo sellado:1NIFM80122194510220170032
+MSG|27/12/2017 01:58:46 p.m.|Parametros asignados webconfig
+MSG|27/12/2017 01:58:46 p.m.|Parametros asignados Base de Datos
+STR|27/12/2017 01:58:46 p.m.|Comienza timbrado de carpeta:25022017
+MSG|27/12/2017 01:58:46 p.m.|Carpeta contiene:8 archivos.
+INI|27/12/2017 01:58:46 p.m.|Comienza Archivo:1BAGP6711094N810220170032
+MSG|27/12/2017 01:58:46 p.m.|Nodo Impuesto Renombrado:1BAGP6711094N810220170032
+MSG|27/12/2017 01:58:48 p.m.|Archivo Firmado:1BAGP6711094N810220170032
+MSG|27/12/2017 01:58:48 p.m.|Archivo sellado:1BAGP6711094N810220170032
+MSG|27/12/2017 01:58:52 p.m.|Archivo: 1BAGP6711094N810220170032 |Result:CFDI33102 |Desc:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+TIM|27/12/2017 01:58:52 p.m.|DOC:1BAGP6711094N810220170032|COD:CFDI33102|DESC:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+FIN|27/12/2017 01:58:52 p.m.|DOC: 1BAGP6711094N810220170032
+INI|27/12/2017 01:58:52 p.m.|Comienza Archivo:1LEHN951230KR410220170032
+MSG|27/12/2017 01:58:52 p.m.|Nodo Impuesto Renombrado:1LEHN951230KR410220170032
+MSG|27/12/2017 01:58:54 p.m.|Archivo Firmado:1LEHN951230KR410220170032
+MSG|27/12/2017 01:58:54 p.m.|Archivo sellado:1LEHN951230KR410220170032
+MSG|27/12/2017 01:58:57 p.m.|Archivo: 1LEHN951230KR410220170032 |Result:CFDI33102 |Desc:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+TIM|27/12/2017 01:58:57 p.m.|DOC:1LEHN951230KR410220170032|COD:CFDI33102|DESC:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+FIN|27/12/2017 01:58:57 p.m.|DOC: 1LEHN951230KR410220170032
+INI|27/12/2017 01:58:57 p.m.|Comienza Archivo:1LORC790715RI810220170032
+MSG|27/12/2017 01:58:57 p.m.|Nodo Impuesto Renombrado:1LORC790715RI810220170032
+MSG|27/12/2017 01:59:00 p.m.|Archivo Firmado:1LORC790715RI810220170032
+MSG|27/12/2017 01:59:00 p.m.|Archivo sellado:1LORC790715RI810220170032
+MSG|27/12/2017 01:59:03 p.m.|Archivo: 1LORC790715RI810220170032 |Result:CFDI33102 |Desc:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+TIM|27/12/2017 01:59:03 p.m.|DOC:1LORC790715RI810220170032|COD:CFDI33102|DESC:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+FIN|27/12/2017 01:59:03 p.m.|DOC: 1LORC790715RI810220170032
+INI|27/12/2017 01:59:03 p.m.|Comienza Archivo:1MEAX721125GZ910220170032
+MSG|27/12/2017 01:59:03 p.m.|Nodo Impuesto Renombrado:1MEAX721125GZ910220170032
+MSG|27/12/2017 01:59:05 p.m.|Archivo Firmado:1MEAX721125GZ910220170032
+MSG|27/12/2017 01:59:05 p.m.|Archivo sellado:1MEAX721125GZ910220170032
+MSG|27/12/2017 01:59:08 p.m.|Archivo: 1MEAX721125GZ910220170032 |Result:CFDI33102 |Desc:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+TIM|27/12/2017 01:59:08 p.m.|DOC:1MEAX721125GZ910220170032|COD:CFDI33102|DESC:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+FIN|27/12/2017 01:59:08 p.m.|DOC: 1MEAX721125GZ910220170032
+INI|27/12/2017 01:59:08 p.m.|Comienza Archivo:1NIFM80122194510220170032
+MSG|27/12/2017 01:59:08 p.m.|Nodo Impuesto Renombrado:1NIFM80122194510220170032
+MSG|27/12/2017 01:59:10 p.m.|Archivo Firmado:1NIFM80122194510220170032
+MSG|27/12/2017 01:59:11 p.m.|Archivo sellado:1NIFM80122194510220170032
+MSG|27/12/2017 01:59:13 p.m.|Archivo: 1NIFM80122194510220170032 |Result:CFDI33102 |Desc:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+TIM|27/12/2017 01:59:13 p.m.|DOC:1NIFM80122194510220170032|COD:CFDI33102|DESC:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+FIN|27/12/2017 01:59:13 p.m.|DOC: 1NIFM80122194510220170032
+INI|27/12/2017 01:59:13 p.m.|Comienza Archivo:1PENB840128VC310220170032
+MSG|27/12/2017 01:59:13 p.m.|Nodo Impuesto Renombrado:1PENB840128VC310220170032
+MSG|27/12/2017 01:59:15 p.m.|Archivo Firmado:1PENB840128VC310220170032
+MSG|27/12/2017 01:59:16 p.m.|Archivo sellado:1PENB840128VC310220170032
+MSG|27/12/2017 01:59:18 p.m.|Archivo: 1PENB840128VC310220170032 |Result:CFDI33102 |Desc:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+TIM|27/12/2017 01:59:18 p.m.|DOC:1PENB840128VC310220170032|COD:CFDI33102|DESC:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+FIN|27/12/2017 01:59:18 p.m.|DOC: 1PENB840128VC310220170032
+INI|27/12/2017 01:59:18 p.m.|Comienza Archivo:1ROPH890425SDA10220170032
+MSG|27/12/2017 01:59:18 p.m.|Nodo Impuesto Renombrado:1ROPH890425SDA10220170032
+MSG|27/12/2017 02:03:06 p.m.|Parametros asignados webconfig
+MSG|27/12/2017 02:03:06 p.m.|Parametros asignados Base de Datos
+STR|27/12/2017 02:03:06 p.m.|Comienza timbrado de carpeta:25022017
+MSG|27/12/2017 02:03:06 p.m.|Carpeta contiene:8 archivos.
+INI|27/12/2017 02:03:06 p.m.|Comienza Archivo:1BAGP6711094N810220170032
+MSG|27/12/2017 02:03:09 p.m.|Nodo Impuesto Renombrado:1BAGP6711094N810220170032
+MSG|27/12/2017 02:03:26 p.m.|Archivo Firmado:1BAGP6711094N810220170032
+MSG|27/12/2017 02:03:28 p.m.|Archivo sellado:1BAGP6711094N810220170032
+MSG|27/12/2017 02:04:00 p.m.|Archivo: 1BAGP6711094N810220170032 |Result:CFDI33102 |Desc:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+TIM|27/12/2017 02:04:00 p.m.|DOC:1BAGP6711094N810220170032|COD:CFDI33102|DESC:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+FIN|27/12/2017 02:04:00 p.m.|DOC: 1BAGP6711094N810220170032
+INI|27/12/2017 02:04:00 p.m.|Comienza Archivo:1LEHN951230KR410220170032
+MSG|27/12/2017 02:04:02 p.m.|Nodo Impuesto Renombrado:1LEHN951230KR410220170032
+MSG|27/12/2017 02:04:05 p.m.|Archivo Firmado:1LEHN951230KR410220170032
+MSG|27/12/2017 02:04:06 p.m.|Archivo sellado:1LEHN951230KR410220170032
+MSG|27/12/2017 02:04:25 p.m.|Archivo: 1LEHN951230KR410220170032 |Result:CFDI33102 |Desc:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+TIM|27/12/2017 02:04:25 p.m.|DOC:1LEHN951230KR410220170032|COD:CFDI33102|DESC:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+FIN|27/12/2017 02:04:25 p.m.|DOC: 1LEHN951230KR410220170032
+INI|27/12/2017 02:04:25 p.m.|Comienza Archivo:1LORC790715RI810220170032
+MSG|27/12/2017 02:06:12 p.m.|Parametros asignados webconfig
+MSG|27/12/2017 02:06:12 p.m.|Parametros asignados Base de Datos
+STR|27/12/2017 02:06:13 p.m.|Comienza timbrado de carpeta:25022017
+MSG|27/12/2017 02:06:13 p.m.|Carpeta contiene:6 archivos.
+INI|27/12/2017 02:06:13 p.m.|Comienza Archivo:1LORC790715RI810220170032
+MSG|27/12/2017 02:06:14 p.m.|Nodo Impuesto Renombrado:1LORC790715RI810220170032
+MSG|27/12/2017 02:06:17 p.m.|Archivo Firmado:1LORC790715RI810220170032
+MSG|27/12/2017 02:06:18 p.m.|Archivo sellado:1LORC790715RI810220170032
+MSG|27/12/2017 02:29:25 p.m.|Parametros asignados webconfig
+MSG|27/12/2017 02:29:25 p.m.|Parametros asignados Base de Datos
+STR|27/12/2017 02:29:25 p.m.|Comienza timbrado de carpeta:25022017
+MSG|27/12/2017 02:29:25 p.m.|Carpeta contiene:8 archivos.
+INI|27/12/2017 02:29:25 p.m.|Comienza Archivo:1BAGP6711094N810220170032
+MSG|27/12/2017 02:29:28 p.m.|Nodo Impuesto Renombrado:1BAGP6711094N810220170032
+MSG|27/12/2017 02:29:32 p.m.|Archivo Firmado:1BAGP6711094N810220170032
+MSG|27/12/2017 02:29:34 p.m.|Archivo sellado:1BAGP6711094N810220170032
+MSG|27/12/2017 02:30:10 p.m.|Parametros asignados webconfig
+MSG|27/12/2017 02:30:10 p.m.|Parametros asignados Base de Datos
+STR|27/12/2017 02:30:10 p.m.|Comienza timbrado de carpeta:25022017
+MSG|27/12/2017 02:30:10 p.m.|Carpeta contiene:8 archivos.
+INI|27/12/2017 02:30:10 p.m.|Comienza Archivo:1BAGP6711094N810220170032
+MSG|27/12/2017 02:30:12 p.m.|Nodo Impuesto Renombrado:1BAGP6711094N810220170032
+MSG|27/12/2017 02:30:17 p.m.|Archivo Firmado:1BAGP6711094N810220170032
+MSG|27/12/2017 02:30:18 p.m.|Archivo sellado:1BAGP6711094N810220170032
+MSG|27/12/2017 02:30:45 p.m.|Ruta Archivo timbrado:C:\Nomina_Timbrado\Timbrados\Quincenal\004\25022017\1BAGP6711094N810220170032tim.xml
+PDF|27/12/2017 02:30:45 p.m.|DOC:1BAGP6711094N810220170032|MET:SetPDFValues|DES:Referencia a objeto no establecida como instancia de un objeto.
+TIM|27/12/2017 02:30:45 p.m.|DOC:1BAGP6711094N810220170032|COD:100|DESC:CFDI timbrado correctamente.
+FIN|27/12/2017 02:30:45 p.m.|DOC: 1BAGP6711094N810220170032
+INI|27/12/2017 02:30:45 p.m.|Comienza Archivo:1LEHN951230KR410220170032
+MSG|27/12/2017 02:30:47 p.m.|Nodo Impuesto Renombrado:1LEHN951230KR410220170032
+MSG|27/12/2017 02:30:52 p.m.|Archivo Firmado:1LEHN951230KR410220170032
+MSG|27/12/2017 02:30:53 p.m.|Archivo sellado:1LEHN951230KR410220170032
+MSG|27/12/2017 02:31:11 p.m.|Archivo: 1LEHN951230KR410220170032 |Result:CFDI33102 |Desc:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+TIM|27/12/2017 02:31:14 p.m.|DOC:1LEHN951230KR410220170032|COD:CFDI33102|DESC:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+FIN|27/12/2017 02:31:15 p.m.|DOC: 1LEHN951230KR410220170032
+INI|27/12/2017 02:31:17 p.m.|Comienza Archivo:1LORC790715RI810220170032
+MSG|27/12/2017 02:31:19 p.m.|Nodo Impuesto Renombrado:1LORC790715RI810220170032
+MSG|27/12/2017 02:31:22 p.m.|Archivo Firmado:1LORC790715RI810220170032
+MSG|27/12/2017 02:31:24 p.m.|Archivo sellado:1LORC790715RI810220170032
+MSG|27/12/2017 03:59:54 p.m.|Parametros asignados webconfig
+MSG|27/12/2017 03:59:54 p.m.|Parametros asignados Base de Datos
+STR|27/12/2017 03:59:54 p.m.|Comienza timbrado de carpeta:25022017
+MSG|27/12/2017 03:59:54 p.m.|Carpeta contiene:8 archivos.
+INI|27/12/2017 03:59:54 p.m.|Comienza Archivo:1BAGP6711094N810220170032
+MSG|27/12/2017 03:59:56 p.m.|Nodo Impuesto Renombrado:1BAGP6711094N810220170032
+MSG|27/12/2017 04:00:01 p.m.|Archivo Firmado:1BAGP6711094N810220170032
+MSG|27/12/2017 04:00:03 p.m.|Archivo sellado:1BAGP6711094N810220170032
+MSG|27/12/2017 04:18:27 p.m.|Parametros asignados webconfig
+MSG|27/12/2017 04:18:27 p.m.|Parametros asignados Base de Datos
+STR|27/12/2017 04:18:27 p.m.|Comienza timbrado de carpeta:25022017
+MSG|27/12/2017 04:18:27 p.m.|Carpeta contiene:8 archivos.
+INI|27/12/2017 04:18:27 p.m.|Comienza Archivo:1BAGP6711094N810220170032
+MSG|27/12/2017 04:18:28 p.m.|Nodo Impuesto Renombrado:1BAGP6711094N810220170032
+MSG|27/12/2017 04:18:32 p.m.|Archivo Firmado:1BAGP6711094N810220170032
+MSG|27/12/2017 04:18:33 p.m.|Archivo sellado:1BAGP6711094N810220170032
+MSG|27/12/2017 04:20:20 p.m.|Archivo: 1BAGP6711094N810220170032 |Result:CFDI33102 |Desc:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+TIM|27/12/2017 04:20:20 p.m.|DOC:1BAGP6711094N810220170032|COD:CFDI33102|DESC:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+FIN|27/12/2017 04:20:20 p.m.|DOC: 1BAGP6711094N810220170032
+INI|27/12/2017 04:20:21 p.m.|Comienza Archivo:1LEHN951230KR410220170032
+MSG|27/12/2017 04:20:23 p.m.|Nodo Impuesto Renombrado:1LEHN951230KR410220170032
+MSG|27/12/2017 04:20:27 p.m.|Archivo Firmado:1LEHN951230KR410220170032
+MSG|27/12/2017 04:20:58 p.m.|Archivo Firmado:1LEHN951230KR410220170032
+MSG|27/12/2017 04:21:02 p.m.|Archivo sellado:1LEHN951230KR410220170032
+MSG|27/12/2017 04:21:35 p.m.|Archivo: 1LEHN951230KR410220170032 |Result:CFDI33102 |Desc:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+TIM|27/12/2017 04:21:35 p.m.|DOC:1LEHN951230KR410220170032|COD:CFDI33102|DESC:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+FIN|27/12/2017 04:21:35 p.m.|DOC: 1LEHN951230KR410220170032
+INI|27/12/2017 04:21:35 p.m.|Comienza Archivo:1LORC790715RI810220170032
+MSG|27/12/2017 04:21:37 p.m.|Nodo Impuesto Renombrado:1LORC790715RI810220170032
+MSG|27/12/2017 04:21:41 p.m.|Archivo Firmado:1LORC790715RI810220170032
+MSG|27/12/2017 04:21:43 p.m.|Archivo sellado:1LORC790715RI810220170032
+MSG|27/12/2017 04:22:02 p.m.|Archivo: 1LORC790715RI810220170032 |Result:CFDI33102 |Desc:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+TIM|27/12/2017 04:22:02 p.m.|DOC:1LORC790715RI810220170032|COD:CFDI33102|DESC:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+FIN|27/12/2017 04:22:02 p.m.|DOC: 1LORC790715RI810220170032
+INI|27/12/2017 04:22:02 p.m.|Comienza Archivo:1MEAX721125GZ910220170032
+MSG|27/12/2017 04:22:04 p.m.|Nodo Impuesto Renombrado:1MEAX721125GZ910220170032
+MSG|27/12/2017 04:22:14 p.m.|Archivo Firmado:1MEAX721125GZ910220170032
+MSG|27/12/2017 04:22:16 p.m.|Archivo sellado:1MEAX721125GZ910220170032
+MSG|27/12/2017 04:22:31 p.m.|Archivo: 1MEAX721125GZ910220170032 |Result:CFDI33102 |Desc:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+TIM|27/12/2017 04:22:31 p.m.|DOC:1MEAX721125GZ910220170032|COD:CFDI33102|DESC:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+FIN|27/12/2017 04:22:31 p.m.|DOC: 1MEAX721125GZ910220170032
+INI|27/12/2017 04:22:31 p.m.|Comienza Archivo:1NIFM80122194510220170032
+MSG|27/12/2017 04:22:33 p.m.|Nodo Impuesto Renombrado:1NIFM80122194510220170032
+MSG|27/12/2017 04:22:37 p.m.|Archivo Firmado:1NIFM80122194510220170032
+MSG|27/12/2017 04:22:39 p.m.|Archivo sellado:1NIFM80122194510220170032
+MSG|27/12/2017 04:23:05 p.m.|Archivo: 1NIFM80122194510220170032 |Result:CFDI33102 |Desc:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+TIM|27/12/2017 04:23:05 p.m.|DOC:1NIFM80122194510220170032|COD:CFDI33102|DESC:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+FIN|27/12/2017 04:23:05 p.m.|DOC: 1NIFM80122194510220170032
+INI|27/12/2017 04:23:05 p.m.|Comienza Archivo:1PENB840128VC310220170032
+MSG|27/12/2017 04:23:08 p.m.|Nodo Impuesto Renombrado:1PENB840128VC310220170032
+MSG|27/12/2017 04:23:13 p.m.|Archivo Firmado:1PENB840128VC310220170032
+MSG|27/12/2017 04:23:14 p.m.|Archivo sellado:1PENB840128VC310220170032
+MSG|27/12/2017 04:23:50 p.m.|Archivo: 1PENB840128VC310220170032 |Result:CFDI33102 |Desc:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+TIM|27/12/2017 04:23:50 p.m.|DOC:1PENB840128VC310220170032|COD:CFDI33102|DESC:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+FIN|27/12/2017 04:23:50 p.m.|DOC: 1PENB840128VC310220170032
+INI|27/12/2017 04:23:50 p.m.|Comienza Archivo:1ROPH890425SDA10220170032
+MSG|27/12/2017 04:24:01 p.m.|Nodo Impuesto Renombrado:1ROPH890425SDA10220170032
+MSG|27/12/2017 04:24:04 p.m.|Archivo Firmado:1ROPH890425SDA10220170032
+MSG|27/12/2017 04:24:06 p.m.|Archivo sellado:1ROPH890425SDA10220170032
+MSG|27/12/2017 04:48:33 p.m.|Parametros asignados webconfig
+MSG|27/12/2017 04:48:33 p.m.|Parametros asignados Base de Datos
+STR|27/12/2017 04:48:33 p.m.|Comienza timbrado de carpeta:25022017
+MSG|27/12/2017 04:48:33 p.m.|Carpeta contiene:1 archivos.
+INI|27/12/2017 04:48:33 p.m.|Comienza Archivo:1BAGP6711094N810220170032
+MSG|27/12/2017 04:48:37 p.m.|Nodo Impuesto Renombrado:1BAGP6711094N810220170032
+MSG|27/12/2017 04:48:41 p.m.|Archivo Firmado:1BAGP6711094N810220170032
+MSG|27/12/2017 04:48:42 p.m.|Archivo sellado:1BAGP6711094N810220170032
+MSG|27/12/2017 05:06:01 p.m.|Parametros asignados webconfig
+MSG|27/12/2017 05:06:01 p.m.|Parametros asignados Base de Datos
+MSG|27/12/2017 05:06:01 p.m.|directorio creado:C:\Nomina_Timbrado\Timbrados\Quincenal\004\25022017\
+MSG|27/12/2017 05:06:01 p.m.|directorio creado:C:\Nomina_Timbrado\SinTimbrar\Quincenal\004\25022017\
+STR|27/12/2017 05:06:01 p.m.|Comienza timbrado de carpeta:25022017
+MSG|27/12/2017 05:06:01 p.m.|Carpeta contiene:1 archivos.
+INI|27/12/2017 05:06:01 p.m.|Comienza Archivo:1BAGP6711094N810220170032
+MSG|27/12/2017 05:06:04 p.m.|Nodo Impuesto Renombrado:1BAGP6711094N810220170032
+MSG|27/12/2017 05:06:09 p.m.|Archivo Firmado:1BAGP6711094N810220170032
+MSG|27/12/2017 05:06:10 p.m.|Archivo sellado:1BAGP6711094N810220170032
+MSG|27/12/2017 05:31:39 p.m.|Parametros asignados webconfig
+MSG|27/12/2017 05:31:39 p.m.|Parametros asignados Base de Datos
+STR|27/12/2017 05:31:39 p.m.|Comienza timbrado de carpeta:25022017
+MSG|27/12/2017 05:31:39 p.m.|Carpeta contiene:1 archivos.
+INI|27/12/2017 05:31:39 p.m.|Comienza Archivo:1LEHN951230KR410220170032
+MSG|27/12/2017 05:31:41 p.m.|Nodo Impuesto Renombrado:1LEHN951230KR410220170032
+MSG|27/12/2017 05:33:31 p.m.|Parametros asignados webconfig
+MSG|27/12/2017 05:33:31 p.m.|Parametros asignados Base de Datos
+STR|27/12/2017 05:33:31 p.m.|Comienza timbrado de carpeta:25022017
+MSG|27/12/2017 05:33:31 p.m.|Carpeta contiene:1 archivos.
+INI|27/12/2017 05:33:31 p.m.|Comienza Archivo:1LEHN951230KR410220170032
+MSG|27/12/2017 05:33:37 p.m.|Nodo Impuesto Renombrado:1LEHN951230KR410220170032
+MSG|27/12/2017 05:35:13 p.m.|Parametros asignados webconfig
+MSG|27/12/2017 05:35:13 p.m.|Parametros asignados Base de Datos
+STR|27/12/2017 05:35:13 p.m.|Comienza timbrado de carpeta:25022017
+MSG|27/12/2017 05:35:13 p.m.|Carpeta contiene:1 archivos.
+INI|27/12/2017 05:35:13 p.m.|Comienza Archivo:1LEHN951230KR410220170032
+MSG|27/12/2017 05:35:15 p.m.|Nodo Impuesto Renombrado:1LEHN951230KR410220170032
+MSG|27/12/2017 05:37:15 p.m.|Parametros asignados webconfig
+MSG|27/12/2017 05:37:15 p.m.|Parametros asignados Base de Datos
+STR|27/12/2017 05:37:15 p.m.|Comienza timbrado de carpeta:25022017
+MSG|27/12/2017 05:37:15 p.m.|Carpeta contiene:1 archivos.
+INI|27/12/2017 05:37:15 p.m.|Comienza Archivo:1LEHN951230KR410220170032
+MSG|27/12/2017 05:37:17 p.m.|Nodo Impuesto Renombrado:1LEHN951230KR410220170032
+MSG|27/12/2017 05:37:24 p.m.|Archivo Firmado:1LEHN951230KR410220170032
+MSG|27/12/2017 05:37:25 p.m.|Archivo sellado:1LEHN951230KR410220170032
+MSG|27/12/2017 05:37:46 p.m.|Ruta Archivo timbrado:C:\Nomina_Timbrado\Timbrados\Quincenal\004\25022017\1LEHN951230KR410220170032tim.xml
+PDF|27/12/2017 05:37:46 p.m.|DOC:1LEHN951230KR410220170032|MET:SetPDFValues|DES:Referencia a objeto no establecida como instancia de un objeto.
+TIM|27/12/2017 05:37:46 p.m.|DOC:1LEHN951230KR410220170032|COD:100|DESC:CFDI timbrado correctamente.
+FIN|27/12/2017 05:37:46 p.m.|DOC: 1LEHN951230KR410220170032
+FNP|27/12/2017 05:37:46 p.m.|Carpeta:25022017|TotalDocs:1|Timbrados:1|NoTimbrados:0|Error:0
+MSG|28/12/2017 11:03:57 a.m.|La carpeta 25022017 ya fue procesada

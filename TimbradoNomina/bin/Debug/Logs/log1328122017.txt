@@ -1,0 +1,273 @@
+Inicio archivo log 
+MSG|30/12/2017 10:54:51 a.m.|La carpeta 28122017 ya fue procesada
+MSG|30/12/2017 10:55:43 a.m.|Parametros asignados webconfig
+MSG|30/12/2017 10:55:43 a.m.|Parametros asignados Base de Datos
+MSG|30/12/2017 10:55:43 a.m.|directorio creado:C:\Nomina_Timbrado\Timbrados\Quincenal\003\
+MSG|30/12/2017 10:55:43 a.m.|directorio creado:C:\Nomina_Timbrado\Timbrados\Quincenal\003\28122017\
+MSG|30/12/2017 10:55:43 a.m.|directorio creado:C:\Nomina_Timbrado\SinTimbrar\Quincenal\003\
+MSG|30/12/2017 10:55:43 a.m.|directorio creado:C:\Nomina_Timbrado\SinTimbrar\Quincenal\003\28122017\
+STR|30/12/2017 10:55:43 a.m.|Comienza timbrado de carpeta:28122017
+MSG|30/12/2017 10:55:43 a.m.|Carpeta contiene:237 archivos.
+INI|30/12/2017 10:55:43 a.m.|Comienza Archivo:1AAAJ7004121FA11220170032
+MSG|30/12/2017 10:55:47 a.m.|Nodo Impuesto Renombrado:1AAAJ7004121FA11220170032
+ERR|30/12/2017 10:55:47 a.m.|DOC:1AAAJ7004121FA11220170032|MET:CreateLayoutString|DES:No se puede encontrar una parte de la ruta de acceso 'c:\bis\apptimbrado\requerido\cadenaoriginal_3_3.xslt'.
+TIM|30/12/2017 10:55:47 a.m.|DOC:1AAAJ7004121FA11220170032|COD:-1|DESC:NA
+FIN|30/12/2017 10:55:47 a.m.|DOC: 1AAAJ7004121FA11220170032
+INI|30/12/2017 10:55:47 a.m.|Comienza Archivo:1AABG650414PJ611220170032
+MSG|30/12/2017 10:55:55 a.m.|Nodo Impuesto Renombrado:1AABG650414PJ611220170032
+ERR|30/12/2017 10:55:55 a.m.|DOC:1AABG650414PJ611220170032|MET:CreateLayoutString|DES:No se puede encontrar una parte de la ruta de acceso 'c:\bis\apptimbrado\requerido\cadenaoriginal_3_3.xslt'.
+TIM|30/12/2017 10:55:55 a.m.|DOC:1AABG650414PJ611220170032|COD:-1|DESC:NA
+FIN|30/12/2017 10:55:55 a.m.|DOC: 1AABG650414PJ611220170032
+INI|30/12/2017 10:55:55 a.m.|Comienza Archivo:1AALJ8405155V411220170032
+MSG|30/12/2017 10:55:55 a.m.|Nodo Impuesto Renombrado:1AALJ8405155V411220170032
+ERR|30/12/2017 10:55:55 a.m.|DOC:1AALJ8405155V411220170032|MET:CreateLayoutString|DES:No se puede encontrar una parte de la ruta de acceso 'c:\bis\apptimbrado\requerido\cadenaoriginal_3_3.xslt'.
+TIM|30/12/2017 10:55:55 a.m.|DOC:1AALJ8405155V411220170032|COD:-1|DESC:NA
+FIN|30/12/2017 10:55:55 a.m.|DOC: 1AALJ8405155V411220170032
+INI|30/12/2017 10:55:55 a.m.|Comienza Archivo:1AARA950318F2811220170032
+MSG|30/12/2017 10:55:55 a.m.|Nodo Impuesto Renombrado:1AARA950318F2811220170032
+ERR|30/12/2017 10:55:56 a.m.|DOC:1AARA950318F2811220170032|MET:CreateLayoutString|DES:No se puede encontrar una parte de la ruta de acceso 'c:\bis\apptimbrado\requerido\cadenaoriginal_3_3.xslt'.
+TIM|30/12/2017 10:55:56 a.m.|DOC:1AARA950318F2811220170032|COD:-1|DESC:NA
+FIN|30/12/2017 10:55:56 a.m.|DOC: 1AARA950318F2811220170032
+INI|30/12/2017 10:55:56 a.m.|Comienza Archivo:1AARK840104BQ811220170032
+MSG|30/12/2017 10:55:56 a.m.|Nodo Impuesto Renombrado:1AARK840104BQ811220170032
+ERR|30/12/2017 10:55:56 a.m.|DOC:1AARK840104BQ811220170032|MET:CreateLayoutString|DES:No se puede encontrar una parte de la ruta de acceso 'c:\bis\apptimbrado\requerido\cadenaoriginal_3_3.xslt'.
+TIM|30/12/2017 10:55:56 a.m.|DOC:1AARK840104BQ811220170032|COD:-1|DESC:NA
+FIN|30/12/2017 10:55:56 a.m.|DOC: 1AARK840104BQ811220170032
+INI|30/12/2017 10:55:56 a.m.|Comienza Archivo:1AATJ770326N2911220170032
+MSG|30/12/2017 10:55:56 a.m.|Nodo Impuesto Renombrado:1AATJ770326N2911220170032
+ERR|30/12/2017 10:55:56 a.m.|DOC:1AATJ770326N2911220170032|MET:CreateLayoutString|DES:No se puede encontrar una parte de la ruta de acceso 'c:\bis\apptimbrado\requerido\cadenaoriginal_3_3.xslt'.
+TIM|30/12/2017 10:55:56 a.m.|DOC:1AATJ770326N2911220170032|COD:-1|DESC:NA
+FIN|30/12/2017 10:55:56 a.m.|DOC: 1AATJ770326N2911220170032
+INI|30/12/2017 10:55:56 a.m.|Comienza Archivo:1AEAL800929KQ921220170032
+MSG|30/12/2017 10:55:56 a.m.|Nodo Impuesto Renombrado:1AEAL800929KQ921220170032
+ERR|30/12/2017 10:55:56 a.m.|DOC:1AEAL800929KQ921220170032|MET:CreateLayoutString|DES:No se puede encontrar una parte de la ruta de acceso 'c:\bis\apptimbrado\requerido\cadenaoriginal_3_3.xslt'.
+TIM|30/12/2017 10:55:56 a.m.|DOC:1AEAL800929KQ921220170032|COD:-1|DESC:NA
+FIN|30/12/2017 10:55:56 a.m.|DOC: 1AEAL800929KQ921220170032
+INI|30/12/2017 10:55:56 a.m.|Comienza Archivo:1AEDM650312G3711220170032
+MSG|30/12/2017 10:55:56 a.m.|Nodo Impuesto Renombrado:1AEDM650312G3711220170032
+ERR|30/12/2017 10:55:56 a.m.|DOC:1AEDM650312G3711220170032|MET:CreateLayoutString|DES:No se puede encontrar una parte de la ruta de acceso 'c:\bis\apptimbrado\requerido\cadenaoriginal_3_3.xslt'.
+TIM|30/12/2017 10:55:56 a.m.|DOC:1AEDM650312G3711220170032|COD:-1|DESC:NA
+FIN|30/12/2017 10:55:56 a.m.|DOC: 1AEDM650312G3711220170032
+INI|30/12/2017 10:55:56 a.m.|Comienza Archivo:1AEGE88073142911220170032
+MSG|30/12/2017 10:55:56 a.m.|Nodo Impuesto Renombrado:1AEGE88073142911220170032
+ERR|30/12/2017 10:55:56 a.m.|DOC:1AEGE88073142911220170032|MET:CreateLayoutString|DES:No se puede encontrar una parte de la ruta de acceso 'c:\bis\apptimbrado\requerido\cadenaoriginal_3_3.xslt'.
+TIM|30/12/2017 10:55:56 a.m.|DOC:1AEGE88073142911220170032|COD:-1|DESC:NA
+FIN|30/12/2017 10:55:56 a.m.|DOC: 1AEGE88073142911220170032
+INI|30/12/2017 10:55:56 a.m.|Comienza Archivo:1AIBA920623F4611220170032
+MSG|30/12/2017 10:55:56 a.m.|Nodo Impuesto Renombrado:1AIBA920623F4611220170032
+ERR|30/12/2017 10:55:56 a.m.|DOC:1AIBA920623F4611220170032|MET:CreateLayoutString|DES:No se puede encontrar una parte de la ruta de acceso 'c:\bis\apptimbrado\requerido\cadenaoriginal_3_3.xslt'.
+TIM|30/12/2017 10:55:56 a.m.|DOC:1AIBA920623F4611220170032|COD:-1|DESC:NA
+FIN|30/12/2017 10:55:56 a.m.|DOC: 1AIBA920623F4611220170032
+INI|30/12/2017 10:55:56 a.m.|Comienza Archivo:1AIVA740206KH011220170032
+MSG|30/12/2017 10:55:56 a.m.|Nodo Impuesto Renombrado:1AIVA740206KH011220170032
+ERR|30/12/2017 10:55:56 a.m.|DOC:1AIVA740206KH011220170032|MET:CreateLayoutString|DES:No se puede encontrar una parte de la ruta de acceso 'c:\bis\apptimbrado\requerido\cadenaoriginal_3_3.xslt'.
+TIM|30/12/2017 10:55:56 a.m.|DOC:1AIVA740206KH011220170032|COD:-1|DESC:NA
+FIN|30/12/2017 10:55:56 a.m.|DOC: 1AIVA740206KH011220170032
+INI|30/12/2017 10:55:56 a.m.|Comienza Archivo:1AOLL7501314L311220170032
+MSG|30/12/2017 10:55:56 a.m.|Nodo Impuesto Renombrado:1AOLL7501314L311220170032
+ERR|30/12/2017 10:55:56 a.m.|DOC:1AOLL7501314L311220170032|MET:CreateLayoutString|DES:No se puede encontrar una parte de la ruta de acceso 'c:\bis\apptimbrado\requerido\cadenaoriginal_3_3.xslt'.
+TIM|30/12/2017 10:55:56 a.m.|DOC:1AOLL7501314L311220170032|COD:-1|DESC:NA
+FIN|30/12/2017 10:55:56 a.m.|DOC: 1AOLL7501314L311220170032
+INI|30/12/2017 10:55:56 a.m.|Comienza Archivo:1AOVC811110FB021220170032
+MSG|30/12/2017 10:55:56 a.m.|Nodo Impuesto Renombrado:1AOVC811110FB021220170032
+ERR|30/12/2017 10:55:56 a.m.|DOC:1AOVC811110FB021220170032|MET:CreateLayoutString|DES:No se puede encontrar una parte de la ruta de acceso 'c:\bis\apptimbrado\requerido\cadenaoriginal_3_3.xslt'.
+TIM|30/12/2017 10:55:56 a.m.|DOC:1AOVC811110FB021220170032|COD:-1|DESC:NA
+FIN|30/12/2017 10:55:56 a.m.|DOC: 1AOVC811110FB021220170032
+INI|30/12/2017 10:55:57 a.m.|Comienza Archivo:1AUCL960908B5911220170032
+MSG|30/12/2017 10:55:57 a.m.|Nodo Impuesto Renombrado:1AUCL960908B5911220170032
+ERR|30/12/2017 10:55:57 a.m.|DOC:1AUCL960908B5911220170032|MET:CreateLayoutString|DES:No se puede encontrar una parte de la ruta de acceso 'c:\bis\apptimbrado\requerido\cadenaoriginal_3_3.xslt'.
+TIM|30/12/2017 10:55:57 a.m.|DOC:1AUCL960908B5911220170032|COD:-1|DESC:NA
+FIN|30/12/2017 10:55:57 a.m.|DOC: 1AUCL960908B5911220170032
+INI|30/12/2017 10:55:57 a.m.|Comienza Archivo:1AUGE760410H8921220170032
+MSG|30/12/2017 10:55:57 a.m.|Nodo Impuesto Renombrado:1AUGE760410H8921220170032
+ERR|30/12/2017 10:55:57 a.m.|DOC:1AUGE760410H8921220170032|MET:CreateLayoutString|DES:No se puede encontrar una parte de la ruta de acceso 'c:\bis\apptimbrado\requerido\cadenaoriginal_3_3.xslt'.
+TIM|30/12/2017 10:55:57 a.m.|DOC:1AUGE760410H8921220170032|COD:-1|DESC:NA
+FIN|30/12/2017 10:55:57 a.m.|DOC: 1AUGE760410H8921220170032
+INI|30/12/2017 10:55:57 a.m.|Comienza Archivo:1AULR920830KK331220170032
+MSG|30/12/2017 10:55:57 a.m.|Nodo Impuesto Renombrado:1AULR920830KK331220170032
+ERR|30/12/2017 10:55:57 a.m.|DOC:1AULR920830KK331220170032|MET:CreateLayoutString|DES:No se puede encontrar una parte de la ruta de acceso 'c:\bis\apptimbrado\requerido\cadenaoriginal_3_3.xslt'.
+TIM|30/12/2017 10:55:57 a.m.|DOC:1AULR920830KK331220170032|COD:-1|DESC:NA
+FIN|30/12/2017 10:55:57 a.m.|DOC: 1AULR920830KK331220170032
+INI|30/12/2017 10:55:57 a.m.|Comienza Archivo:1AUMA571021QC731220170032
+MSG|30/12/2017 10:55:57 a.m.|Nodo Impuesto Renombrado:1AUMA571021QC731220170032
+ERR|30/12/2017 10:55:57 a.m.|DOC:1AUMA571021QC731220170032|MET:CreateLayoutString|DES:No se puede encontrar una parte de la ruta de acceso 'c:\bis\apptimbrado\requerido\cadenaoriginal_3_3.xslt'.
+TIM|30/12/2017 10:55:57 a.m.|DOC:1AUMA571021QC731220170032|COD:-1|DESC:NA
+FIN|30/12/2017 10:55:57 a.m.|DOC: 1AUMA571021QC731220170032
+INI|30/12/2017 10:55:57 a.m.|Comienza Archivo:1AURP611118IX531220170032
+MSG|30/12/2017 10:55:57 a.m.|Nodo Impuesto Renombrado:1AURP611118IX531220170032
+ERR|30/12/2017 10:55:57 a.m.|DOC:1AURP611118IX531220170032|MET:CreateLayoutString|DES:No se puede encontrar una parte de la ruta de acceso 'c:\bis\apptimbrado\requerido\cadenaoriginal_3_3.xslt'.
+TIM|30/12/2017 10:55:57 a.m.|DOC:1AURP611118IX531220170032|COD:-1|DESC:NA
+FIN|30/12/2017 10:55:57 a.m.|DOC: 1AURP611118IX531220170032
+INI|30/12/2017 10:55:57 a.m.|Comienza Archivo:1AUTE871221AU711220170032
+MSG|30/12/2017 10:55:57 a.m.|Nodo Impuesto Renombrado:1AUTE871221AU711220170032
+ERR|30/12/2017 10:55:57 a.m.|DOC:1AUTE871221AU711220170032|MET:CreateLayoutString|DES:No se puede encontrar una parte de la ruta de acceso 'c:\bis\apptimbrado\requerido\cadenaoriginal_3_3.xslt'.
+TIM|30/12/2017 10:55:57 a.m.|DOC:1AUTE871221AU711220170032|COD:-1|DESC:NA
+FIN|30/12/2017 10:55:57 a.m.|DOC: 1AUTE871221AU711220170032
+INI|30/12/2017 10:55:57 a.m.|Comienza Archivo:1BAGA8903014GA11220170032
+MSG|30/12/2017 10:55:57 a.m.|Nodo Impuesto Renombrado:1BAGA8903014GA11220170032
+ERR|30/12/2017 10:55:57 a.m.|DOC:1BAGA8903014GA11220170032|MET:CreateLayoutString|DES:No se puede encontrar una parte de la ruta de acceso 'c:\bis\apptimbrado\requerido\cadenaoriginal_3_3.xslt'.
+TIM|30/12/2017 10:55:57 a.m.|DOC:1BAGA8903014GA11220170032|COD:-1|DESC:NA
+FIN|30/12/2017 10:55:57 a.m.|DOC: 1BAGA8903014GA11220170032
+INI|30/12/2017 10:55:57 a.m.|Comienza Archivo:1BAGM7201186N211220170032
+MSG|30/12/2017 10:55:57 a.m.|Nodo Impuesto Renombrado:1BAGM7201186N211220170032
+ERR|30/12/2017 10:55:57 a.m.|DOC:1BAGM7201186N211220170032|MET:CreateLayoutString|DES:No se puede encontrar una parte de la ruta de acceso 'c:\bis\apptimbrado\requerido\cadenaoriginal_3_3.xslt'.
+TIM|30/12/2017 10:55:57 a.m.|DOC:1BAGM7201186N211220170032|COD:-1|DESC:NA
+FIN|30/12/2017 10:55:57 a.m.|DOC: 1BAGM7201186N211220170032
+INI|30/12/2017 10:55:57 a.m.|Comienza Archivo:1BAGM8511231J011220170032
+MSG|30/12/2017 10:55:57 a.m.|Nodo Impuesto Renombrado:1BAGM8511231J011220170032
+ERR|30/12/2017 10:55:57 a.m.|DOC:1BAGM8511231J011220170032|MET:CreateLayoutString|DES:No se puede encontrar una parte de la ruta de acceso 'c:\bis\apptimbrado\requerido\cadenaoriginal_3_3.xslt'.
+TIM|30/12/2017 10:55:57 a.m.|DOC:1BAGM8511231J011220170032|COD:-1|DESC:NA
+FIN|30/12/2017 10:55:57 a.m.|DOC: 1BAGM8511231J011220170032
+INI|30/12/2017 10:55:57 a.m.|Comienza Archivo:1BATJ9206133C211220170032
+MSG|30/12/2017 10:55:57 a.m.|Nodo Impuesto Renombrado:1BATJ9206133C211220170032
+ERR|30/12/2017 10:55:57 a.m.|DOC:1BATJ9206133C211220170032|MET:CreateLayoutString|DES:No se puede encontrar una parte de la ruta de acceso 'c:\bis\apptimbrado\requerido\cadenaoriginal_3_3.xslt'.
+TIM|30/12/2017 10:55:57 a.m.|DOC:1BATJ9206133C211220170032|COD:-1|DESC:NA
+FIN|30/12/2017 10:55:57 a.m.|DOC: 1BATJ9206133C211220170032
+INI|30/12/2017 10:55:58 a.m.|Comienza Archivo:1BATM8805208L111220170032
+MSG|30/12/2017 10:55:58 a.m.|Nodo Impuesto Renombrado:1BATM8805208L111220170032
+ERR|30/12/2017 10:55:58 a.m.|DOC:1BATM8805208L111220170032|MET:CreateLayoutString|DES:No se puede encontrar una parte de la ruta de acceso 'c:\bis\apptimbrado\requerido\cadenaoriginal_3_3.xslt'.
+TIM|30/12/2017 10:55:58 a.m.|DOC:1BATM8805208L111220170032|COD:-1|DESC:NA
+FIN|30/12/2017 10:55:58 a.m.|DOC: 1BATM8805208L111220170032
+INI|30/12/2017 10:55:58 a.m.|Comienza Archivo:1BAUE70060997411220170032
+MSG|30/12/2017 10:55:58 a.m.|Nodo Impuesto Renombrado:1BAUE70060997411220170032
+ERR|30/12/2017 10:55:58 a.m.|DOC:1BAUE70060997411220170032|MET:CreateLayoutString|DES:No se puede encontrar una parte de la ruta de acceso 'c:\bis\apptimbrado\requerido\cadenaoriginal_3_3.xslt'.
+TIM|30/12/2017 10:55:58 a.m.|DOC:1BAUE70060997411220170032|COD:-1|DESC:NA
+FIN|30/12/2017 10:55:58 a.m.|DOC: 1BAUE70060997411220170032
+INI|30/12/2017 10:55:58 a.m.|Comienza Archivo:1BESE830327RV811220170032
+MSG|30/12/2017 10:55:58 a.m.|Nodo Impuesto Renombrado:1BESE830327RV811220170032
+ERR|30/12/2017 10:55:58 a.m.|DOC:1BESE830327RV811220170032|MET:CreateLayoutString|DES:No se puede encontrar una parte de la ruta de acceso 'c:\bis\apptimbrado\requerido\cadenaoriginal_3_3.xslt'.
+TIM|30/12/2017 10:55:58 a.m.|DOC:1BESE830327RV811220170032|COD:-1|DESC:NA
+FIN|30/12/2017 10:55:58 a.m.|DOC: 1BESE830327RV811220170032
+INI|30/12/2017 10:55:58 a.m.|Comienza Archivo:1BULR610915GH511220170032
+MSG|30/12/2017 10:55:58 a.m.|Nodo Impuesto Renombrado:1BULR610915GH511220170032
+ERR|30/12/2017 10:55:58 a.m.|DOC:1BULR610915GH511220170032|MET:CreateLayoutString|DES:No se puede encontrar una parte de la ruta de acceso 'c:\bis\apptimbrado\requerido\cadenaoriginal_3_3.xslt'.
+TIM|30/12/2017 10:55:58 a.m.|DOC:1BULR610915GH511220170032|COD:-1|DESC:NA
+FIN|30/12/2017 10:55:58 a.m.|DOC: 1BULR610915GH511220170032
+INI|30/12/2017 10:55:58 a.m.|Comienza Archivo:1BURC741031CA211220170032
+MSG|30/12/2017 10:55:58 a.m.|Nodo Impuesto Renombrado:1BURC741031CA211220170032
+ERR|30/12/2017 10:55:58 a.m.|DOC:1BURC741031CA211220170032|MET:CreateLayoutString|DES:No se puede encontrar una parte de la ruta de acceso 'c:\bis\apptimbrado\requerido\cadenaoriginal_3_3.xslt'.
+TIM|30/12/2017 10:55:58 a.m.|DOC:1BURC741031CA211220170032|COD:-1|DESC:NA
+FIN|30/12/2017 10:55:58 a.m.|DOC: 1BURC741031CA211220170032
+INI|30/12/2017 10:55:58 a.m.|Comienza Archivo:1CABA9002138V911220170032
+MSG|30/12/2017 10:55:58 a.m.|Nodo Impuesto Renombrado:1CABA9002138V911220170032
+ERR|30/12/2017 10:55:58 a.m.|DOC:1CABA9002138V911220170032|MET:CreateLayoutString|DES:No se puede encontrar una parte de la ruta de acceso 'c:\bis\apptimbrado\requerido\cadenaoriginal_3_3.xslt'.
+TIM|30/12/2017 10:55:58 a.m.|DOC:1CABA9002138V911220170032|COD:-1|DESC:NA
+FIN|30/12/2017 10:55:58 a.m.|DOC: 1CABA9002138V911220170032
+INI|30/12/2017 10:55:58 a.m.|Comienza Archivo:1CABC910716HF111220170032
+MSG|30/12/2017 10:55:58 a.m.|Nodo Impuesto Renombrado:1CABC910716HF111220170032
+ERR|30/12/2017 10:55:58 a.m.|DOC:1CABC910716HF111220170032|MET:CreateLayoutString|DES:No se puede encontrar una parte de la ruta de acceso 'c:\bis\apptimbrado\requerido\cadenaoriginal_3_3.xslt'.
+TIM|30/12/2017 10:55:58 a.m.|DOC:1CABC910716HF111220170032|COD:-1|DESC:NA
+FIN|30/12/2017 10:55:58 a.m.|DOC: 1CABC910716HF111220170032
+INI|30/12/2017 10:55:58 a.m.|Comienza Archivo:1CAFD78040863311220170032
+MSG|30/12/2017 10:55:58 a.m.|Nodo Impuesto Renombrado:1CAFD78040863311220170032
+ERR|30/12/2017 10:55:58 a.m.|DOC:1CAFD78040863311220170032|MET:CreateLayoutString|DES:No se puede encontrar una parte de la ruta de acceso 'c:\bis\apptimbrado\requerido\cadenaoriginal_3_3.xslt'.
+TIM|30/12/2017 10:55:58 a.m.|DOC:1CAFD78040863311220170032|COD:-1|DESC:NA
+FIN|30/12/2017 10:55:58 a.m.|DOC: 1CAFD78040863311220170032
+INI|30/12/2017 10:55:58 a.m.|Comienza Archivo:1CAGM6501195K111220170032
+MSG|30/12/2017 10:55:58 a.m.|Nodo Impuesto Renombrado:1CAGM6501195K111220170032
+ERR|30/12/2017 10:55:58 a.m.|DOC:1CAGM6501195K111220170032|MET:CreateLayoutString|DES:No se puede encontrar una parte de la ruta de acceso 'c:\bis\apptimbrado\requerido\cadenaoriginal_3_3.xslt'.
+TIM|30/12/2017 10:55:58 a.m.|DOC:1CAGM6501195K111220170032|COD:-1|DESC:NA
+FIN|30/12/2017 10:55:58 a.m.|DOC: 1CAGM6501195K111220170032
+INI|30/12/2017 10:55:58 a.m.|Comienza Archivo:1CAGP840629MD021220170032
+MSG|30/12/2017 10:55:58 a.m.|Nodo Impuesto Renombrado:1CAGP840629MD021220170032
+ERR|30/12/2017 10:55:59 a.m.|DOC:1CAGP840629MD021220170032|MET:CreateLayoutString|DES:No se puede encontrar una parte de la ruta de acceso 'c:\bis\apptimbrado\requerido\cadenaoriginal_3_3.xslt'.
+TIM|30/12/2017 10:55:59 a.m.|DOC:1CAGP840629MD021220170032|COD:-1|DESC:NA
+FIN|30/12/2017 10:55:59 a.m.|DOC: 1CAGP840629MD021220170032
+INI|30/12/2017 10:55:59 a.m.|Comienza Archivo:1CAHE790126SE911220170032
+MSG|30/12/2017 10:55:59 a.m.|Nodo Impuesto Renombrado:1CAHE790126SE911220170032
+ERR|30/12/2017 10:55:59 a.m.|DOC:1CAHE790126SE911220170032|MET:CreateLayoutString|DES:No se puede encontrar una parte de la ruta de acceso 'c:\bis\apptimbrado\requerido\cadenaoriginal_3_3.xslt'.
+TIM|30/12/2017 10:55:59 a.m.|DOC:1CAHE790126SE911220170032|COD:-1|DESC:NA
+FIN|30/12/2017 10:55:59 a.m.|DOC: 1CAHE790126SE911220170032
+INI|30/12/2017 10:55:59 a.m.|Comienza Archivo:1CALJ780513ND211220170032
+MSG|30/12/2017 10:55:59 a.m.|Nodo Impuesto Renombrado:1CALJ780513ND211220170032
+ERR|30/12/2017 10:55:59 a.m.|DOC:1CALJ780513ND211220170032|MET:CreateLayoutString|DES:No se puede encontrar una parte de la ruta de acceso 'c:\bis\apptimbrado\requerido\cadenaoriginal_3_3.xslt'.
+TIM|30/12/2017 10:55:59 a.m.|DOC:1CALJ780513ND211220170032|COD:-1|DESC:NA
+FIN|30/12/2017 10:55:59 a.m.|DOC: 1CALJ780513ND211220170032
+INI|30/12/2017 10:55:59 a.m.|Comienza Archivo:1CAOF700117CQ911220170032
+MSG|30/12/2017 10:55:59 a.m.|Nodo Impuesto Renombrado:1CAOF700117CQ911220170032
+MSG|30/12/2017 10:57:37 a.m.|Parametros asignados webconfig
+MSG|30/12/2017 10:57:37 a.m.|Parametros asignados Base de Datos
+STR|30/12/2017 10:57:38 a.m.|Comienza timbrado de carpeta:28122017
+MSG|30/12/2017 10:57:38 a.m.|Carpeta contiene:237 archivos.
+INI|30/12/2017 10:57:38 a.m.|Comienza Archivo:1AAAJ7004121FA11220170032
+MSG|30/12/2017 10:57:38 a.m.|Nodo Impuesto Renombrado:1AAAJ7004121FA11220170032
+MSG|30/12/2017 10:57:43 a.m.|Archivo Firmado:1AAAJ7004121FA11220170032
+MSG|30/12/2017 10:57:44 a.m.|Archivo sellado:1AAAJ7004121FA11220170032
+MSG|30/12/2017 10:57:47 a.m.|Archivo: 1AAAJ7004121FA11220170032 |Result:CFDI33102 |Desc:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+TIM|30/12/2017 10:57:47 a.m.|DOC:1AAAJ7004121FA11220170032|COD:CFDI33102|DESC:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+FIN|30/12/2017 10:57:47 a.m.|DOC: 1AAAJ7004121FA11220170032
+INI|30/12/2017 10:57:47 a.m.|Comienza Archivo:1AABG650414PJ611220170032
+MSG|30/12/2017 10:57:47 a.m.|Nodo Impuesto Renombrado:1AABG650414PJ611220170032
+MSG|30/12/2017 10:57:50 a.m.|Archivo Firmado:1AABG650414PJ611220170032
+MSG|30/12/2017 10:57:50 a.m.|Archivo sellado:1AABG650414PJ611220170032
+MSG|30/12/2017 10:57:52 a.m.|Archivo: 1AABG650414PJ611220170032 |Result:CFDI33102 |Desc:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+TIM|30/12/2017 10:57:52 a.m.|DOC:1AABG650414PJ611220170032|COD:CFDI33102|DESC:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+FIN|30/12/2017 10:57:52 a.m.|DOC: 1AABG650414PJ611220170032
+INI|30/12/2017 10:57:52 a.m.|Comienza Archivo:1AALJ8405155V411220170032
+MSG|30/12/2017 10:57:52 a.m.|Nodo Impuesto Renombrado:1AALJ8405155V411220170032
+MSG|30/12/2017 10:57:55 a.m.|Archivo Firmado:1AALJ8405155V411220170032
+MSG|30/12/2017 10:57:55 a.m.|Archivo sellado:1AALJ8405155V411220170032
+MSG|30/12/2017 10:57:57 a.m.|Archivo: 1AALJ8405155V411220170032 |Result:CFDI33102 |Desc:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+TIM|30/12/2017 10:57:57 a.m.|DOC:1AALJ8405155V411220170032|COD:CFDI33102|DESC:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+FIN|30/12/2017 10:57:57 a.m.|DOC: 1AALJ8405155V411220170032
+INI|30/12/2017 10:57:57 a.m.|Comienza Archivo:1AARA950318F2811220170032
+MSG|30/12/2017 10:57:57 a.m.|Nodo Impuesto Renombrado:1AARA950318F2811220170032
+MSG|30/12/2017 10:58:00 a.m.|Archivo Firmado:1AARA950318F2811220170032
+MSG|30/12/2017 10:58:00 a.m.|Archivo sellado:1AARA950318F2811220170032
+MSG|30/12/2017 10:58:01 a.m.|Archivo: 1AARA950318F2811220170032 |Result:CFDI33102 |Desc:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+TIM|30/12/2017 10:58:01 a.m.|DOC:1AARA950318F2811220170032|COD:CFDI33102|DESC:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+FIN|30/12/2017 10:58:01 a.m.|DOC: 1AARA950318F2811220170032
+INI|30/12/2017 10:58:02 a.m.|Comienza Archivo:1AARK840104BQ811220170032
+MSG|30/12/2017 10:58:02 a.m.|Nodo Impuesto Renombrado:1AARK840104BQ811220170032
+MSG|30/12/2017 10:58:04 a.m.|Archivo Firmado:1AARK840104BQ811220170032
+MSG|30/12/2017 10:58:04 a.m.|Archivo sellado:1AARK840104BQ811220170032
+MSG|30/12/2017 10:58:06 a.m.|Archivo: 1AARK840104BQ811220170032 |Result:CFDI33102 |Desc:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+TIM|30/12/2017 10:58:06 a.m.|DOC:1AARK840104BQ811220170032|COD:CFDI33102|DESC:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+FIN|30/12/2017 10:58:06 a.m.|DOC: 1AARK840104BQ811220170032
+INI|30/12/2017 10:58:06 a.m.|Comienza Archivo:1AATJ770326N2911220170032
+MSG|30/12/2017 10:58:06 a.m.|Nodo Impuesto Renombrado:1AATJ770326N2911220170032
+MSG|30/12/2017 10:58:09 a.m.|Archivo Firmado:1AATJ770326N2911220170032
+MSG|30/12/2017 10:58:09 a.m.|Archivo sellado:1AATJ770326N2911220170032
+MSG|30/12/2017 11:04:20 a.m.|Parametros asignados webconfig
+MSG|30/12/2017 11:04:20 a.m.|Parametros asignados Base de Datos
+STR|30/12/2017 11:04:20 a.m.|Comienza timbrado de carpeta:28122017
+MSG|30/12/2017 11:04:20 a.m.|Carpeta contiene:232 archivos.
+INI|30/12/2017 11:04:20 a.m.|Comienza Archivo:1AATJ770326N2911220170032
+MSG|30/12/2017 11:04:25 a.m.|Nodo Impuesto Renombrado:1AATJ770326N2911220170032
+MSG|30/12/2017 11:04:33 a.m.|Archivo Firmado:1AATJ770326N2911220170032
+MSG|30/12/2017 11:04:35 a.m.|Archivo sellado:1AATJ770326N2911220170032
+MSG|30/12/2017 12:06:44 p.m.|Parametros asignados webconfig
+MSG|30/12/2017 12:06:44 p.m.|Parametros asignados Base de Datos
+STR|30/12/2017 12:06:44 p.m.|Comienza timbrado de carpeta:28122017
+MSG|30/12/2017 12:06:44 p.m.|Carpeta contiene:232 archivos.
+INI|30/12/2017 12:06:44 p.m.|Comienza Archivo:1AATJ770326N2911220170032
+MSG|30/12/2017 12:06:46 p.m.|Nodo Impuesto Renombrado:1AATJ770326N2911220170032
+MSG|30/12/2017 12:06:54 p.m.|Archivo Firmado:1AATJ770326N2911220170032
+MSG|30/12/2017 12:06:56 p.m.|Archivo sellado:1AATJ770326N2911220170032
+MSG|30/12/2017 12:07:38 p.m.|Archivo: 1AATJ770326N2911220170032 |Result:CFDI33102 |Desc:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+TIM|30/12/2017 12:07:41 p.m.|DOC:1AATJ770326N2911220170032|COD:CFDI33102|DESC:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+FIN|30/12/2017 12:07:41 p.m.|DOC: 1AATJ770326N2911220170032
+INI|30/12/2017 12:07:43 p.m.|Comienza Archivo:1AEAL800929KQ921220170032
+MSG|30/12/2017 12:07:45 p.m.|Nodo Impuesto Renombrado:1AEAL800929KQ921220170032
+MSG|30/12/2017 12:07:49 p.m.|Archivo Firmado:1AEAL800929KQ921220170032
+MSG|30/12/2017 12:07:51 p.m.|Archivo sellado:1AEAL800929KQ921220170032
+MSG|30/12/2017 01:21:34 p.m.|Parametros asignados webconfig
+MSG|30/12/2017 01:21:34 p.m.|Parametros asignados Base de Datos
+STR|30/12/2017 01:21:34 p.m.|Comienza timbrado de carpeta:28122017
+MSG|30/12/2017 01:21:34 p.m.|Carpeta contiene:1 archivos.
+INI|30/12/2017 01:21:34 p.m.|Comienza Archivo:1AEDM650312G3711220170032
+MSG|30/12/2017 01:21:34 p.m.|Nodo Impuesto Renombrado:1AEDM650312G3711220170032
+MSG|30/12/2017 01:22:39 p.m.|Parametros asignados webconfig
+MSG|30/12/2017 01:22:39 p.m.|Parametros asignados Base de Datos
+STR|30/12/2017 01:22:39 p.m.|Comienza timbrado de carpeta:28122017
+MSG|30/12/2017 01:22:39 p.m.|Carpeta contiene:1 archivos.
+INI|30/12/2017 01:22:39 p.m.|Comienza Archivo:1AEDM650312G3711220170032
+MSG|30/12/2017 01:22:39 p.m.|Nodo Impuesto Renombrado:1AEDM650312G3711220170032
+MSG|30/12/2017 01:22:44 p.m.|Archivo Firmado:1AEDM650312G3711220170032
+MSG|30/12/2017 01:22:45 p.m.|Archivo sellado:1AEDM650312G3711220170032
+MSG|30/12/2017 01:24:04 p.m.|Ruta Archivo timbrado:C:\Nomina_Timbrado\Timbrados\Quincenal\003\28122017\1AEDM650312G3711220170032tim.xml
+MSG|30/12/2017 01:24:13 p.m.|Archivo PDF Creado para:1AEDM650312G3711220170032
+TIM|30/12/2017 01:24:13 p.m.|DOC:1AEDM650312G3711220170032|COD:100|DESC:CFDI timbrado correctamente.
+FIN|30/12/2017 01:24:13 p.m.|DOC: 1AEDM650312G3711220170032
+FNP|30/12/2017 01:24:13 p.m.|Carpeta:28122017|TotalDocs:1|Timbrados:1|NoTimbrados:0|Error:0
+END|30/12/2017 01:24:13 p.m.|Termina  timbrado de carpeta:28122017

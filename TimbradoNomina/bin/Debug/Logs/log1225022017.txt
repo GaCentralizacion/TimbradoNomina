@@ -1,0 +1,30 @@
+Inicio archivo log 
+MSG|27/12/2017 03:20:22 p.m.|Parametros asignados webconfig
+MSG|27/12/2017 03:20:22 p.m.|Parametros asignados Base de Datos
+STR|27/12/2017 03:20:22 p.m.|Comienza timbrado de carpeta:25022017
+MSG|27/12/2017 03:20:22 p.m.|Carpeta contiene:6 archivos.
+INI|27/12/2017 03:20:22 p.m.|Comienza Archivo:1AIRF8308177C811220170011
+MSG|27/12/2017 03:20:24 p.m.|Nodo Impuesto Renombrado:1AIRF8308177C811220170011
+MSG|27/12/2017 03:20:30 p.m.|Archivo Firmado:1AIRF8308177C811220170011
+MSG|27/12/2017 03:20:31 p.m.|Archivo sellado:1AIRF8308177C811220170011
+MSG|27/12/2017 03:20:58 p.m.|Ruta Archivo timbrado:C:\Nomina_Timbrado\Timbrados\Quincenal\004\25022017\1AIRF8308177C811220170011tim.xml
+PDF|27/12/2017 03:20:58 p.m.|DOC:1AIRF8308177C811220170011|MET:SetPDFValues|DES:Referencia a objeto no establecida como instancia de un objeto.
+TIM|27/12/2017 03:20:58 p.m.|DOC:1AIRF8308177C811220170011|COD:100|DESC:CFDI timbrado correctamente.
+FIN|27/12/2017 03:20:58 p.m.|DOC: 1AIRF8308177C811220170011
+INI|27/12/2017 03:20:58 p.m.|Comienza Archivo:1CODD870807E5511220170011
+MSG|27/12/2017 03:21:00 p.m.|Nodo Impuesto Renombrado:1CODD870807E5511220170011
+MSG|27/12/2017 03:21:05 p.m.|Archivo Firmado:1CODD870807E5511220170011
+MSG|27/12/2017 03:21:06 p.m.|Archivo sellado:1CODD870807E5511220170011
+MSG|27/12/2017 03:46:16 p.m.|Parametros asignados webconfig
+MSG|27/12/2017 03:46:16 p.m.|Parametros asignados Base de Datos
+STR|27/12/2017 03:46:16 p.m.|Comienza timbrado de carpeta:25022017
+MSG|27/12/2017 03:46:16 p.m.|Carpeta contiene:1 archivos.
+INI|27/12/2017 03:46:16 p.m.|Comienza Archivo:1AIRF8308177C811220170011
+MSG|27/12/2017 03:46:17 p.m.|Nodo Impuesto Renombrado:1AIRF8308177C811220170011
+MSG|27/12/2017 03:46:21 p.m.|Archivo Firmado:1AIRF8308177C811220170011
+MSG|27/12/2017 03:46:23 p.m.|Archivo sellado:1AIRF8308177C811220170011
+MSG|27/12/2017 03:46:43 p.m.|Ruta Archivo timbrado:C:\Nomina_Timbrado\Timbrados\Quincenal\004\25022017\1AIRF8308177C811220170011tim.xml
+PDF|27/12/2017 03:46:43 p.m.|DOC:1AIRF8308177C811220170011|MET:SetPDFValues|DES:Referencia a objeto no establecida como instancia de un objeto.
+TIM|27/12/2017 03:46:43 p.m.|DOC:1AIRF8308177C811220170011|COD:100|DESC:CFDI timbrado correctamente.
+FIN|27/12/2017 03:46:43 p.m.|DOC: 1AIRF8308177C811220170011
+FNP|27/12/2017 03:46:43 p.m.|Carpeta:25022017|TotalDocs:1|Timbrados:1|NoTimbrados:0|Error:0

@@ -1,0 +1,59 @@
+Inicio archivo log 
+MSG|28/12/2017 11:05:23 a.m.|Parametros asignados webconfig
+MSG|28/12/2017 11:05:23 a.m.|Parametros asignados Base de Datos
+MSG|28/12/2017 11:05:23 a.m.|directorio creado:C:\Nomina_Timbrado\Timbrados\Quincenal\004\Prueba\
+MSG|28/12/2017 11:05:23 a.m.|directorio creado:C:\Nomina_Timbrado\SinTimbrar\Quincenal\004\Prueba\
+STR|28/12/2017 11:05:23 a.m.|Comienza timbrado de carpeta:Prueba
+MSG|28/12/2017 11:05:23 a.m.|Carpeta contiene:1 archivos.
+INI|28/12/2017 11:05:23 a.m.|Comienza Archivo:1BAGP6711094N810220170032
+MSG|28/12/2017 11:05:26 a.m.|Nodo Impuesto Renombrado:1BAGP6711094N810220170032
+MSG|28/12/2017 11:05:36 a.m.|Archivo Firmado:1BAGP6711094N810220170032
+MSG|28/12/2017 11:05:38 a.m.|Archivo sellado:1BAGP6711094N810220170032
+MSG|28/12/2017 11:06:13 a.m.|Ruta Archivo timbrado:C:\Nomina_Timbrado\Timbrados\Quincenal\004\Prueba\1BAGP6711094N810220170032tim.xml
+MSG|28/12/2017 12:38:53 p.m.|Parametros asignados webconfig
+MSG|28/12/2017 12:38:53 p.m.|Parametros asignados Base de Datos
+STR|28/12/2017 12:38:53 p.m.|Comienza timbrado de carpeta:Prueba
+MSG|28/12/2017 12:38:53 p.m.|Carpeta contiene:1 archivos.
+INI|28/12/2017 12:38:53 p.m.|Comienza Archivo:1BAGP6711094N810220170032
+MSG|28/12/2017 12:38:58 p.m.|Nodo Impuesto Renombrado:1BAGP6711094N810220170032
+MSG|28/12/2017 12:39:01 p.m.|Archivo Firmado:1BAGP6711094N810220170032
+MSG|28/12/2017 12:39:03 p.m.|Archivo sellado:1BAGP6711094N810220170032
+MSG|28/12/2017 12:39:27 p.m.|Ruta Archivo timbrado:C:\Nomina_Timbrado\Timbrados\Quincenal\004\Prueba\1BAGP6711094N810220170032tim.xml
+MSG|28/12/2017 12:52:57 p.m.|Parametros asignados webconfig
+MSG|28/12/2017 12:52:57 p.m.|Parametros asignados Base de Datos
+STR|28/12/2017 12:52:58 p.m.|Comienza timbrado de carpeta:Prueba
+MSG|28/12/2017 12:52:58 p.m.|Carpeta contiene:1 archivos.
+INI|28/12/2017 12:52:58 p.m.|Comienza Archivo:1BAGP6711094N810220170032
+MSG|28/12/2017 12:53:07 p.m.|Nodo Impuesto Renombrado:1BAGP6711094N810220170032
+MSG|28/12/2017 12:53:11 p.m.|Archivo Firmado:1BAGP6711094N810220170032
+MSG|28/12/2017 12:53:12 p.m.|Archivo sellado:1BAGP6711094N810220170032
+MSG|28/12/2017 12:53:26 p.m.|Ruta Archivo timbrado:C:\Nomina_Timbrado\Timbrados\Quincenal\004\Prueba\1BAGP6711094N810220170032tim.xml
+PDF|28/12/2017 01:05:53 p.m.|DOC:1BAGP6711094N810220170032|MET:SetPDFValues|DES:Error genérico en GDI+.
+TIM|28/12/2017 01:05:53 p.m.|DOC:1BAGP6711094N810220170032|COD:100|DESC:CFDI timbrado correctamente.
+FIN|28/12/2017 01:05:53 p.m.|DOC: 1BAGP6711094N810220170032
+FNP|28/12/2017 01:05:53 p.m.|Carpeta:Prueba|TotalDocs:1|Timbrados:1|NoTimbrados:0|Error:0
+MSG|28/12/2017 01:10:10 p.m.|La carpeta Prueba ya fue procesada
+MSG|28/12/2017 01:12:23 p.m.|Parametros asignados webconfig
+MSG|28/12/2017 01:12:23 p.m.|Parametros asignados Base de Datos
+STR|28/12/2017 01:12:23 p.m.|Comienza timbrado de carpeta:Prueba
+MSG|28/12/2017 01:12:23 p.m.|Carpeta contiene:1 archivos.
+INI|28/12/2017 01:12:23 p.m.|Comienza Archivo:1BAGP6711094N810220170032
+MSG|28/12/2017 01:12:27 p.m.|Nodo Impuesto Renombrado:1BAGP6711094N810220170032
+MSG|28/12/2017 01:12:31 p.m.|Archivo Firmado:1BAGP6711094N810220170032
+MSG|28/12/2017 01:12:32 p.m.|Archivo sellado:1BAGP6711094N810220170032
+MSG|28/12/2017 01:12:45 p.m.|Ruta Archivo timbrado:C:\Nomina_Timbrado\Timbrados\Quincenal\004\Prueba\1BAGP6711094N810220170032tim.xml
+MSG|28/12/2017 01:13:06 p.m.|Archivo PDF Creado para:1BAGP6711094N810220170032
+TIM|28/12/2017 01:13:17 p.m.|DOC:1BAGP6711094N810220170032|COD:100|DESC:CFDI timbrado correctamente.
+FIN|28/12/2017 01:13:18 p.m.|DOC: 1BAGP6711094N810220170032
+FNP|28/12/2017 01:13:39 p.m.|Carpeta:Prueba|TotalDocs:1|Timbrados:1|NoTimbrados:0|Error:0
+END|28/12/2017 01:13:45 p.m.|Termina  timbrado de carpeta:Prueba
+MSG|28/12/2017 01:25:24 p.m.|Parametros asignados webconfig
+MSG|28/12/2017 01:25:24 p.m.|Parametros asignados Base de Datos
+STR|28/12/2017 01:25:24 p.m.|Comienza timbrado de carpeta:Prueba
+MSG|28/12/2017 01:25:24 p.m.|Carpeta contiene:1 archivos.
+INI|28/12/2017 01:25:24 p.m.|Comienza Archivo:1BAGP6711094N810220170032
+MSG|28/12/2017 01:25:26 p.m.|Nodo Impuesto Renombrado:1BAGP6711094N810220170032
+MSG|28/12/2017 01:25:30 p.m.|Archivo Firmado:1BAGP6711094N810220170032
+MSG|28/12/2017 01:25:32 p.m.|Archivo sellado:1BAGP6711094N810220170032
+MSG|28/12/2017 01:25:43 p.m.|Ruta Archivo timbrado:C:\Nomina_Timbrado\Timbrados\Quincenal\004\Prueba\1BAGP6711094N810220170032tim.xml
+MSG|28/12/2017 01:27:39 p.m.|Archivo PDF Creado para:1BAGP6711094N810220170032

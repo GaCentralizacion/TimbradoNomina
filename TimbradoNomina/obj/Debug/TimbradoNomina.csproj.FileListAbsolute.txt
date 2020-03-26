@@ -1,0 +1,183 @@
+c:\users\hp\documents\visual studio 2013\Projects\TimbradoNomina\TimbradoNomina\bin\Debug\TimbradoNomina.exe.config
+c:\users\hp\documents\visual studio 2013\Projects\TimbradoNomina\TimbradoNomina\bin\Debug\TimbradoNomina.exe
+c:\users\hp\documents\visual studio 2013\Projects\TimbradoNomina\TimbradoNomina\bin\Debug\TimbradoNomina.pdb
+c:\users\hp\documents\visual studio 2013\Projects\TimbradoNomina\TimbradoNomina\bin\Debug\CommonFunctions.dll
+c:\users\hp\documents\visual studio 2013\Projects\TimbradoNomina\TimbradoNomina\bin\Debug\QRCoder.dll
+c:\users\hp\documents\visual studio 2013\Projects\TimbradoNomina\TimbradoNomina\bin\Debug\UnityEngine.dll
+c:\users\hp\documents\visual studio 2013\Projects\TimbradoNomina\TimbradoNomina\bin\Debug\CommonFunctions.pdb
+c:\users\hp\documents\visual studio 2013\Projects\TimbradoNomina\TimbradoNomina\obj\Debug\TimbradoNomina.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2013\Projects\TimbradoNomina\TimbradoNomina\obj\Debug\TimbradoNomina.exe
+c:\users\hp\documents\visual studio 2013\Projects\TimbradoNomina\TimbradoNomina\obj\Debug\TimbradoNomina.pdb
+c:\users\hp\documents\visual studio 2013\Projects\TimbradoNomina\TimbradoNomina\bin\Debug\Newtonsoft.Json.dll
+c:\users\hp\documents\visual studio 2013\Projects\TimbradoNomina\TimbradoNomina\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Public\Documents\TimbradoNomina\TimbradoNomina\bin\Debug\Logs\LogFile.txt
+C:\Users\Public\Documents\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\XmlToLayout.xslt
+C:\Users\Public\Documents\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\CODISPERSA.pem
+C:\Users\Public\Documents\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\MONTE.pem
+C:\Users\Public\Documents\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\NominaSchema.xsd
+C:\Users\Public\Documents\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\PISA.pem
+C:\Users\Public\Documents\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\SERVCONTSCA.pem
+C:\Users\Public\Documents\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\SPA.pem
+C:\Users\Public\Documents\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\TENENCIA.pem
+C:\Users\Public\Documents\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\TRASINMEX.pem
+C:\Users\Public\Documents\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\VELBUS.pem
+C:\Users\Public\Documents\TimbradoNomina\TimbradoNomina\bin\Debug\TimbradoNomina.exe.config
+C:\Users\Public\Documents\TimbradoNomina\TimbradoNomina\bin\Debug\TimbradoNomina.exe.manifest
+C:\Users\Public\Documents\TimbradoNomina\TimbradoNomina\bin\Debug\TimbradoNomina.application
+C:\Users\Public\Documents\TimbradoNomina\TimbradoNomina\bin\Debug\TimbradoNomina.exe
+C:\Users\Public\Documents\TimbradoNomina\TimbradoNomina\bin\Debug\TimbradoNomina.pdb
+C:\Users\Public\Documents\TimbradoNomina\TimbradoNomina\bin\Debug\CommonFunctions.dll
+C:\Users\Public\Documents\TimbradoNomina\TimbradoNomina\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Public\Documents\TimbradoNomina\TimbradoNomina\bin\Debug\QRCoder.dll
+C:\Users\Public\Documents\TimbradoNomina\TimbradoNomina\bin\Debug\UnityEngine.dll
+C:\Users\Public\Documents\TimbradoNomina\TimbradoNomina\bin\Debug\CommonFunctions.pdb
+C:\Users\Public\Documents\TimbradoNomina\TimbradoNomina\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Public\Documents\TimbradoNomina\TimbradoNomina\obj\Debug\TimbradoNomina.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\TimbradoNomina\TimbradoNomina\obj\Debug\TimbradoNomina.csproj.CoreCompileInputs.cache
+C:\Users\Public\Documents\TimbradoNomina\TimbradoNomina\obj\Debug\TimbradoNomina.exe.manifest
+C:\Users\Public\Documents\TimbradoNomina\TimbradoNomina\obj\Debug\TimbradoNomina.application
+C:\Users\Public\Documents\TimbradoNomina\TimbradoNomina\obj\Debug\TimbradoNomina.exe
+C:\Users\Public\Documents\TimbradoNomina\TimbradoNomina\obj\Debug\TimbradoNomina.pdb
+C:\Users\Wayssen\Downloads\UltimoIntentoNomina\TimbradoNomina\TimbradoNomina\bin\Debug\TimbradoNomina.exe.config
+C:\Users\Wayssen\Downloads\UltimoIntentoNomina\TimbradoNomina\TimbradoNomina\obj\Debug\TimbradoNomina.exe
+C:\Users\Wayssen\Downloads\UltimoIntentoNomina\TimbradoNomina\TimbradoNomina\obj\Debug\TimbradoNomina.pdb
+C:\Users\Wayssen\Downloads\UltimoIntentoNomina\TimbradoNomina\TimbradoNomina\bin\Debug\Logs\LogFile.txt
+C:\Users\Wayssen\Downloads\UltimoIntentoNomina\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\XmlToLayout.xslt
+C:\Users\Wayssen\Downloads\UltimoIntentoNomina\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\CODISPERSA.pem
+C:\Users\Wayssen\Downloads\UltimoIntentoNomina\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\MONTE.pem
+C:\Users\Wayssen\Downloads\UltimoIntentoNomina\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\NominaSchema.xsd
+C:\Users\Wayssen\Downloads\UltimoIntentoNomina\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\PISA.pem
+C:\Users\Wayssen\Downloads\UltimoIntentoNomina\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\SERVCONTSCA.pem
+C:\Users\Wayssen\Downloads\UltimoIntentoNomina\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\SPA.pem
+C:\Users\Wayssen\Downloads\UltimoIntentoNomina\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\TENENCIA.pem
+C:\Users\Wayssen\Downloads\UltimoIntentoNomina\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\TRASINMEX.pem
+C:\Users\Wayssen\Downloads\UltimoIntentoNomina\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\VELBUS.pem
+C:\Users\Wayssen\Downloads\UltimoIntentoNomina\TimbradoNomina\TimbradoNomina\bin\Debug\TimbradoNomina.exe.manifest
+C:\Users\Wayssen\Downloads\UltimoIntentoNomina\TimbradoNomina\TimbradoNomina\bin\Debug\TimbradoNomina.application
+C:\Users\Wayssen\Downloads\UltimoIntentoNomina\TimbradoNomina\TimbradoNomina\bin\Debug\TimbradoNomina.exe
+C:\Users\Wayssen\Downloads\UltimoIntentoNomina\TimbradoNomina\TimbradoNomina\bin\Debug\TimbradoNomina.pdb
+C:\Users\Wayssen\Downloads\UltimoIntentoNomina\TimbradoNomina\TimbradoNomina\bin\Debug\CommonFunctions.dll
+C:\Users\Wayssen\Downloads\UltimoIntentoNomina\TimbradoNomina\TimbradoNomina\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Wayssen\Downloads\UltimoIntentoNomina\TimbradoNomina\TimbradoNomina\bin\Debug\QRCoder.dll
+C:\Users\Wayssen\Downloads\UltimoIntentoNomina\TimbradoNomina\TimbradoNomina\bin\Debug\UnityEngine.dll
+C:\Users\Wayssen\Downloads\UltimoIntentoNomina\TimbradoNomina\TimbradoNomina\bin\Debug\CommonFunctions.pdb
+C:\Users\Wayssen\Downloads\UltimoIntentoNomina\TimbradoNomina\TimbradoNomina\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Wayssen\Downloads\UltimoIntentoNomina\TimbradoNomina\TimbradoNomina\obj\Debug\TimbradoNomina.csprojResolveAssemblyReference.cache
+C:\Users\Wayssen\Downloads\UltimoIntentoNomina\TimbradoNomina\TimbradoNomina\obj\Debug\TimbradoNomina.exe.manifest
+C:\Users\Wayssen\Downloads\UltimoIntentoNomina\TimbradoNomina\TimbradoNomina\obj\Debug\TimbradoNomina.application
+C:\Users\lenovo\PRODUCCION CANCELACION\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\Logs\LogFile.txt
+C:\Users\lenovo\PRODUCCION CANCELACION\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\XmlToLayout.xslt
+C:\Users\lenovo\PRODUCCION CANCELACION\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\CODISPERSA.pem
+C:\Users\lenovo\PRODUCCION CANCELACION\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\MONTE.pem
+C:\Users\lenovo\PRODUCCION CANCELACION\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\NominaSchema.xsd
+C:\Users\lenovo\PRODUCCION CANCELACION\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\PISA.pem
+C:\Users\lenovo\PRODUCCION CANCELACION\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\SERVCONTSCA.pem
+C:\Users\lenovo\PRODUCCION CANCELACION\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\SPA.pem
+C:\Users\lenovo\PRODUCCION CANCELACION\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\TENENCIA.pem
+C:\Users\lenovo\PRODUCCION CANCELACION\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\TRASINMEX.pem
+C:\Users\lenovo\PRODUCCION CANCELACION\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\VELBUS.pem
+C:\Users\lenovo\PRODUCCION CANCELACION\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\TimbradoNomina.exe.config
+C:\Users\lenovo\PRODUCCION CANCELACION\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\TimbradoNomina.exe.manifest
+C:\Users\lenovo\PRODUCCION CANCELACION\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\TimbradoNomina.application
+C:\Users\lenovo\PRODUCCION CANCELACION\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\TimbradoNomina.exe
+C:\Users\lenovo\PRODUCCION CANCELACION\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\TimbradoNomina.pdb
+C:\Users\lenovo\PRODUCCION CANCELACION\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\CommonFunctions.dll
+C:\Users\lenovo\PRODUCCION CANCELACION\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lenovo\PRODUCCION CANCELACION\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\QRCoder.dll
+C:\Users\lenovo\PRODUCCION CANCELACION\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\UnityEngine.dll
+C:\Users\lenovo\PRODUCCION CANCELACION\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\CommonFunctions.pdb
+C:\Users\lenovo\PRODUCCION CANCELACION\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lenovo\PRODUCCION CANCELACION\ejecutable completo\TimbradoNomina\TimbradoNomina\obj\Debug\TimbradoNomina.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\PRODUCCION CANCELACION\ejecutable completo\TimbradoNomina\TimbradoNomina\obj\Debug\TimbradoNomina.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\PRODUCCION CANCELACION\ejecutable completo\TimbradoNomina\TimbradoNomina\obj\Debug\TimbradoNomina.exe.manifest
+C:\Users\lenovo\PRODUCCION CANCELACION\ejecutable completo\TimbradoNomina\TimbradoNomina\obj\Debug\TimbradoNomina.application
+C:\Users\lenovo\PRODUCCION CANCELACION\ejecutable completo\TimbradoNomina\TimbradoNomina\obj\Debug\TimbradoNomina.csproj.CopyComplete
+C:\Users\lenovo\PRODUCCION CANCELACION\ejecutable completo\TimbradoNomina\TimbradoNomina\obj\Debug\TimbradoNomina.exe
+C:\Users\lenovo\PRODUCCION CANCELACION\ejecutable completo\TimbradoNomina\TimbradoNomina\obj\Debug\TimbradoNomina.pdb
+C:\Users\USUARIO\Desktop\Memoria\PRODUCCION CANCELACION\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\Logs\LogFile.txt
+C:\Users\USUARIO\Desktop\Memoria\PRODUCCION CANCELACION\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\XmlToLayout.xslt
+C:\Users\USUARIO\Desktop\Memoria\PRODUCCION CANCELACION\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\CODISPERSA.pem
+C:\Users\USUARIO\Desktop\Memoria\PRODUCCION CANCELACION\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\MONTE.pem
+C:\Users\USUARIO\Desktop\Memoria\PRODUCCION CANCELACION\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\NominaSchema.xsd
+C:\Users\USUARIO\Desktop\Memoria\PRODUCCION CANCELACION\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\PISA.pem
+C:\Users\USUARIO\Desktop\Memoria\PRODUCCION CANCELACION\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\SERVCONTSCA.pem
+C:\Users\USUARIO\Desktop\Memoria\PRODUCCION CANCELACION\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\SPA.pem
+C:\Users\USUARIO\Desktop\Memoria\PRODUCCION CANCELACION\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\TENENCIA.pem
+C:\Users\USUARIO\Desktop\Memoria\PRODUCCION CANCELACION\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\TRASINMEX.pem
+C:\Users\USUARIO\Desktop\Memoria\PRODUCCION CANCELACION\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\VELBUS.pem
+C:\Users\USUARIO\Desktop\Memoria\PRODUCCION CANCELACION\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\TimbradoNomina.exe.config
+C:\Users\USUARIO\Desktop\Memoria\PRODUCCION CANCELACION\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\TimbradoNomina.exe.manifest
+C:\Users\USUARIO\Desktop\Memoria\PRODUCCION CANCELACION\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\TimbradoNomina.application
+C:\Users\USUARIO\Desktop\Memoria\PRODUCCION CANCELACION\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\TimbradoNomina.exe
+C:\Users\USUARIO\Desktop\Memoria\PRODUCCION CANCELACION\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\TimbradoNomina.pdb
+C:\Users\USUARIO\Desktop\Memoria\PRODUCCION CANCELACION\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\CommonFunctions.dll
+C:\Users\USUARIO\Desktop\Memoria\PRODUCCION CANCELACION\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USUARIO\Desktop\Memoria\PRODUCCION CANCELACION\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\QRCoder.dll
+C:\Users\USUARIO\Desktop\Memoria\PRODUCCION CANCELACION\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\UnityEngine.dll
+C:\Users\USUARIO\Desktop\Memoria\PRODUCCION CANCELACION\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\CommonFunctions.pdb
+C:\Users\USUARIO\Desktop\Memoria\PRODUCCION CANCELACION\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USUARIO\Desktop\Memoria\PRODUCCION CANCELACION\ejecutable completo\TimbradoNomina\TimbradoNomina\obj\Debug\TimbradoNomina.csprojAssemblyReference.cache
+C:\Users\USUARIO\Desktop\Memoria\PRODUCCION CANCELACION\ejecutable completo\TimbradoNomina\TimbradoNomina\obj\Debug\TimbradoNomina.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Memoria\PRODUCCION CANCELACION\ejecutable completo\TimbradoNomina\TimbradoNomina\obj\Debug\TimbradoNomina.exe.manifest
+C:\Users\USUARIO\Desktop\Memoria\PRODUCCION CANCELACION\ejecutable completo\TimbradoNomina\TimbradoNomina\obj\Debug\TimbradoNomina.application
+C:\Users\USUARIO\Desktop\Memoria\PRODUCCION CANCELACION\ejecutable completo\TimbradoNomina\TimbradoNomina\obj\Debug\TimbradoNomina.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\Memoria\PRODUCCION CANCELACION\ejecutable completo\TimbradoNomina\TimbradoNomina\obj\Debug\TimbradoNomina.exe
+C:\Users\USUARIO\Desktop\Memoria\PRODUCCION CANCELACION\ejecutable completo\TimbradoNomina\TimbradoNomina\obj\Debug\TimbradoNomina.pdb
+C:\Users\USUARIO\Desktop\Timbrado - Completo\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\Logs\LogFile.txt
+C:\Users\USUARIO\Desktop\Timbrado - Completo\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\XmlToLayout.xslt
+C:\Users\USUARIO\Desktop\Timbrado - Completo\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\CODISPERSA.pem
+C:\Users\USUARIO\Desktop\Timbrado - Completo\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\MONTE.pem
+C:\Users\USUARIO\Desktop\Timbrado - Completo\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\NominaSchema.xsd
+C:\Users\USUARIO\Desktop\Timbrado - Completo\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\PISA.pem
+C:\Users\USUARIO\Desktop\Timbrado - Completo\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\SERVCONTSCA.pem
+C:\Users\USUARIO\Desktop\Timbrado - Completo\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\SPA.pem
+C:\Users\USUARIO\Desktop\Timbrado - Completo\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\TENENCIA.pem
+C:\Users\USUARIO\Desktop\Timbrado - Completo\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\TRASINMEX.pem
+C:\Users\USUARIO\Desktop\Timbrado - Completo\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\VELBUS.pem
+C:\Users\USUARIO\Desktop\Timbrado - Completo\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\TimbradoNomina.exe.config
+C:\Users\USUARIO\Desktop\Timbrado - Completo\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\TimbradoNomina.exe.manifest
+C:\Users\USUARIO\Desktop\Timbrado - Completo\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\TimbradoNomina.application
+C:\Users\USUARIO\Desktop\Timbrado - Completo\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\TimbradoNomina.exe
+C:\Users\USUARIO\Desktop\Timbrado - Completo\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\TimbradoNomina.pdb
+C:\Users\USUARIO\Desktop\Timbrado - Completo\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\CommonFunctions.dll
+C:\Users\USUARIO\Desktop\Timbrado - Completo\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USUARIO\Desktop\Timbrado - Completo\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\QRCoder.dll
+C:\Users\USUARIO\Desktop\Timbrado - Completo\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\UnityEngine.dll
+C:\Users\USUARIO\Desktop\Timbrado - Completo\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\CommonFunctions.pdb
+C:\Users\USUARIO\Desktop\Timbrado - Completo\ejecutable completo\TimbradoNomina\TimbradoNomina\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USUARIO\Desktop\Timbrado - Completo\ejecutable completo\TimbradoNomina\TimbradoNomina\obj\Debug\TimbradoNomina.csprojAssemblyReference.cache
+C:\Users\USUARIO\Desktop\Timbrado - Completo\ejecutable completo\TimbradoNomina\TimbradoNomina\obj\Debug\TimbradoNomina.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Timbrado - Completo\ejecutable completo\TimbradoNomina\TimbradoNomina\obj\Debug\TimbradoNomina.exe.manifest
+C:\Users\USUARIO\Desktop\Timbrado - Completo\ejecutable completo\TimbradoNomina\TimbradoNomina\obj\Debug\TimbradoNomina.application
+C:\Users\USUARIO\Desktop\Timbrado - Completo\ejecutable completo\TimbradoNomina\TimbradoNomina\obj\Debug\TimbradoNomina.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\Timbrado - Completo\ejecutable completo\TimbradoNomina\TimbradoNomina\obj\Debug\TimbradoNomina.exe
+C:\Users\USUARIO\Desktop\Timbrado - Completo\ejecutable completo\TimbradoNomina\TimbradoNomina\obj\Debug\TimbradoNomina.pdb
+C:\fal\desarrollo\nomina\cambio06032019\TimbradoNomina\TimbradoNomina\obj\Debug\TimbradoNomina.csprojAssemblyReference.cache
+C:\fal\desarrollo\nomina\cambio06032019\TimbradoNomina\TimbradoNomina\obj\Debug\TimbradoNomina.csproj.CoreCompileInputs.cache
+C:\fal\desarrollo\nomina\cambio06032019\TimbradoNomina\TimbradoNomina\obj\Debug\TimbradoNomina.exe
+C:\fal\desarrollo\nomina\cambio06032019\TimbradoNomina\TimbradoNomina\obj\Debug\TimbradoNomina.pdb
+C:\fal\desarrollo\nomina\cambio06032019\TimbradoNomina\TimbradoNomina\bin\Debug\Logs\LogFile.txt
+C:\fal\desarrollo\nomina\cambio06032019\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\XmlToLayout.xslt
+C:\fal\desarrollo\nomina\cambio06032019\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\CODISPERSA.pem
+C:\fal\desarrollo\nomina\cambio06032019\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\MONTE.pem
+C:\fal\desarrollo\nomina\cambio06032019\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\NominaSchema.xsd
+C:\fal\desarrollo\nomina\cambio06032019\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\PISA.pem
+C:\fal\desarrollo\nomina\cambio06032019\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\SERVCONTSCA.pem
+C:\fal\desarrollo\nomina\cambio06032019\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\SPA.pem
+C:\fal\desarrollo\nomina\cambio06032019\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\TENENCIA.pem
+C:\fal\desarrollo\nomina\cambio06032019\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\TRASINMEX.pem
+C:\fal\desarrollo\nomina\cambio06032019\TimbradoNomina\TimbradoNomina\bin\Debug\Requerido\VELBUS.pem
+C:\fal\desarrollo\nomina\cambio06032019\TimbradoNomina\TimbradoNomina\bin\Debug\TimbradoNomina.exe.config
+C:\fal\desarrollo\nomina\cambio06032019\TimbradoNomina\TimbradoNomina\bin\Debug\TimbradoNomina.exe.manifest
+C:\fal\desarrollo\nomina\cambio06032019\TimbradoNomina\TimbradoNomina\bin\Debug\TimbradoNomina.application
+C:\fal\desarrollo\nomina\cambio06032019\TimbradoNomina\TimbradoNomina\bin\Debug\TimbradoNomina.exe
+C:\fal\desarrollo\nomina\cambio06032019\TimbradoNomina\TimbradoNomina\bin\Debug\TimbradoNomina.pdb
+C:\fal\desarrollo\nomina\cambio06032019\TimbradoNomina\TimbradoNomina\bin\Debug\CommonFunctions.dll
+C:\fal\desarrollo\nomina\cambio06032019\TimbradoNomina\TimbradoNomina\bin\Debug\Newtonsoft.Json.dll
+C:\fal\desarrollo\nomina\cambio06032019\TimbradoNomina\TimbradoNomina\bin\Debug\QRCoder.dll
+C:\fal\desarrollo\nomina\cambio06032019\TimbradoNomina\TimbradoNomina\bin\Debug\UnityEngine.dll
+C:\fal\desarrollo\nomina\cambio06032019\TimbradoNomina\TimbradoNomina\bin\Debug\CommonFunctions.pdb
+C:\fal\desarrollo\nomina\cambio06032019\TimbradoNomina\TimbradoNomina\bin\Debug\Newtonsoft.Json.xml
+C:\fal\desarrollo\nomina\cambio06032019\TimbradoNomina\TimbradoNomina\obj\Debug\TimbradoNomina.exe.manifest
+C:\fal\desarrollo\nomina\cambio06032019\TimbradoNomina\TimbradoNomina\obj\Debug\TimbradoNomina.application
+C:\fal\desarrollo\nomina\cambio06032019\TimbradoNomina\TimbradoNomina\obj\Debug\TimbradoNomina.csproj.CopyComplete

@@ -1,0 +1,38 @@
+Inicio archivo log 
+MSG|15/05/2017 04:05:53 p.m.|Parametros asignados webconfig
+MSG|15/05/2017 04:05:53 p.m.|Parametros asignados Base de Datos
+STR|15/05/2017 04:05:53 p.m.|Comienza timbrado de carpeta:09012017
+MSG|15/05/2017 04:05:53 p.m.|Carpeta contiene:1 archivos.
+INI|15/05/2017 04:05:53 p.m.|Comienza Archivo:1AAFI680107LI110420170031
+MSG|15/05/2017 04:05:54 p.m.|Archivo Firmado:1AAFI680107LI110420170031
+MSG|15/05/2017 04:05:55 p.m.|Archivo sellado:1AAFI680107LI110420170031
+MSG|15/05/2017 04:05:55 p.m.|Archivo Timbrado:1AAFI680107LI110420170031
+MSG|15/05/2017 04:05:55 p.m.|Ruta Archivo timbrado:C:\Users\Hp\Desktop\Anterior\TimbradoNomina\xml\Timbrados\001\09012017\1AAFI680107LI110420170031tim.xml
+MSG|15/05/2017 04:05:57 p.m.|Archivo PDF Creado para:1AAFI680107LI110420170031
+TIM|15/05/2017 04:05:57 p.m.|DOC:1AAFI680107LI110420170031|COD:100|DESC:timbrado
+FIN|15/05/2017 04:05:57 p.m.|DOC: 1AAFI680107LI110420170031
+FNP|15/05/2017 04:05:57 p.m.|Carpeta:09012017|TotalDocs:1|Timbrados:1|NoTimbrados:0|Error:0
+END|15/05/2017 04:05:58 p.m.|Termina  timbrado de carpeta:09012017
+MSG|15/05/2017 04:07:40 p.m.|Parametros asignados webconfig
+MSG|15/05/2017 04:07:40 p.m.|Parametros asignados Base de Datos
+STR|15/05/2017 04:07:40 p.m.|Comienza timbrado de carpeta:09012017
+MSG|15/05/2017 04:07:40 p.m.|Carpeta contiene:1 archivos.
+INI|15/05/2017 04:07:40 p.m.|Comienza Archivo:1AAFI680107LI110420170031
+MSG|15/05/2017 04:07:42 p.m.|Archivo Firmado:1AAFI680107LI110420170031
+MSG|15/05/2017 04:07:43 p.m.|Archivo sellado:1AAFI680107LI110420170031
+MSG|15/05/2017 04:07:43 p.m.|Archivo Timbrado:1AAFI680107LI110420170031
+MSG|15/05/2017 04:07:43 p.m.|Ruta Archivo timbrado:C:\Users\Hp\Desktop\Anterior\TimbradoNomina\xml\Timbrados\001\09012017\1AAFI680107LI110420170031tim.xml
+MSG|15/05/2017 04:30:02 p.m.|Parametros asignados webconfig
+MSG|15/05/2017 04:30:02 p.m.|Parametros asignados Base de Datos
+STR|15/05/2017 04:30:02 p.m.|Comienza timbrado de carpeta:09012017
+MSG|15/05/2017 04:30:02 p.m.|Carpeta contiene:1 archivos.
+INI|15/05/2017 04:30:02 p.m.|Comienza Archivo:1AAFI680107LI110420170031
+MSG|15/05/2017 04:30:04 p.m.|Archivo Firmado:1AAFI680107LI110420170031
+MSG|15/05/2017 04:30:04 p.m.|Archivo sellado:1AAFI680107LI110420170031
+MSG|15/05/2017 04:30:04 p.m.|Archivo Timbrado:1AAFI680107LI110420170031
+MSG|15/05/2017 04:30:04 p.m.|Ruta Archivo timbrado:C:\Users\Hp\Desktop\Anterior\TimbradoNomina\xml\Timbrados\001\09012017\1AAFI680107LI110420170031tim.xml
+MSG|15/05/2017 04:30:07 p.m.|Archivo PDF Creado para:1AAFI680107LI110420170031
+TIM|15/05/2017 04:30:07 p.m.|DOC:1AAFI680107LI110420170031|COD:100|DESC:timbrado
+FIN|15/05/2017 04:30:07 p.m.|DOC: 1AAFI680107LI110420170031
+FNP|15/05/2017 04:30:07 p.m.|Carpeta:09012017|TotalDocs:1|Timbrados:1|NoTimbrados:0|Error:0
+END|15/05/2017 04:30:07 p.m.|Termina  timbrado de carpeta:09012017

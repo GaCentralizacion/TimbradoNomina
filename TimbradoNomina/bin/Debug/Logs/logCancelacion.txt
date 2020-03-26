@@ -1,0 +1,416 @@
+Inicio archivo log 
+MSG|30/04/2018 12:14:05 p. m.|El Usuario: Salvador González Villegas Envío a cancelar los siguientes archivos.
+MSG|30/04/2018 12:14:24 p. m.|Inicia el proceso de cancelación
+MSG|30/04/2018 12:14:28 p. m.|Comienza el procesamiento del archivo: 
+ERROR|30/04/2018 12:15:19 p. m.|No se pudo mover el archivo a la carpeta de creados correctamente.
+ERR|30/04/2018 12:15:19 p. m.|DOC:|DES:No se puede encontrar una parte de la ruta de acceso 'C:\TimbradoNominaParaRH\XCancelar\'.
+FIN|30/04/2018 12:15:19 p. m.|DOC: 
+MSG|30/04/2018 12:17:08 p. m.|El Usuario: Salvador González Villegas Envío a cancelar los siguientes archivos.
+MSG|30/04/2018 12:17:08 p. m.|Inicia el proceso de cancelación
+MSG|30/04/2018 12:19:31 p. m.|El Usuario: Salvador González Villegas Envío a cancelar los siguientes archivos.
+MSG|30/04/2018 12:19:31 p. m.|1AAAC7810153XA10920170031tim.xml
+MSG|30/04/2018 12:19:31 p. m.|1AAAE57011467011120170011tim.xml
+MSG|30/04/2018 12:19:31 p. m.|1AAAR940128HZ011120170011tim.xml
+MSG|30/04/2018 12:19:31 p. m.|1AACR861215KX310420170032tim.xml
+MSG|30/04/2018 12:19:31 p. m.|1AACR861215KX310520170031tim.xml
+MSG|30/04/2018 12:19:31 p. m.|1AAPA931105G3810320170031tim.xml
+MSG|30/04/2018 12:19:31 p. m.|1AARJ8604055S520820170013tim.xml
+MSG|30/04/2018 12:19:31 p. m.|1AEJR691206LK811120170011tim.xml
+MSG|30/04/2018 12:19:31 p. m.|1AELE78051562711120170011tim.xml
+MSG|30/04/2018 12:19:31 p. m.|1AERF6704295Q710320170031tim.xml
+MSG|30/04/2018 12:19:31 p. m.|1AERF6704295Q710520170031tim.xml
+MSG|30/04/2018 12:19:31 p. m.|Inicia el proceso de cancelación
+MSG|30/04/2018 12:19:48 p. m.|Comienza el procesamiento del archivo: 1AAAC7810153XA10920170031tim.xml
+ERROR|30/04/2018 12:20:35 p. m.|No se pudo mover el archivo a la carpeta de creados correctamente.
+ERR|30/04/2018 12:20:35 p. m.|DOC:0011AAAC7810153XA10920170031tim|DES:No se pudo encontrar el archivo 'C:\TimbradoNominaParaRH\XCancelar\0011AAAC7810153XA10920170031tim.xml'.
+FIN|30/04/2018 12:20:35 p. m.|DOC: 0011AAAC7810153XA10920170031tim
+MSG|30/04/2018 12:21:24 p. m.|El Usuario: Salvador González Villegas Envío a cancelar los siguientes archivos.
+MSG|30/04/2018 12:21:24 p. m.|1AAAC7810153XA10920170031tim.xml
+MSG|30/04/2018 12:21:24 p. m.|1AAAE57011467011120170011tim.xml
+MSG|30/04/2018 12:21:24 p. m.|1AAAR940128HZ011120170011tim.xml
+MSG|30/04/2018 12:21:24 p. m.|1AACR861215KX310420170032tim.xml
+MSG|30/04/2018 12:21:24 p. m.|1AACR861215KX310520170031tim.xml
+MSG|30/04/2018 12:21:24 p. m.|1AAPA931105G3810320170031tim.xml
+MSG|30/04/2018 12:21:24 p. m.|1AARJ8604055S520820170013tim.xml
+MSG|30/04/2018 12:21:24 p. m.|1AEJR691206LK811120170011tim.xml
+MSG|30/04/2018 12:21:24 p. m.|1AELE78051562711120170011tim.xml
+MSG|30/04/2018 12:21:24 p. m.|1AERF6704295Q710320170031tim.xml
+MSG|30/04/2018 12:21:24 p. m.|1AERF6704295Q710520170031tim.xml
+MSG|30/04/2018 12:21:24 p. m.|Inicia el proceso de cancelación
+MSG|30/04/2018 12:21:31 p. m.|Comienza el procesamiento del archivo: 1AAAC7810153XA10920170031tim.xml
+MSG|30/04/2018 12:23:58 p. m.|El Usuario: Salvador González Villegas Envío a cancelar los siguientes archivos.
+MSG|30/04/2018 12:23:58 p. m.|1AAAC7810153XA10920170031tim.xml
+MSG|30/04/2018 12:23:58 p. m.|1AAAE57011467011120170011tim.xml
+MSG|30/04/2018 12:23:58 p. m.|1AAAR940128HZ011120170011tim.xml
+MSG|30/04/2018 12:23:58 p. m.|1AACR861215KX310420170032tim.xml
+MSG|30/04/2018 12:23:58 p. m.|1AACR861215KX310520170031tim.xml
+MSG|30/04/2018 12:23:58 p. m.|1AAPA931105G3810320170031tim.xml
+MSG|30/04/2018 12:23:58 p. m.|1AARJ8604055S520820170013tim.xml
+MSG|30/04/2018 12:23:58 p. m.|1AEJR691206LK811120170011tim.xml
+MSG|30/04/2018 12:23:58 p. m.|1AELE78051562711120170011tim.xml
+MSG|30/04/2018 12:23:58 p. m.|1AERF6704295Q710320170031tim.xml
+MSG|30/04/2018 12:23:58 p. m.|1AERF6704295Q710520170031tim.xml
+MSG|30/04/2018 12:23:58 p. m.|Inicia el proceso de cancelación
+MSG|30/04/2018 12:23:58 p. m.|Comienza el procesamiento del archivo: 1AAAC7810153XA10920170031tim.xml
+MSG|30/04/2018 12:25:44 p. m.|El Usuario: Salvador González Villegas Envío a cancelar los siguientes archivos.
+MSG|30/04/2018 12:25:44 p. m.|1AAAC7810153XA10920170031tim.xml
+MSG|30/04/2018 12:25:44 p. m.|1AAAE57011467011120170011tim.xml
+MSG|30/04/2018 12:25:44 p. m.|1AAAR940128HZ011120170011tim.xml
+MSG|30/04/2018 12:25:44 p. m.|1AACR861215KX310420170032tim.xml
+MSG|30/04/2018 12:25:44 p. m.|1AACR861215KX310520170031tim.xml
+MSG|30/04/2018 12:25:44 p. m.|1AAPA931105G3810320170031tim.xml
+MSG|30/04/2018 12:25:44 p. m.|1AARJ8604055S520820170013tim.xml
+MSG|30/04/2018 12:25:44 p. m.|1AEJR691206LK811120170011tim.xml
+MSG|30/04/2018 12:25:44 p. m.|1AELE78051562711120170011tim.xml
+MSG|30/04/2018 12:25:44 p. m.|1AERF6704295Q710320170031tim.xml
+MSG|30/04/2018 12:25:44 p. m.|1AERF6704295Q710520170031tim.xml
+MSG|30/04/2018 12:25:44 p. m.|Inicia el proceso de cancelación
+MSG|30/04/2018 12:25:44 p. m.|Comienza el procesamiento del archivo: 1AAAC7810153XA10920170031tim.xml
+MSG|30/04/2018 01:30:09 p. m.|El Usuario: Salvador González Villegas Envío a cancelar los siguientes archivos.
+MSG|30/04/2018 01:30:09 p. m.|1AAAC7810153XA10920170031tim.xml
+MSG|30/04/2018 01:30:09 p. m.|1AAAE57011467011120170011tim.xml
+MSG|30/04/2018 01:30:09 p. m.|1AAAR940128HZ011120170011tim.xml
+MSG|30/04/2018 01:30:09 p. m.|1AACR861215KX310420170032tim.xml
+MSG|30/04/2018 01:30:09 p. m.|1AACR861215KX310520170031tim.xml
+MSG|30/04/2018 01:30:09 p. m.|1AAPA931105G3810320170031tim.xml
+MSG|30/04/2018 01:30:09 p. m.|1AARJ8604055S520820170013tim.xml
+MSG|30/04/2018 01:30:09 p. m.|1AEJR691206LK811120170011tim.xml
+MSG|30/04/2018 01:30:09 p. m.|1AELE78051562711120170011tim.xml
+MSG|30/04/2018 01:30:09 p. m.|1AERF6704295Q710320170031tim.xml
+MSG|30/04/2018 01:30:09 p. m.|1AERF6704295Q710520170031tim.xml
+MSG|30/04/2018 01:30:09 p. m.|Inicia el proceso de cancelación
+MSG|30/04/2018 01:30:09 p. m.|Comienza el procesamiento del archivo: 1AAAC7810153XA10920170031tim.xml
+MSG|30/04/2018 01:31:36 p. m.|Se movió el archivo a la carpeta destino correctamente.
+MSG|30/04/2018 01:31:36 p. m.|Se creo correctamente el xml de cancelacion del archivo: 1AAAC7810153XA10920170031tim.xml
+MSG|30/04/2018 01:35:59 p. m.|El Usuario: Salvador González Villegas Envío a cancelar los siguientes archivos.
+MSG|30/04/2018 01:35:59 p. m.|1AAAE57011467011120170011tim.xml
+MSG|30/04/2018 01:35:59 p. m.|1AAAR940128HZ011120170011tim.xml
+MSG|30/04/2018 01:35:59 p. m.|1AACR861215KX310420170032tim.xml
+MSG|30/04/2018 01:35:59 p. m.|1AACR861215KX310520170031tim.xml
+MSG|30/04/2018 01:35:59 p. m.|1AAPA931105G3810320170031tim.xml
+MSG|30/04/2018 01:35:59 p. m.|1AARJ8604055S520820170013tim.xml
+MSG|30/04/2018 01:35:59 p. m.|1AEJR691206LK811120170011tim.xml
+MSG|30/04/2018 01:35:59 p. m.|1AELE78051562711120170011tim.xml
+MSG|30/04/2018 01:35:59 p. m.|1AERF6704295Q710320170031tim.xml
+MSG|30/04/2018 01:35:59 p. m.|1AERF6704295Q710520170031tim.xml
+MSG|30/04/2018 01:35:59 p. m.|Inicia el proceso de cancelación
+MSG|30/04/2018 01:35:59 p. m.|Comienza el procesamiento del archivo: 1AAAE57011467011120170011tim.xml
+MSG|30/04/2018 01:36:04 p. m.|Se movió el archivo a la carpeta destino correctamente.
+MSG|30/04/2018 01:36:04 p. m.|Se creo correctamente el xml de cancelacion del archivo: 1AAAE57011467011120170011tim.xml
+MSG|30/04/2018 01:41:29 p. m.|El Usuario: Salvador González Villegas Envío a cancelar los siguientes archivos.
+MSG|30/04/2018 01:41:29 p. m.|1AAAR940128HZ011120170011tim.xml
+MSG|30/04/2018 01:41:29 p. m.|1AACR861215KX310420170032tim.xml
+MSG|30/04/2018 01:41:29 p. m.|1AACR861215KX310520170031tim.xml
+MSG|30/04/2018 01:41:29 p. m.|1AAPA931105G3810320170031tim.xml
+MSG|30/04/2018 01:41:29 p. m.|1AARJ8604055S520820170013tim.xml
+MSG|30/04/2018 01:41:29 p. m.|1AEJR691206LK811120170011tim.xml
+MSG|30/04/2018 01:41:29 p. m.|1AELE78051562711120170011tim.xml
+MSG|30/04/2018 01:41:29 p. m.|1AERF6704295Q710320170031tim.xml
+MSG|30/04/2018 01:41:29 p. m.|1AERF6704295Q710520170031tim.xml
+MSG|30/04/2018 01:41:29 p. m.|Inicia el proceso de cancelación
+MSG|30/04/2018 01:41:29 p. m.|Comienza el procesamiento del archivo: 1AAAR940128HZ011120170011tim.xml
+MSG|30/04/2018 01:41:30 p. m.|Se movió el archivo a la carpeta destino correctamente.
+MSG|30/04/2018 01:41:30 p. m.|Se creo correctamente el xml de cancelacion del archivo: 1AAAR940128HZ011120170011tim.xml
+MSG|30/04/2018 01:43:21 p. m.|El Usuario: Salvador González Villegas Envío a cancelar los siguientes archivos.
+MSG|30/04/2018 01:43:21 p. m.|1AACR861215KX310420170032tim.xml
+MSG|30/04/2018 01:43:22 p. m.|1AACR861215KX310520170031tim.xml
+MSG|30/04/2018 01:43:22 p. m.|1AAPA931105G3810320170031tim.xml
+MSG|30/04/2018 01:43:22 p. m.|1AARJ8604055S520820170013tim.xml
+MSG|30/04/2018 01:43:22 p. m.|1AEJR691206LK811120170011tim.xml
+MSG|30/04/2018 01:43:22 p. m.|1AELE78051562711120170011tim.xml
+MSG|30/04/2018 01:43:22 p. m.|1AERF6704295Q710320170031tim.xml
+MSG|30/04/2018 01:43:22 p. m.|1AERF6704295Q710520170031tim.xml
+MSG|30/04/2018 01:43:22 p. m.|Inicia el proceso de cancelación
+MSG|30/04/2018 01:43:22 p. m.|Comienza el procesamiento del archivo: 1AACR861215KX310420170032tim.xml
+MSG|30/04/2018 01:43:22 p. m.|Se movió el archivo a la carpeta destino correctamente.
+MSG|30/04/2018 01:43:22 p. m.|Se creo correctamente el xml de cancelacion del archivo: 1AACR861215KX310420170032tim.xml
+MSG|30/04/2018 01:48:41 p. m.|El Usuario: Salvador González Villegas Envío a cancelar los siguientes archivos.
+MSG|30/04/2018 01:48:41 p. m.|1AACR861215KX310520170031tim.xml
+MSG|30/04/2018 01:48:41 p. m.|1AAPA931105G3810320170031tim.xml
+MSG|30/04/2018 01:48:41 p. m.|1AARJ8604055S520820170013tim.xml
+MSG|30/04/2018 01:48:41 p. m.|1AEJR691206LK811120170011tim.xml
+MSG|30/04/2018 01:48:41 p. m.|1AELE78051562711120170011tim.xml
+MSG|30/04/2018 01:48:41 p. m.|1AERF6704295Q710320170031tim.xml
+MSG|30/04/2018 01:48:41 p. m.|1AERF6704295Q710520170031tim.xml
+MSG|30/04/2018 01:48:41 p. m.|Inicia el proceso de cancelación
+MSG|30/04/2018 01:48:41 p. m.|Comienza el procesamiento del archivo: 1AACR861215KX310520170031tim.xml
+MSG|30/04/2018 01:48:41 p. m.|Se movió el archivo a la carpeta destino correctamente.
+MSG|30/04/2018 01:48:41 p. m.|Se creo correctamente el xml de cancelacion del archivo: 1AACR861215KX310520170031tim.xml
+MSG|30/04/2018 01:50:14 p. m.|El Usuario: Salvador González Villegas Envío a cancelar los siguientes archivos.
+MSG|30/04/2018 01:50:14 p. m.|1AAAC7810153XA10920170031tim.xml
+MSG|30/04/2018 01:50:14 p. m.|1AAAE57011467011120170011tim.xml
+MSG|30/04/2018 01:50:14 p. m.|1AAAR940128HZ011120170011tim.xml
+MSG|30/04/2018 01:50:14 p. m.|1AACR861215KX310420170032tim.xml
+MSG|30/04/2018 01:50:14 p. m.|1AACR861215KX310520170031tim.xml
+MSG|30/04/2018 01:50:14 p. m.|1AAPA931105G3810320170031tim.xml
+MSG|30/04/2018 01:50:14 p. m.|1AARJ8604055S520820170013tim.xml
+MSG|30/04/2018 01:50:14 p. m.|1AEJR691206LK811120170011tim.xml
+MSG|30/04/2018 01:50:14 p. m.|1AELE78051562711120170011tim.xml
+MSG|30/04/2018 01:50:14 p. m.|1AERF6704295Q710320170031tim.xml
+MSG|30/04/2018 01:50:14 p. m.|1AERF6704295Q710520170031tim.xml
+MSG|30/04/2018 01:50:14 p. m.|Inicia el proceso de cancelación
+MSG|30/04/2018 01:50:14 p. m.|Comienza el procesamiento del archivo: 1AAAC7810153XA10920170031tim.xml
+MSG|30/04/2018 01:50:14 p. m.|Se movió el archivo a la carpeta destino correctamente.
+MSG|30/04/2018 01:50:14 p. m.|Se creo correctamente el xml de cancelacion del archivo: 1AAAC7810153XA10920170031tim.xml
+MSG|30/04/2018 01:50:21 p. m.|Se agrego correctamente el sello al archivo de cancelacion
+MSG|30/04/2018 01:50:46 p. m.|Archivo No Cancelado.
+MSG|30/04/2018 01:50:47 p. m.|DOC: 0031AAAC7810153XA10920170031tim | CODE: 202
+FIN|30/04/2018 01:50:52 p. m.|DOC: 0031AAAC7810153XA10920170031tim
+MSG|30/04/2018 01:51:07 p. m.|Comienza el procesamiento del archivo: 1AAAE57011467011120170011tim.xml
+MSG|30/04/2018 01:51:07 p. m.|Se movió el archivo a la carpeta destino correctamente.
+MSG|30/04/2018 01:51:07 p. m.|Se creo correctamente el xml de cancelacion del archivo: 1AAAE57011467011120170011tim.xml
+MSG|30/04/2018 01:51:18 p. m.|Se agrego correctamente el sello al archivo de cancelacion
+MSG|30/04/2018 01:51:20 p. m.|Archivo No Cancelado.
+MSG|30/04/2018 01:51:20 p. m.|DOC: 1AAAE57011467011120170011tim | CODE: 202
+FIN|30/04/2018 01:51:20 p. m.|DOC: 1AAAE57011467011120170011tim
+MSG|30/04/2018 01:51:20 p. m.|Comienza el procesamiento del archivo: 1AAAR940128HZ011120170011tim.xml
+MSG|30/04/2018 01:51:20 p. m.|Se movió el archivo a la carpeta destino correctamente.
+MSG|30/04/2018 01:51:20 p. m.|Se creo correctamente el xml de cancelacion del archivo: 1AAAR940128HZ011120170011tim.xml
+MSG|30/04/2018 01:51:24 p. m.|Se agrego correctamente el sello al archivo de cancelacion
+MSG|30/04/2018 01:51:27 p. m.|Archivo No Cancelado.
+MSG|30/04/2018 01:51:27 p. m.|DOC: 1AAAR940128HZ011120170011tim | CODE: 202
+FIN|30/04/2018 01:51:27 p. m.|DOC: 1AAAR940128HZ011120170011tim
+MSG|30/04/2018 01:51:27 p. m.|Comienza el procesamiento del archivo: 1AACR861215KX310420170032tim.xml
+MSG|30/04/2018 01:51:27 p. m.|Se movió el archivo a la carpeta destino correctamente.
+MSG|30/04/2018 01:51:27 p. m.|Se creo correctamente el xml de cancelacion del archivo: 1AACR861215KX310420170032tim.xml
+MSG|30/04/2018 01:51:27 p. m.|Se agrego correctamente el sello al archivo de cancelacion
+MSG|30/04/2018 01:51:29 p. m.|Archivo No Cancelado.
+MSG|30/04/2018 01:51:29 p. m.|DOC: 1AACR861215KX310420170032tim | CODE: 202
+FIN|30/04/2018 01:51:29 p. m.|DOC: 1AACR861215KX310420170032tim
+MSG|30/04/2018 01:51:29 p. m.|Comienza el procesamiento del archivo: 1AACR861215KX310520170031tim.xml
+MSG|30/04/2018 01:51:29 p. m.|Se movió el archivo a la carpeta destino correctamente.
+MSG|30/04/2018 01:51:29 p. m.|Se creo correctamente el xml de cancelacion del archivo: 1AACR861215KX310520170031tim.xml
+MSG|30/04/2018 01:51:29 p. m.|Se agrego correctamente el sello al archivo de cancelacion
+MSG|30/04/2018 01:51:31 p. m.|Archivo No Cancelado.
+MSG|30/04/2018 01:51:31 p. m.|DOC: 1AACR861215KX310520170031tim | CODE: 202
+FIN|30/04/2018 01:51:31 p. m.|DOC: 1AACR861215KX310520170031tim
+MSG|30/04/2018 01:51:31 p. m.|Comienza el procesamiento del archivo: 1AAPA931105G3810320170031tim.xml
+MSG|30/04/2018 01:51:32 p. m.|Se movió el archivo a la carpeta destino correctamente.
+MSG|30/04/2018 01:51:32 p. m.|Se creo correctamente el xml de cancelacion del archivo: 1AAPA931105G3810320170031tim.xml
+MSG|30/04/2018 01:51:32 p. m.|Se agrego correctamente el sello al archivo de cancelacion
+MSG|30/04/2018 01:51:34 p. m.|Archivo No Cancelado.
+MSG|30/04/2018 01:51:34 p. m.|DOC: 1AAPA931105G3810320170031tim | CODE: 202
+FIN|30/04/2018 01:51:34 p. m.|DOC: 1AAPA931105G3810320170031tim
+MSG|30/04/2018 01:51:34 p. m.|Comienza el procesamiento del archivo: 1AARJ8604055S520820170013tim.xml
+MSG|30/04/2018 01:51:34 p. m.|Se movió el archivo a la carpeta destino correctamente.
+MSG|30/04/2018 01:51:34 p. m.|Se creo correctamente el xml de cancelacion del archivo: 1AARJ8604055S520820170013tim.xml
+MSG|30/04/2018 01:51:34 p. m.|Se agrego correctamente el sello al archivo de cancelacion
+MSG|30/04/2018 01:51:36 p. m.|Archivo No Cancelado.
+MSG|30/04/2018 01:51:36 p. m.|DOC: 1AARJ8604055S520820170013tim | CODE: 202
+FIN|30/04/2018 01:51:36 p. m.|DOC: 1AARJ8604055S520820170013tim
+MSG|30/04/2018 01:51:36 p. m.|Comienza el procesamiento del archivo: 1AEJR691206LK811120170011tim.xml
+MSG|30/04/2018 01:51:36 p. m.|Se movió el archivo a la carpeta destino correctamente.
+MSG|30/04/2018 01:51:36 p. m.|Se creo correctamente el xml de cancelacion del archivo: 1AEJR691206LK811120170011tim.xml
+MSG|30/04/2018 01:51:36 p. m.|Se agrego correctamente el sello al archivo de cancelacion
+MSG|30/04/2018 01:51:39 p. m.|Archivo No Cancelado.
+MSG|30/04/2018 01:51:39 p. m.|DOC: 1AEJR691206LK811120170011tim | CODE: 202
+FIN|30/04/2018 01:51:39 p. m.|DOC: 1AEJR691206LK811120170011tim
+MSG|30/04/2018 01:51:39 p. m.|Comienza el procesamiento del archivo: 1AELE78051562711120170011tim.xml
+MSG|30/04/2018 01:51:39 p. m.|Se movió el archivo a la carpeta destino correctamente.
+MSG|30/04/2018 01:51:39 p. m.|Se creo correctamente el xml de cancelacion del archivo: 1AELE78051562711120170011tim.xml
+MSG|30/04/2018 01:51:39 p. m.|Se agrego correctamente el sello al archivo de cancelacion
+MSG|30/04/2018 01:51:41 p. m.|Archivo No Cancelado.
+MSG|30/04/2018 01:51:41 p. m.|DOC: 1AELE78051562711120170011tim | CODE: 202
+FIN|30/04/2018 01:51:41 p. m.|DOC: 1AELE78051562711120170011tim
+MSG|30/04/2018 01:51:41 p. m.|Comienza el procesamiento del archivo: 1AERF6704295Q710320170031tim.xml
+MSG|30/04/2018 01:51:41 p. m.|Se movió el archivo a la carpeta destino correctamente.
+MSG|30/04/2018 01:51:41 p. m.|Se creo correctamente el xml de cancelacion del archivo: 1AERF6704295Q710320170031tim.xml
+MSG|30/04/2018 01:51:41 p. m.|Se agrego correctamente el sello al archivo de cancelacion
+MSG|30/04/2018 01:51:44 p. m.|Archivo No Cancelado.
+MSG|30/04/2018 01:51:44 p. m.|DOC: 1AERF6704295Q710320170031tim | CODE: 202
+FIN|30/04/2018 01:51:44 p. m.|DOC: 1AERF6704295Q710320170031tim
+MSG|30/04/2018 01:51:44 p. m.|Comienza el procesamiento del archivo: 1AERF6704295Q710520170031tim.xml
+MSG|30/04/2018 01:51:44 p. m.|Se movió el archivo a la carpeta destino correctamente.
+MSG|30/04/2018 01:51:44 p. m.|Se creo correctamente el xml de cancelacion del archivo: 1AERF6704295Q710520170031tim.xml
+MSG|30/04/2018 01:51:44 p. m.|Se agrego correctamente el sello al archivo de cancelacion
+MSG|30/04/2018 01:51:46 p. m.|Archivo No Cancelado.
+MSG|30/04/2018 01:51:46 p. m.|DOC: 1AERF6704295Q710520170031tim | CODE: 202
+FIN|30/04/2018 01:51:46 p. m.|DOC: 1AERF6704295Q710520170031tim
+MSG|30/04/2018 01:53:18 p. m.|El Usuario: Salvador González Villegas Envío a cancelar los siguientes archivos.
+MSG|30/04/2018 01:53:18 p. m.|1AAAC7810153XA10920170031tim.xml
+MSG|30/04/2018 01:53:18 p. m.|1AAAE57011467011120170011tim.xml
+MSG|30/04/2018 01:53:18 p. m.|1AAAR940128HZ011120170011tim.xml
+MSG|30/04/2018 01:53:18 p. m.|1AACR861215KX310420170032tim.xml
+MSG|30/04/2018 01:53:18 p. m.|1AACR861215KX310520170031tim.xml
+MSG|30/04/2018 01:53:18 p. m.|1AAPA931105G3810320170031tim.xml
+MSG|30/04/2018 01:53:18 p. m.|1AARJ8604055S520820170013tim.xml
+MSG|30/04/2018 01:53:18 p. m.|1AEJR691206LK811120170011tim.xml
+MSG|30/04/2018 01:53:18 p. m.|1AELE78051562711120170011tim.xml
+MSG|30/04/2018 01:53:18 p. m.|1AERF6704295Q710320170031tim.xml
+MSG|30/04/2018 01:53:18 p. m.|1AERF6704295Q710520170031tim.xml
+MSG|30/04/2018 01:53:18 p. m.|Inicia el proceso de cancelación
+MSG|30/04/2018 01:53:18 p. m.|Comienza el procesamiento del archivo: 1AAAC7810153XA10920170031tim.xml
+MSG|30/04/2018 01:53:18 p. m.|Se movió el archivo a la carpeta destino correctamente.
+MSG|30/04/2018 01:53:18 p. m.|Se creo correctamente el xml de cancelacion del archivo: 1AAAC7810153XA10920170031tim.xml
+MSG|30/04/2018 01:53:18 p. m.|Se agrego correctamente el sello al archivo de cancelacion
+MSG|30/04/2018 01:53:20 p. m.|Archivo No Cancelado.
+MSG|30/04/2018 01:53:20 p. m.|DOC: 0091AAAC7810153XA10920170031tim | CODE: 202
+FIN|30/04/2018 01:53:20 p. m.|DOC: 0091AAAC7810153XA10920170031tim
+MSG|30/04/2018 01:53:20 p. m.|Comienza el procesamiento del archivo: 1AAAE57011467011120170011tim.xml
+MSG|30/04/2018 01:53:20 p. m.|Se movió el archivo a la carpeta destino correctamente.
+MSG|30/04/2018 01:53:20 p. m.|Se creo correctamente el xml de cancelacion del archivo: 1AAAE57011467011120170011tim.xml
+MSG|30/04/2018 01:53:20 p. m.|Se agrego correctamente el sello al archivo de cancelacion
+MSG|30/04/2018 01:53:22 p. m.|Archivo No Cancelado.
+MSG|30/04/2018 01:53:22 p. m.|DOC: 1AAAE57011467011120170011tim | CODE: 202
+FIN|30/04/2018 01:53:22 p. m.|DOC: 1AAAE57011467011120170011tim
+MSG|30/04/2018 01:53:22 p. m.|Comienza el procesamiento del archivo: 1AAAR940128HZ011120170011tim.xml
+MSG|30/04/2018 01:53:22 p. m.|Se movió el archivo a la carpeta destino correctamente.
+MSG|30/04/2018 01:53:22 p. m.|Se creo correctamente el xml de cancelacion del archivo: 1AAAR940128HZ011120170011tim.xml
+MSG|30/04/2018 01:53:22 p. m.|Se agrego correctamente el sello al archivo de cancelacion
+MSG|30/04/2018 01:53:25 p. m.|Archivo No Cancelado.
+MSG|30/04/2018 01:53:25 p. m.|DOC: 1AAAR940128HZ011120170011tim | CODE: 202
+FIN|30/04/2018 01:53:25 p. m.|DOC: 1AAAR940128HZ011120170011tim
+MSG|30/04/2018 01:53:25 p. m.|Comienza el procesamiento del archivo: 1AACR861215KX310420170032tim.xml
+MSG|30/04/2018 01:53:25 p. m.|Se movió el archivo a la carpeta destino correctamente.
+MSG|30/04/2018 01:53:25 p. m.|Se creo correctamente el xml de cancelacion del archivo: 1AACR861215KX310420170032tim.xml
+MSG|30/04/2018 01:53:25 p. m.|Se agrego correctamente el sello al archivo de cancelacion
+MSG|30/04/2018 01:53:28 p. m.|Archivo No Cancelado.
+MSG|30/04/2018 01:53:28 p. m.|DOC: 1AACR861215KX310420170032tim | CODE: 202
+FIN|30/04/2018 01:53:28 p. m.|DOC: 1AACR861215KX310420170032tim
+MSG|30/04/2018 01:53:28 p. m.|Comienza el procesamiento del archivo: 1AACR861215KX310520170031tim.xml
+MSG|30/04/2018 01:53:28 p. m.|Se movió el archivo a la carpeta destino correctamente.
+MSG|30/04/2018 01:53:28 p. m.|Se creo correctamente el xml de cancelacion del archivo: 1AACR861215KX310520170031tim.xml
+MSG|30/04/2018 01:53:28 p. m.|Se agrego correctamente el sello al archivo de cancelacion
+MSG|30/04/2018 01:53:30 p. m.|Archivo No Cancelado.
+MSG|30/04/2018 01:53:30 p. m.|DOC: 1AACR861215KX310520170031tim | CODE: 202
+FIN|30/04/2018 01:53:30 p. m.|DOC: 1AACR861215KX310520170031tim
+MSG|30/04/2018 01:53:30 p. m.|Comienza el procesamiento del archivo: 1AAPA931105G3810320170031tim.xml
+MSG|30/04/2018 01:53:30 p. m.|Se movió el archivo a la carpeta destino correctamente.
+MSG|30/04/2018 01:53:30 p. m.|Se creo correctamente el xml de cancelacion del archivo: 1AAPA931105G3810320170031tim.xml
+MSG|30/04/2018 01:53:30 p. m.|Se agrego correctamente el sello al archivo de cancelacion
+MSG|30/04/2018 01:53:32 p. m.|Archivo No Cancelado.
+MSG|30/04/2018 01:53:32 p. m.|DOC: 1AAPA931105G3810320170031tim | CODE: 202
+FIN|30/04/2018 01:53:32 p. m.|DOC: 1AAPA931105G3810320170031tim
+MSG|30/04/2018 01:53:32 p. m.|Comienza el procesamiento del archivo: 1AARJ8604055S520820170013tim.xml
+MSG|30/04/2018 01:53:32 p. m.|Se movió el archivo a la carpeta destino correctamente.
+MSG|30/04/2018 01:53:32 p. m.|Se creo correctamente el xml de cancelacion del archivo: 1AARJ8604055S520820170013tim.xml
+MSG|30/04/2018 01:53:33 p. m.|Se agrego correctamente el sello al archivo de cancelacion
+MSG|30/04/2018 01:53:35 p. m.|Archivo No Cancelado.
+MSG|30/04/2018 01:53:35 p. m.|DOC: 1AARJ8604055S520820170013tim | CODE: 202
+FIN|30/04/2018 01:53:35 p. m.|DOC: 1AARJ8604055S520820170013tim
+MSG|30/04/2018 01:53:35 p. m.|Comienza el procesamiento del archivo: 1AEJR691206LK811120170011tim.xml
+MSG|30/04/2018 01:53:35 p. m.|Se movió el archivo a la carpeta destino correctamente.
+MSG|30/04/2018 01:53:35 p. m.|Se creo correctamente el xml de cancelacion del archivo: 1AEJR691206LK811120170011tim.xml
+MSG|30/04/2018 01:53:35 p. m.|Se agrego correctamente el sello al archivo de cancelacion
+MSG|30/04/2018 01:53:37 p. m.|Archivo No Cancelado.
+MSG|30/04/2018 01:53:37 p. m.|DOC: 1AEJR691206LK811120170011tim | CODE: 202
+FIN|30/04/2018 01:53:37 p. m.|DOC: 1AEJR691206LK811120170011tim
+MSG|30/04/2018 01:53:37 p. m.|Comienza el procesamiento del archivo: 1AELE78051562711120170011tim.xml
+MSG|30/04/2018 01:53:37 p. m.|Se movió el archivo a la carpeta destino correctamente.
+MSG|30/04/2018 01:53:37 p. m.|Se creo correctamente el xml de cancelacion del archivo: 1AELE78051562711120170011tim.xml
+MSG|30/04/2018 01:53:37 p. m.|Se agrego correctamente el sello al archivo de cancelacion
+MSG|30/04/2018 01:53:40 p. m.|Archivo No Cancelado.
+MSG|30/04/2018 01:53:40 p. m.|DOC: 1AELE78051562711120170011tim | CODE: 202
+FIN|30/04/2018 01:53:40 p. m.|DOC: 1AELE78051562711120170011tim
+MSG|30/04/2018 01:53:40 p. m.|Comienza el procesamiento del archivo: 1AERF6704295Q710320170031tim.xml
+MSG|30/04/2018 01:53:40 p. m.|Se movió el archivo a la carpeta destino correctamente.
+MSG|30/04/2018 01:53:40 p. m.|Se creo correctamente el xml de cancelacion del archivo: 1AERF6704295Q710320170031tim.xml
+MSG|30/04/2018 01:53:40 p. m.|Se agrego correctamente el sello al archivo de cancelacion
+MSG|30/04/2018 01:53:42 p. m.|Archivo No Cancelado.
+MSG|30/04/2018 01:53:42 p. m.|DOC: 1AERF6704295Q710320170031tim | CODE: 202
+FIN|30/04/2018 01:53:42 p. m.|DOC: 1AERF6704295Q710320170031tim
+MSG|30/04/2018 01:53:42 p. m.|Comienza el procesamiento del archivo: 1AERF6704295Q710520170031tim.xml
+MSG|30/04/2018 01:53:42 p. m.|Se movió el archivo a la carpeta destino correctamente.
+MSG|30/04/2018 01:53:42 p. m.|Se creo correctamente el xml de cancelacion del archivo: 1AERF6704295Q710520170031tim.xml
+MSG|30/04/2018 01:53:43 p. m.|Se agrego correctamente el sello al archivo de cancelacion
+MSG|30/04/2018 01:53:45 p. m.|Archivo No Cancelado.
+MSG|30/04/2018 01:53:45 p. m.|DOC: 1AERF6704295Q710520170031tim | CODE: 202
+FIN|30/04/2018 01:53:45 p. m.|DOC: 1AERF6704295Q710520170031tim
+MSG|21/06/2018 02:54:13 p. m.|El Usuario: Salvador González Villegas Envío a cancelar los siguientes archivos.
+MSG|21/06/2018 02:54:58 p. m.|1VASH640425FHA10220180012.xml
+MSG|21/06/2018 02:55:02 p. m.|1VIGR6308083H910220180012.xml
+MSG|21/06/2018 02:55:02 p. m.|1VILM960317FS910220180012.xml
+MSG|21/06/2018 02:55:02 p. m.|1YECK931201L8410220180012.xml
+MSG|21/06/2018 02:55:02 p. m.|1YESJ890809UL110220180012.xml
+MSG|21/06/2018 02:55:05 p. m.|Inicia el proceso de cancelación
+MSG|21/06/2018 02:55:45 p. m.|Comienza el procesamiento del archivo: 1VASH640425FHA10220180012.xml
+MSG|21/06/2018 02:56:46 p. m.|directorio creado:C:\TimbradoNominaParaRH\XMLCancelaciones\\CancelacionOrigen\Semanal\
+MSG|21/06/2018 02:56:46 p. m.|directorio creado:C:\TimbradoNominaParaRH\XMLCancelaciones\\CancelacionOrigen\Semanal\002\
+MSG|21/06/2018 02:56:46 p. m.|directorio creado:C:\TimbradoNominaParaRH\XMLCancelaciones\\CancelacionOrigen\Semanal\002\21062018\
+MSG|21/06/2018 02:57:27 p. m.|Se movió el archivo a la carpeta destino correctamente.
+MSG|21/06/2018 02:57:28 p. m.|Se creo correctamente el xml de cancelacion del archivo: 1VASH640425FHA10220180012.xml
+MSG|21/06/2018 02:57:56 p. m.|Se agrego correctamente el sello al archivo de cancelacion
+ERROR|21/06/2018 02:59:57 p. m.|Ocurrio un error al cancelar el CFDI
+MSG|21/06/2018 03:01:20 p. m.|El Usuario: Salvador González Villegas Envío a cancelar los siguientes archivos.
+MSG|21/06/2018 03:01:20 p. m.|1VASH640425FHA10220180012.xml
+MSG|21/06/2018 03:01:20 p. m.|1VIGR6308083H910220180012.xml
+MSG|21/06/2018 03:01:20 p. m.|1VILM960317FS910220180012.xml
+MSG|21/06/2018 03:01:20 p. m.|1YECK931201L8410220180012.xml
+MSG|21/06/2018 03:01:20 p. m.|1YESJ890809UL110220180012.xml
+MSG|21/06/2018 03:01:25 p. m.|Inicia el proceso de cancelación
+MSG|21/06/2018 03:01:25 p. m.|Comienza el procesamiento del archivo: 1VASH640425FHA10220180012.xml
+MSG|21/06/2018 03:01:26 p. m.|Se movió el archivo a la carpeta destino correctamente.
+MSG|21/06/2018 03:01:26 p. m.|Se creo correctamente el xml de cancelacion del archivo: 1VASH640425FHA10220180012.xml
+MSG|21/06/2018 03:01:26 p. m.|Se agrego correctamente el sello al archivo de cancelacion
+MSG|21/06/2018 03:06:15 p. m.|El Usuario: Salvador González Villegas Envío a cancelar los siguientes archivos.
+MSG|21/06/2018 03:06:15 p. m.|1VASH640425FHA10220180012.xml
+MSG|21/06/2018 03:06:15 p. m.|1VIGR6308083H910220180012.xml
+MSG|21/06/2018 03:06:15 p. m.|1VILM960317FS910220180012.xml
+MSG|21/06/2018 03:06:15 p. m.|1YECK931201L8410220180012.xml
+MSG|21/06/2018 03:06:15 p. m.|1YESJ890809UL110220180012.xml
+MSG|21/06/2018 03:06:15 p. m.|Inicia el proceso de cancelación
+MSG|21/06/2018 03:06:15 p. m.|Comienza el procesamiento del archivo: 1VASH640425FHA10220180012.xml
+MSG|21/06/2018 03:06:15 p. m.|Se movió el archivo a la carpeta destino correctamente.
+MSG|21/06/2018 03:06:15 p. m.|Se creo correctamente el xml de cancelacion del archivo: 1VASH640425FHA10220180012.xml
+MSG|21/06/2018 03:06:15 p. m.|Se agrego correctamente el sello al archivo de cancelacion
+MSG|21/06/2018 03:09:48 p. m.|El Usuario: Salvador González Villegas Envío a cancelar los siguientes archivos.
+MSG|21/06/2018 03:09:48 p. m.|1VASH640425FHA10220180012.xml
+MSG|21/06/2018 03:09:48 p. m.|1VIGR6308083H910220180012.xml
+MSG|21/06/2018 03:09:48 p. m.|1VILM960317FS910220180012.xml
+MSG|21/06/2018 03:09:48 p. m.|1YECK931201L8410220180012.xml
+MSG|21/06/2018 03:09:48 p. m.|1YESJ890809UL110220180012.xml
+MSG|21/06/2018 03:09:48 p. m.|Inicia el proceso de cancelación
+MSG|21/06/2018 03:09:48 p. m.|Comienza el procesamiento del archivo: 1VASH640425FHA10220180012.xml
+MSG|21/06/2018 03:09:48 p. m.|Se movió el archivo a la carpeta destino correctamente.
+MSG|21/06/2018 03:09:48 p. m.|Se creo correctamente el xml de cancelacion del archivo: 1VASH640425FHA10220180012.xml
+MSG|21/06/2018 03:09:48 p. m.|Se agrego correctamente el sello al archivo de cancelacion
+MSG|21/06/2018 03:11:10 p. m.|El Usuario: Salvador González Villegas Envío a cancelar los siguientes archivos.
+MSG|21/06/2018 03:11:10 p. m.|1VASH640425FHA10220180012.xml
+MSG|21/06/2018 03:11:10 p. m.|1VIGR6308083H910220180012.xml
+MSG|21/06/2018 03:11:10 p. m.|1VILM960317FS910220180012.xml
+MSG|21/06/2018 03:11:10 p. m.|1YECK931201L8410220180012.xml
+MSG|21/06/2018 03:11:10 p. m.|1YESJ890809UL110220180012.xml
+MSG|21/06/2018 03:11:10 p. m.|Inicia el proceso de cancelación
+MSG|21/06/2018 03:11:10 p. m.|Comienza el procesamiento del archivo: 1VASH640425FHA10220180012.xml
+MSG|21/06/2018 03:11:10 p. m.|Se movió el archivo a la carpeta destino correctamente.
+MSG|21/06/2018 03:11:10 p. m.|Se creo correctamente el xml de cancelacion del archivo: 1VASH640425FHA10220180012.xml
+MSG|21/06/2018 03:11:10 p. m.|Se agrego correctamente el sello al archivo de cancelacion
+MSG|21/06/2018 03:12:17 p. m.|Archivo cancelado correctamente
+MSG|21/06/2018 03:12:18 p. m.|DOC: 1VASH640425FHA10220180012 | CODE: 201
+MSG|21/06/2018 03:12:21 p. m.|directorio creado:C:\TimbradoNominaParaRH\XMLCancelaciones\\Cancelados\Semanal\
+MSG|21/06/2018 03:12:21 p. m.|directorio creado:C:\TimbradoNominaParaRH\XMLCancelaciones\\Cancelados\Semanal\002\
+MSG|21/06/2018 03:12:21 p. m.|directorio creado:C:\TimbradoNominaParaRH\XMLCancelaciones\\Cancelados\Semanal\002\21062018\
+MSG|21/06/2018 03:12:23 p. m.|Se movió el archivo a la carpeta destino correctamente.
+FIN|21/06/2018 03:12:26 p. m.|DOC: 1VASH640425FHA10220180012
+MSG|21/06/2018 03:12:58 p. m.|Comienza el procesamiento del archivo: 1VIGR6308083H910220180012.xml
+MSG|21/06/2018 03:12:58 p. m.|Se movió el archivo a la carpeta destino correctamente.
+MSG|21/06/2018 03:12:58 p. m.|Se creo correctamente el xml de cancelacion del archivo: 1VIGR6308083H910220180012.xml
+MSG|21/06/2018 03:12:58 p. m.|Se agrego correctamente el sello al archivo de cancelacion
+MSG|21/06/2018 03:13:04 p. m.|Archivo cancelado correctamente
+MSG|21/06/2018 03:13:04 p. m.|DOC: 1VIGR6308083H910220180012 | CODE: 201
+MSG|21/06/2018 03:13:04 p. m.|Se movió el archivo a la carpeta destino correctamente.
+FIN|21/06/2018 03:13:04 p. m.|DOC: 1VIGR6308083H910220180012
+MSG|21/06/2018 03:13:05 p. m.|Comienza el procesamiento del archivo: 1VILM960317FS910220180012.xml
+MSG|21/06/2018 03:13:05 p. m.|Se movió el archivo a la carpeta destino correctamente.
+MSG|21/06/2018 03:13:05 p. m.|Se creo correctamente el xml de cancelacion del archivo: 1VILM960317FS910220180012.xml
+MSG|21/06/2018 03:13:05 p. m.|Se agrego correctamente el sello al archivo de cancelacion
+MSG|21/06/2018 03:13:08 p. m.|Archivo cancelado correctamente
+MSG|21/06/2018 03:13:08 p. m.|DOC: 1VILM960317FS910220180012 | CODE: 201
+MSG|21/06/2018 03:13:08 p. m.|Se movió el archivo a la carpeta destino correctamente.
+FIN|21/06/2018 03:13:08 p. m.|DOC: 1VILM960317FS910220180012
+MSG|21/06/2018 03:13:08 p. m.|Comienza el procesamiento del archivo: 1YECK931201L8410220180012.xml
+MSG|21/06/2018 03:13:08 p. m.|Se movió el archivo a la carpeta destino correctamente.
+MSG|21/06/2018 03:13:08 p. m.|Se creo correctamente el xml de cancelacion del archivo: 1YECK931201L8410220180012.xml
+MSG|21/06/2018 03:13:08 p. m.|Se agrego correctamente el sello al archivo de cancelacion
+MSG|21/06/2018 03:13:10 p. m.|Archivo cancelado correctamente
+MSG|21/06/2018 03:13:10 p. m.|DOC: 1YECK931201L8410220180012 | CODE: 201
+MSG|21/06/2018 03:13:10 p. m.|Se movió el archivo a la carpeta destino correctamente.
+FIN|21/06/2018 03:13:10 p. m.|DOC: 1YECK931201L8410220180012
+MSG|21/06/2018 03:13:10 p. m.|Comienza el procesamiento del archivo: 1YESJ890809UL110220180012.xml
+MSG|21/06/2018 03:13:11 p. m.|Se movió el archivo a la carpeta destino correctamente.
+MSG|21/06/2018 03:13:11 p. m.|Se creo correctamente el xml de cancelacion del archivo: 1YESJ890809UL110220180012.xml
+MSG|21/06/2018 03:13:11 p. m.|Se agrego correctamente el sello al archivo de cancelacion
+MSG|21/06/2018 03:13:13 p. m.|Archivo cancelado correctamente
+MSG|21/06/2018 03:13:13 p. m.|DOC: 1YESJ890809UL110220180012 | CODE: 201
+MSG|21/06/2018 03:13:13 p. m.|Se movió el archivo a la carpeta destino correctamente.
+FIN|21/06/2018 03:13:13 p. m.|DOC: 1YESJ890809UL110220180012

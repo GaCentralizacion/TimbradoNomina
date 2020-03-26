@@ -1,0 +1,102 @@
+Inicio archivo log 
+MSG|30/12/2017 11:10:43 a.m.|La carpeta 31122017 ya fue procesada
+MSG|30/12/2017 11:11:18 a.m.|Parametros asignados webconfig
+MSG|30/12/2017 11:11:18 a.m.|Parametros asignados Base de Datos
+MSG|30/12/2017 11:11:18 a.m.|directorio creado:C:\Nomina_Timbrado\Timbrados\Semanal\
+MSG|30/12/2017 11:11:18 a.m.|directorio creado:C:\Nomina_Timbrado\Timbrados\Semanal\007\
+MSG|30/12/2017 11:11:18 a.m.|directorio creado:C:\Nomina_Timbrado\Timbrados\Semanal\007\31122017\
+MSG|30/12/2017 11:11:18 a.m.|directorio creado:C:\Nomina_Timbrado\SinTimbrar\Semanal\
+MSG|30/12/2017 11:11:18 a.m.|directorio creado:C:\Nomina_Timbrado\SinTimbrar\Semanal\007\
+MSG|30/12/2017 11:11:18 a.m.|directorio creado:C:\Nomina_Timbrado\SinTimbrar\Semanal\007\31122017\
+STR|30/12/2017 11:11:18 a.m.|Comienza timbrado de carpeta:31122017
+MSG|30/12/2017 11:11:18 a.m.|Carpeta contiene:4 archivos.
+INI|30/12/2017 11:11:18 a.m.|Comienza Archivo:1CAIE84082648811220170011
+MSG|30/12/2017 11:11:26 a.m.|Nodo Impuesto Renombrado:1CAIE84082648811220170011
+MSG|30/12/2017 11:13:00 a.m.|Parametros asignados webconfig
+MSG|30/12/2017 11:13:00 a.m.|Parametros asignados Base de Datos
+STR|30/12/2017 11:13:00 a.m.|Comienza timbrado de carpeta:31122017
+MSG|30/12/2017 11:13:00 a.m.|Carpeta contiene:4 archivos.
+INI|30/12/2017 11:13:00 a.m.|Comienza Archivo:1CAIE84082648811220170011
+MSG|30/12/2017 11:13:00 a.m.|Nodo Impuesto Renombrado:1CAIE84082648811220170011
+ERR|30/12/2017 11:14:25 a.m.|DOC:1CAIE84082648811220170011|MET:CreateLayoutString|DES:Error de compilación XSLT.
+TIM|30/12/2017 11:14:25 a.m.|DOC:1CAIE84082648811220170011|COD:-1|DESC:NA
+FIN|30/12/2017 11:14:25 a.m.|DOC: 1CAIE84082648811220170011
+INI|30/12/2017 11:14:25 a.m.|Comienza Archivo:1MAMM92071525811220170011
+MSG|30/12/2017 11:14:25 a.m.|Nodo Impuesto Renombrado:1MAMM92071525811220170011
+MSG|30/12/2017 11:17:12 a.m.|Parametros asignados webconfig
+MSG|30/12/2017 11:17:12 a.m.|Parametros asignados Base de Datos
+STR|30/12/2017 11:17:12 a.m.|Comienza timbrado de carpeta:31122017
+MSG|30/12/2017 11:17:12 a.m.|Carpeta contiene:4 archivos.
+INI|30/12/2017 11:17:12 a.m.|Comienza Archivo:1CAIE84082648811220170011
+MSG|30/12/2017 11:17:12 a.m.|Nodo Impuesto Renombrado:1CAIE84082648811220170011
+MSG|30/12/2017 11:17:17 a.m.|Archivo Firmado:1CAIE84082648811220170011
+MSG|30/12/2017 11:17:18 a.m.|Archivo sellado:1CAIE84082648811220170011
+MSG|30/12/2017 11:17:21 a.m.|Archivo: 1CAIE84082648811220170011 |Result:CFDI33102 |Desc:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+TIM|30/12/2017 11:17:21 a.m.|DOC:1CAIE84082648811220170011|COD:CFDI33102|DESC:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+FIN|30/12/2017 11:17:21 a.m.|DOC: 1CAIE84082648811220170011
+INI|30/12/2017 11:17:21 a.m.|Comienza Archivo:1MAMM92071525811220170011
+MSG|30/12/2017 11:17:21 a.m.|Nodo Impuesto Renombrado:1MAMM92071525811220170011
+MSG|30/12/2017 11:17:23 a.m.|Archivo Firmado:1MAMM92071525811220170011
+MSG|30/12/2017 11:17:24 a.m.|Archivo sellado:1MAMM92071525811220170011
+MSG|30/12/2017 11:17:25 a.m.|Archivo: 1MAMM92071525811220170011 |Result:NOM155 |Desc:El valor del atributo FechaInicialPago no es menor o igual al valor del atributo FechaFinalPago.
+TIM|30/12/2017 11:17:25 a.m.|DOC:1MAMM92071525811220170011|COD:NOM155|DESC:El valor del atributo FechaInicialPago no es menor o igual al valor del atributo FechaFinalPago.
+FIN|30/12/2017 11:17:25 a.m.|DOC: 1MAMM92071525811220170011
+INI|30/12/2017 11:17:25 a.m.|Comienza Archivo:1MUHA8306057E941220170011
+MSG|30/12/2017 11:17:25 a.m.|Nodo Impuesto Renombrado:1MUHA8306057E941220170011
+MSG|30/12/2017 11:17:27 a.m.|Archivo Firmado:1MUHA8306057E941220170011
+MSG|30/12/2017 11:17:28 a.m.|Archivo sellado:1MUHA8306057E941220170011
+MSG|30/12/2017 11:17:29 a.m.|Archivo: 1MUHA8306057E941220170011 |Result:NOM155 |Desc:El valor del atributo FechaInicialPago no es menor o igual al valor del atributo FechaFinalPago.
+TIM|30/12/2017 11:17:29 a.m.|DOC:1MUHA8306057E941220170011|COD:NOM155|DESC:El valor del atributo FechaInicialPago no es menor o igual al valor del atributo FechaFinalPago.
+FIN|30/12/2017 11:17:29 a.m.|DOC: 1MUHA8306057E941220170011
+INI|30/12/2017 11:17:29 a.m.|Comienza Archivo:1SAMJ810419L4A21220170011
+MSG|30/12/2017 11:17:29 a.m.|Nodo Impuesto Renombrado:1SAMJ810419L4A21220170011
+MSG|30/12/2017 11:17:32 a.m.|Archivo Firmado:1SAMJ810419L4A21220170011
+MSG|30/12/2017 11:17:32 a.m.|Archivo sellado:1SAMJ810419L4A21220170011
+MSG|30/12/2017 11:17:34 a.m.|Archivo: 1SAMJ810419L4A21220170011 |Result:NOM155 |Desc:El valor del atributo FechaInicialPago no es menor o igual al valor del atributo FechaFinalPago.
+TIM|30/12/2017 11:17:34 a.m.|DOC:1SAMJ810419L4A21220170011|COD:NOM155|DESC:El valor del atributo FechaInicialPago no es menor o igual al valor del atributo FechaFinalPago.
+FIN|30/12/2017 11:17:34 a.m.|DOC: 1SAMJ810419L4A21220170011
+FNP|30/12/2017 11:17:34 a.m.|Carpeta:31122017|TotalDocs:4|Timbrados:0|NoTimbrados:4|Error:0
+END|30/12/2017 11:17:34 a.m.|Termina  timbrado de carpeta:31122017
+MSG|30/12/2017 11:19:51 a.m.|La carpeta 31122017 ya fue procesada
+MSG|30/12/2017 11:20:15 a.m.|Parametros asignados webconfig
+MSG|30/12/2017 11:20:15 a.m.|Parametros asignados Base de Datos
+STR|30/12/2017 11:20:15 a.m.|Comienza timbrado de carpeta:31122017
+MSG|30/12/2017 11:20:15 a.m.|Carpeta contiene:4 archivos.
+INI|30/12/2017 11:20:15 a.m.|Comienza Archivo:1CAIE84082648811220170011
+MSG|30/12/2017 11:20:16 a.m.|Nodo Impuesto Renombrado:1CAIE84082648811220170011
+MSG|30/12/2017 11:20:26 a.m.|Archivo Firmado:1CAIE84082648811220170011
+MSG|30/12/2017 11:21:07 a.m.|Archivo sellado:1CAIE84082648811220170011
+MSG|30/12/2017 12:33:33 p.m.|Parametros asignados webconfig
+MSG|30/12/2017 12:33:33 p.m.|Parametros asignados Base de Datos
+STR|30/12/2017 12:33:33 p.m.|Comienza timbrado de carpeta:31122017
+MSG|30/12/2017 12:33:33 p.m.|Carpeta contiene:4 archivos.
+INI|30/12/2017 12:33:33 p.m.|Comienza Archivo:1CAIE84082648811220170011
+MSG|30/12/2017 12:33:33 p.m.|Nodo Impuesto Renombrado:1CAIE84082648811220170011
+MSG|30/12/2017 12:33:39 p.m.|Archivo Firmado:1CAIE84082648811220170011
+MSG|30/12/2017 12:33:40 p.m.|Archivo sellado:1CAIE84082648811220170011
+MSG|30/12/2017 12:33:42 p.m.|Archivo: 1CAIE84082648811220170011 |Result:CFDI33102 |Desc:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+TIM|30/12/2017 12:33:42 p.m.|DOC:1CAIE84082648811220170011|COD:CFDI33102|DESC:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+FIN|30/12/2017 12:33:42 p.m.|DOC: 1CAIE84082648811220170011
+INI|30/12/2017 12:33:43 p.m.|Comienza Archivo:1MAMM92071525811220170011
+MSG|30/12/2017 12:33:43 p.m.|Nodo Impuesto Renombrado:1MAMM92071525811220170011
+MSG|30/12/2017 12:33:46 p.m.|Archivo Firmado:1MAMM92071525811220170011
+MSG|30/12/2017 12:33:46 p.m.|Archivo sellado:1MAMM92071525811220170011
+MSG|30/12/2017 12:33:48 p.m.|Archivo: 1MAMM92071525811220170011 |Result:NOM155 |Desc:El valor del atributo FechaInicialPago no es menor o igual al valor del atributo FechaFinalPago.
+TIM|30/12/2017 12:33:48 p.m.|DOC:1MAMM92071525811220170011|COD:NOM155|DESC:El valor del atributo FechaInicialPago no es menor o igual al valor del atributo FechaFinalPago.
+FIN|30/12/2017 12:33:48 p.m.|DOC: 1MAMM92071525811220170011
+INI|30/12/2017 12:33:48 p.m.|Comienza Archivo:1MUHA8306057E941220170011
+MSG|30/12/2017 12:33:48 p.m.|Nodo Impuesto Renombrado:1MUHA8306057E941220170011
+MSG|30/12/2017 12:33:50 p.m.|Archivo Firmado:1MUHA8306057E941220170011
+MSG|30/12/2017 12:33:51 p.m.|Archivo sellado:1MUHA8306057E941220170011
+MSG|30/12/2017 12:33:53 p.m.|Archivo: 1MUHA8306057E941220170011 |Result:NOM155 |Desc:El valor del atributo FechaInicialPago no es menor o igual al valor del atributo FechaFinalPago.
+TIM|30/12/2017 12:33:53 p.m.|DOC:1MUHA8306057E941220170011|COD:NOM155|DESC:El valor del atributo FechaInicialPago no es menor o igual al valor del atributo FechaFinalPago.
+FIN|30/12/2017 12:33:53 p.m.|DOC: 1MUHA8306057E941220170011
+INI|30/12/2017 12:33:53 p.m.|Comienza Archivo:1SAMJ810419L4A21220170011
+MSG|30/12/2017 12:33:53 p.m.|Nodo Impuesto Renombrado:1SAMJ810419L4A21220170011
+MSG|30/12/2017 12:33:55 p.m.|Archivo Firmado:1SAMJ810419L4A21220170011
+MSG|30/12/2017 12:33:56 p.m.|Archivo sellado:1SAMJ810419L4A21220170011
+MSG|30/12/2017 12:33:57 p.m.|Archivo: 1SAMJ810419L4A21220170011 |Result:NOM155 |Desc:El valor del atributo FechaInicialPago no es menor o igual al valor del atributo FechaFinalPago.
+TIM|30/12/2017 12:33:57 p.m.|DOC:1SAMJ810419L4A21220170011|COD:NOM155|DESC:El valor del atributo FechaInicialPago no es menor o igual al valor del atributo FechaFinalPago.
+FIN|30/12/2017 12:33:57 p.m.|DOC: 1SAMJ810419L4A21220170011
+FNP|30/12/2017 12:33:57 p.m.|Carpeta:31122017|TotalDocs:4|Timbrados:0|NoTimbrados:4|Error:0
+END|30/12/2017 12:33:57 p.m.|Termina  timbrado de carpeta:31122017

@@ -1,0 +1,125 @@
+Inicio archivo log 
+MSG|30/12/2017 02:08:56 p.m.|La carpeta 31122017 ya fue procesada
+MSG|30/12/2017 02:09:49 p.m.|Parametros asignados webconfig
+MSG|30/12/2017 02:09:49 p.m.|Parametros asignados Base de Datos
+MSG|30/12/2017 02:09:49 p.m.|directorio creado:C:\Nomina_Timbrado\Timbrados\Quincenal\003\31122017\
+MSG|30/12/2017 02:09:49 p.m.|directorio creado:C:\Nomina_Timbrado\SinTimbrar\Quincenal\003\31122017\
+STR|30/12/2017 02:09:49 p.m.|Comienza timbrado de carpeta:31122017
+MSG|30/12/2017 02:09:49 p.m.|Carpeta contiene:7 archivos.
+INI|30/12/2017 02:09:49 p.m.|Comienza Archivo:1BABJ8909159M111220170031
+MSG|30/12/2017 02:09:49 p.m.|Nodo Impuesto Renombrado:1BABJ8909159M111220170031
+MSG|30/12/2017 02:09:55 p.m.|Archivo Firmado:1BABJ8909159M111220170031
+MSG|30/12/2017 02:09:55 p.m.|Archivo sellado:1BABJ8909159M111220170031
+MSG|30/12/2017 02:09:57 p.m.|Archivo: 1BABJ8909159M111220170031 |Result:CFDI33102 |Desc:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+TIM|30/12/2017 02:09:57 p.m.|DOC:1BABJ8909159M111220170031|COD:CFDI33102|DESC:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+FIN|30/12/2017 02:09:57 p.m.|DOC: 1BABJ8909159M111220170031
+INI|30/12/2017 02:09:57 p.m.|Comienza Archivo:1CEGL900416M4611220170031
+MSG|30/12/2017 02:09:57 p.m.|Nodo Impuesto Renombrado:1CEGL900416M4611220170031
+MSG|30/12/2017 02:10:00 p.m.|Archivo Firmado:1CEGL900416M4611220170031
+MSG|30/12/2017 02:10:00 p.m.|Archivo sellado:1CEGL900416M4611220170031
+MSG|30/12/2017 02:10:02 p.m.|Archivo: 1CEGL900416M4611220170031 |Result:NOM155 |Desc:El valor del atributo FechaInicialPago no es menor o igual al valor del atributo FechaFinalPago.
+TIM|30/12/2017 02:10:02 p.m.|DOC:1CEGL900416M4611220170031|COD:NOM155|DESC:El valor del atributo FechaInicialPago no es menor o igual al valor del atributo FechaFinalPago.
+FIN|30/12/2017 02:10:02 p.m.|DOC: 1CEGL900416M4611220170031
+INI|30/12/2017 02:10:02 p.m.|Comienza Archivo:1HEFC880506V1611220170031
+MSG|30/12/2017 02:10:02 p.m.|Nodo Impuesto Renombrado:1HEFC880506V1611220170031
+MSG|30/12/2017 02:10:05 p.m.|Archivo Firmado:1HEFC880506V1611220170031
+MSG|30/12/2017 02:10:05 p.m.|Archivo sellado:1HEFC880506V1611220170031
+MSG|30/12/2017 02:10:07 p.m.|Archivo: 1HEFC880506V1611220170031 |Result:CFDI33102 |Desc:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+TIM|30/12/2017 02:10:07 p.m.|DOC:1HEFC880506V1611220170031|COD:CFDI33102|DESC:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+FIN|30/12/2017 02:10:07 p.m.|DOC: 1HEFC880506V1611220170031
+INI|30/12/2017 02:10:07 p.m.|Comienza Archivo:1RALB710908LD711220170031
+MSG|30/12/2017 02:10:07 p.m.|Nodo Impuesto Renombrado:1RALB710908LD711220170031
+MSG|30/12/2017 02:10:09 p.m.|Archivo Firmado:1RALB710908LD711220170031
+MSG|30/12/2017 02:10:10 p.m.|Archivo sellado:1RALB710908LD711220170031
+MSG|30/12/2017 02:10:11 p.m.|Archivo: 1RALB710908LD711220170031 |Result:NOM155 |Desc:El valor del atributo FechaInicialPago no es menor o igual al valor del atributo FechaFinalPago.
+TIM|30/12/2017 02:10:11 p.m.|DOC:1RALB710908LD711220170031|COD:NOM155|DESC:El valor del atributo FechaInicialPago no es menor o igual al valor del atributo FechaFinalPago.
+FIN|30/12/2017 02:10:11 p.m.|DOC: 1RALB710908LD711220170031
+INI|30/12/2017 02:10:12 p.m.|Comienza Archivo:1REGJ581206JQ511220170031
+MSG|30/12/2017 02:10:12 p.m.|Nodo Impuesto Renombrado:1REGJ581206JQ511220170031
+MSG|30/12/2017 02:10:14 p.m.|Archivo Firmado:1REGJ581206JQ511220170031
+MSG|30/12/2017 02:10:15 p.m.|Archivo sellado:1REGJ581206JQ511220170031
+MSG|30/12/2017 02:10:16 p.m.|Archivo: 1REGJ581206JQ511220170031 |Result:CFDI33102 |Desc:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+TIM|30/12/2017 02:10:16 p.m.|DOC:1REGJ581206JQ511220170031|COD:CFDI33102|DESC:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+FIN|30/12/2017 02:10:16 p.m.|DOC: 1REGJ581206JQ511220170031
+INI|30/12/2017 02:10:16 p.m.|Comienza Archivo:1ROMM740802TS531220170031
+MSG|30/12/2017 02:10:16 p.m.|Nodo Impuesto Renombrado:1ROMM740802TS531220170031
+MSG|30/12/2017 02:10:19 p.m.|Archivo Firmado:1ROMM740802TS531220170031
+MSG|30/12/2017 02:10:20 p.m.|Archivo sellado:1ROMM740802TS531220170031
+MSG|30/12/2017 02:10:21 p.m.|Archivo: 1ROMM740802TS531220170031 |Result:NOM155 |Desc:El valor del atributo FechaInicialPago no es menor o igual al valor del atributo FechaFinalPago.
+TIM|30/12/2017 02:10:21 p.m.|DOC:1ROMM740802TS531220170031|COD:NOM155|DESC:El valor del atributo FechaInicialPago no es menor o igual al valor del atributo FechaFinalPago.
+FIN|30/12/2017 02:10:21 p.m.|DOC: 1ROMM740802TS531220170031
+INI|30/12/2017 02:10:21 p.m.|Comienza Archivo:1SAGE900817JP511220170031
+MSG|30/12/2017 02:10:21 p.m.|Nodo Impuesto Renombrado:1SAGE900817JP511220170031
+MSG|30/12/2017 02:10:24 p.m.|Archivo Firmado:1SAGE900817JP511220170031
+MSG|30/12/2017 02:10:24 p.m.|Archivo sellado:1SAGE900817JP511220170031
+MSG|30/12/2017 02:10:26 p.m.|Archivo: 1SAGE900817JP511220170031 |Result:CFDI33102 |Desc:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+TIM|30/12/2017 02:10:26 p.m.|DOC:1SAGE900817JP511220170031|COD:CFDI33102|DESC:El resultado de la digesti&oacute;n debe ser igual al resultado de la desencripci&oacute;n del sello.
+FIN|30/12/2017 02:10:26 p.m.|DOC: 1SAGE900817JP511220170031
+FNP|30/12/2017 02:10:26 p.m.|Carpeta:31122017|TotalDocs:7|Timbrados:0|NoTimbrados:7|Error:0
+END|30/12/2017 02:10:26 p.m.|Termina  timbrado de carpeta:31122017
+MSG|30/12/2017 02:14:45 p.m.|Parametros asignados webconfig
+MSG|30/12/2017 02:14:45 p.m.|Parametros asignados Base de Datos
+STR|30/12/2017 02:14:45 p.m.|Comienza timbrado de carpeta:31122017
+MSG|30/12/2017 02:14:45 p.m.|Carpeta contiene:0 archivos.
+FNP|30/12/2017 02:14:45 p.m.|Carpeta:31122017|TotalDocs:0|Timbrados:0|NoTimbrados:0|Error:0
+END|30/12/2017 02:14:45 p.m.|Termina  timbrado de carpeta:31122017
+MSG|30/12/2017 02:15:42 p.m.|La carpeta 31122017 ya fue procesada
+MSG|30/12/2017 02:15:59 p.m.|Parametros asignados webconfig
+MSG|30/12/2017 02:15:59 p.m.|Parametros asignados Base de Datos
+STR|30/12/2017 02:15:59 p.m.|Comienza timbrado de carpeta:31122017
+MSG|30/12/2017 02:15:59 p.m.|Carpeta contiene:7 archivos.
+INI|30/12/2017 02:15:59 p.m.|Comienza Archivo:1BABJ8909159M111220170031
+MSG|30/12/2017 02:15:59 p.m.|Nodo Impuesto Renombrado:1BABJ8909159M111220170031
+MSG|30/12/2017 02:16:05 p.m.|Archivo Firmado:1BABJ8909159M111220170031
+MSG|30/12/2017 02:16:05 p.m.|Archivo sellado:1BABJ8909159M111220170031
+MSG|30/12/2017 02:16:09 p.m.|Ruta Archivo timbrado:C:\Nomina_Timbrado\Timbrados\Quincenal\003\31122017\1BABJ8909159M111220170031tim.xml
+MSG|30/12/2017 02:16:17 p.m.|Archivo PDF Creado para:1BABJ8909159M111220170031
+TIM|30/12/2017 02:16:17 p.m.|DOC:1BABJ8909159M111220170031|COD:100|DESC:CFDI timbrado correctamente.
+FIN|30/12/2017 02:16:17 p.m.|DOC: 1BABJ8909159M111220170031
+INI|30/12/2017 02:16:17 p.m.|Comienza Archivo:1CEGL900416M4611220170031
+MSG|30/12/2017 02:16:17 p.m.|Nodo Impuesto Renombrado:1CEGL900416M4611220170031
+MSG|30/12/2017 02:16:20 p.m.|Archivo Firmado:1CEGL900416M4611220170031
+MSG|30/12/2017 02:16:20 p.m.|Archivo sellado:1CEGL900416M4611220170031
+MSG|30/12/2017 02:16:21 p.m.|Archivo: 1CEGL900416M4611220170031 |Result:NOM155 |Desc:El valor del atributo FechaInicialPago no es menor o igual al valor del atributo FechaFinalPago.
+TIM|30/12/2017 02:16:21 p.m.|DOC:1CEGL900416M4611220170031|COD:NOM155|DESC:El valor del atributo FechaInicialPago no es menor o igual al valor del atributo FechaFinalPago.
+FIN|30/12/2017 02:16:21 p.m.|DOC: 1CEGL900416M4611220170031
+INI|30/12/2017 02:16:21 p.m.|Comienza Archivo:1HEFC880506V1611220170031
+MSG|30/12/2017 02:16:21 p.m.|Nodo Impuesto Renombrado:1HEFC880506V1611220170031
+MSG|30/12/2017 02:16:25 p.m.|Archivo Firmado:1HEFC880506V1611220170031
+MSG|30/12/2017 02:16:25 p.m.|Archivo sellado:1HEFC880506V1611220170031
+MSG|30/12/2017 02:16:28 p.m.|Ruta Archivo timbrado:C:\Nomina_Timbrado\Timbrados\Quincenal\003\31122017\1HEFC880506V1611220170031tim.xml
+MSG|30/12/2017 02:16:37 p.m.|Archivo PDF Creado para:1HEFC880506V1611220170031
+TIM|30/12/2017 02:16:37 p.m.|DOC:1HEFC880506V1611220170031|COD:100|DESC:CFDI timbrado correctamente.
+FIN|30/12/2017 02:16:37 p.m.|DOC: 1HEFC880506V1611220170031
+INI|30/12/2017 02:16:37 p.m.|Comienza Archivo:1RALB710908LD711220170031
+MSG|30/12/2017 02:16:37 p.m.|Nodo Impuesto Renombrado:1RALB710908LD711220170031
+MSG|30/12/2017 02:16:39 p.m.|Archivo Firmado:1RALB710908LD711220170031
+MSG|30/12/2017 02:16:40 p.m.|Archivo sellado:1RALB710908LD711220170031
+MSG|30/12/2017 02:16:41 p.m.|Archivo: 1RALB710908LD711220170031 |Result:NOM155 |Desc:El valor del atributo FechaInicialPago no es menor o igual al valor del atributo FechaFinalPago.
+TIM|30/12/2017 02:16:41 p.m.|DOC:1RALB710908LD711220170031|COD:NOM155|DESC:El valor del atributo FechaInicialPago no es menor o igual al valor del atributo FechaFinalPago.
+FIN|30/12/2017 02:16:41 p.m.|DOC: 1RALB710908LD711220170031
+INI|30/12/2017 02:16:42 p.m.|Comienza Archivo:1REGJ581206JQ511220170031
+MSG|30/12/2017 02:16:42 p.m.|Nodo Impuesto Renombrado:1REGJ581206JQ511220170031
+MSG|30/12/2017 02:16:44 p.m.|Archivo Firmado:1REGJ581206JQ511220170031
+MSG|30/12/2017 02:16:45 p.m.|Archivo sellado:1REGJ581206JQ511220170031
+MSG|30/12/2017 02:16:47 p.m.|Ruta Archivo timbrado:C:\Nomina_Timbrado\Timbrados\Quincenal\003\31122017\1REGJ581206JQ511220170031tim.xml
+MSG|30/12/2017 02:16:55 p.m.|Archivo PDF Creado para:1REGJ581206JQ511220170031
+TIM|30/12/2017 02:16:55 p.m.|DOC:1REGJ581206JQ511220170031|COD:100|DESC:CFDI timbrado correctamente.
+FIN|30/12/2017 02:16:55 p.m.|DOC: 1REGJ581206JQ511220170031
+INI|30/12/2017 02:16:55 p.m.|Comienza Archivo:1ROMM740802TS531220170031
+MSG|30/12/2017 02:16:55 p.m.|Nodo Impuesto Renombrado:1ROMM740802TS531220170031
+MSG|30/12/2017 02:16:58 p.m.|Archivo Firmado:1ROMM740802TS531220170031
+MSG|30/12/2017 02:16:59 p.m.|Archivo sellado:1ROMM740802TS531220170031
+MSG|30/12/2017 02:17:00 p.m.|Archivo: 1ROMM740802TS531220170031 |Result:NOM155 |Desc:El valor del atributo FechaInicialPago no es menor o igual al valor del atributo FechaFinalPago.
+TIM|30/12/2017 02:17:00 p.m.|DOC:1ROMM740802TS531220170031|COD:NOM155|DESC:El valor del atributo FechaInicialPago no es menor o igual al valor del atributo FechaFinalPago.
+FIN|30/12/2017 02:17:00 p.m.|DOC: 1ROMM740802TS531220170031
+INI|30/12/2017 02:17:00 p.m.|Comienza Archivo:1SAGE900817JP511220170031
+MSG|30/12/2017 02:17:00 p.m.|Nodo Impuesto Renombrado:1SAGE900817JP511220170031
+MSG|30/12/2017 02:17:03 p.m.|Archivo Firmado:1SAGE900817JP511220170031
+MSG|30/12/2017 02:17:03 p.m.|Archivo sellado:1SAGE900817JP511220170031
+MSG|30/12/2017 02:17:06 p.m.|Ruta Archivo timbrado:C:\Nomina_Timbrado\Timbrados\Quincenal\003\31122017\1SAGE900817JP511220170031tim.xml
+MSG|30/12/2017 02:17:14 p.m.|Archivo PDF Creado para:1SAGE900817JP511220170031
+TIM|30/12/2017 02:17:14 p.m.|DOC:1SAGE900817JP511220170031|COD:100|DESC:CFDI timbrado correctamente.
+FIN|30/12/2017 02:17:14 p.m.|DOC: 1SAGE900817JP511220170031
+FNP|30/12/2017 02:17:14 p.m.|Carpeta:31122017|TotalDocs:7|Timbrados:4|NoTimbrados:3|Error:0
+END|30/12/2017 02:17:14 p.m.|Termina  timbrado de carpeta:31122017
