@@ -37,3 +37,9 @@ C:\fal\desarrollo\nomina\cambio06032019\TimbradoNomina\CommonFunctions\obj\Debug
 C:\fal\desarrollo\nomina\cambio06032019\TimbradoNomina\CommonFunctions\obj\Debug\CommonFunctions.csproj.CoreCompileInputs.cache
 C:\fal\desarrollo\nomina\cambio06032019\TimbradoNomina\CommonFunctions\obj\Debug\CommonFunctions.dll
 C:\fal\desarrollo\nomina\cambio06032019\TimbradoNomina\CommonFunctions\obj\Debug\CommonFunctions.pdb
+C:\Users\Dell\Documents\GitHub\NominasBack\CommonFunctions\bin\Debug\CommonFunctions.dll
+C:\Users\Dell\Documents\GitHub\NominasBack\CommonFunctions\bin\Debug\CommonFunctions.pdb
+C:\Users\Dell\Documents\GitHub\NominasBack\CommonFunctions\obj\Debug\CommonFunctions.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\GitHub\NominasBack\CommonFunctions\obj\Debug\CommonFunctions.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\GitHub\NominasBack\CommonFunctions\obj\Debug\CommonFunctions.dll
+C:\Users\Dell\Documents\GitHub\NominasBack\CommonFunctions\obj\Debug\CommonFunctions.pdb
